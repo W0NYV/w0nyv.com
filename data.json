@@ -124,11 +124,11 @@
       "name": "Compofiller Studio.md",
       "slug": "Compofiller Studio",
       "title": "Compofiller Studio",
-      "content": "<!-- updated: 2026-01-17T20:46:26 -->\n#public\n[img http://www.kameli.net/compofillerstudio/Compofiller_Studio_banner.jpg]\n\nhttp://www.kameli.net/compofillerstudio/http://www.kameli.net/compofillerstudio/\n\n[[4klang]] music + [[GLSL]] shader = [[4k intro]]\nほんまにそう",
-      "preview": "[img http://www.kameli.net/compofillerstudio/Compofiller_Studio_banner.jpg]\nhttp://www.kameli.net/compofillerstudio/http://www.kameli.net/compofillerstudio/\n[[4klang]] music + [[GLSL]] shader = [[4k intro]]",
-      "modifiedAt": 1768650386000,
+      "content": "<!-- updated: 2026-01-18T16:31:37 -->\n#public\n[img https://i.gyazo.com/4fe82fd140825a4f5e6cff7f36b0469d.jpg]\n\nhttp://www.kameli.net/compofillerstudio/http://www.kameli.net/compofillerstudio/\n\n[[4klang]] music + [[GLSL]] shader = [[4k intro]]\nほんまにそう",
+      "preview": "[img https://i.gyazo.com/4fe82fd140825a4f5e6cff7f36b0469d.jpg]\nhttp://www.kameli.net/compofillerstudio/http://www.kameli.net/compofillerstudio/\n[[4klang]] music + [[GLSL]] shader = [[4k intro]]",
+      "modifiedAt": 1768721497000,
       "linkCount": 0,
-      "thumbnailUrl": "http://www.kameli.net/compofillerstudio/Compofiller_Studio_banner.jpg"
+      "thumbnailUrl": "https://i.gyazo.com/4fe82fd140825a4f5e6cff7f36b0469d.jpg"
     },
     {
       "name": "Cosense.md",
@@ -324,11 +324,11 @@
       "name": "Simple Web Server.md",
       "slug": "Simple Web Server",
       "title": "Simple Web Server",
-      "content": "<!-- updated: 2026-01-13T22:14:31 -->\n#public\nhttps://simplewebserver.org/\n\nローカルに Web サーバ立ち上げる君\n以前は chrome 拡張として提供されていたが、こちらは提供終了",
-      "preview": "https://simplewebserver.org/\nローカルに Web サーバ立ち上げる君\n以前は chrome 拡張として提供されていたが、こちらは提供終了",
-      "modifiedAt": 1768310071000,
+      "content": "<!-- updated: 2026-01-18T16:34:29 -->\n#public\n[img https://raw.githubusercontent.com/terreng/simple-web-server/main/images/icon.png]\nhttps://simplewebserver.org/\n\nローカルに Web サーバ立ち上げる君\n以前は chrome 拡張として提供されていたが、こちらは提供終了",
+      "preview": "[img https://raw.githubusercontent.com/terreng/simple-web-server/main/images/icon.png]\nhttps://simplewebserver.org/\nローカルに Web サーバ立ち上げる君",
+      "modifiedAt": 1768721669000,
       "linkCount": 0,
-      "thumbnailUrl": null
+      "thumbnailUrl": "https://raw.githubusercontent.com/terreng/simple-web-server/main/images/icon.png"
     },
     {
       "name": "Steph Ango.md",
@@ -762,7 +762,7 @@
       {
         "slug": "Compofiller Studio",
         "title": "Compofiller Studio",
-        "preview": "[img http://www.kameli.net/compofillerstudio/Compofiller_Studio_banner.jpg]\nhttp://www.kameli.net/compofillerstudio/http://www.kameli.net/compofillerstudio/\n[[4klang]] music + [[GLSL]] shader = [[4k intro]]"
+        "preview": "[img https://i.gyazo.com/4fe82fd140825a4f5e6cff7f36b0469d.jpg]\nhttp://www.kameli.net/compofillerstudio/http://www.kameli.net/compofillerstudio/\n[[4klang]] music + [[GLSL]] shader = [[4k intro]]"
       },
       {
         "slug": "franz",
@@ -784,7 +784,7 @@
       {
         "slug": "Compofiller Studio",
         "title": "Compofiller Studio",
-        "preview": "[img http://www.kameli.net/compofillerstudio/Compofiller_Studio_banner.jpg]\nhttp://www.kameli.net/compofillerstudio/http://www.kameli.net/compofillerstudio/\n[[4klang]] music + [[GLSL]] shader = [[4k intro]]"
+        "preview": "[img https://i.gyazo.com/4fe82fd140825a4f5e6cff7f36b0469d.jpg]\nhttp://www.kameli.net/compofillerstudio/http://www.kameli.net/compofillerstudio/\n[[4klang]] music + [[GLSL]] shader = [[4k intro]]"
       },
       {
         "slug": "franz",
