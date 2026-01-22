@@ -167,8 +167,18 @@
       "content": "<!-- updated: 2026-01-17T18:14:12 -->\n#public\n[img https://gyazo.com/e3c1d0218d873b4802b37a75f65ad45f/max_size/1000]\nhttps://scrapbox.io/\n\n[[Helpfeel]] による [[Wiki]] 作成サービス\n旧名は [[Scrapbox]]",
       "preview": "[img https://gyazo.com/e3c1d0218d873b4802b37a75f65ad45f/max_size/1000]\nhttps://scrapbox.io/\n[[Helpfeel]] による [[Wiki]] 作成サービス",
       "modifiedAt": 1768641252000,
-      "linkCount": 1,
+      "linkCount": 2,
       "thumbnailUrl": "https://gyazo.com/e3c1d0218d873b4802b37a75f65ad45f/max_size/1000"
+    },
+    {
+      "name": "CSharp _ Performance Improvements シリーズ.md",
+      "slug": "CSharp _ Performance Improvements シリーズ",
+      "title": "CSharp : Performance Improvements シリーズ",
+      "content": "<!-- updated: 2026-01-22T22:16:21 -->\n<!-- title: CSharp : Performance Improvements シリーズ -->\n#public\n\nこのバージョンの [[.NET]] からパフォーマンスがどんな向上をしたの？が書かれてる記事\n新しいバージョンが出るたびに投稿されてそう\n\n読み応えたっぷり\n\n- `.NET 10` \n  - https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/\n- `.NET 9`\n  - https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/",
+      "preview": "このバージョンの [[.NET]] からパフォーマンスがどんな向上をしたの？が書かれてる記事\n新しいバージョンが出るたびに投稿されてそう\n読み応えたっぷり",
+      "modifiedAt": 1769087781000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "Demo.md",
@@ -531,12 +541,22 @@
       "thumbnailUrl": null
     },
     {
+      "name": "Unity _ シェーダに渡すテクスチャのデフォルト値.md",
+      "slug": "Unity _ シェーダに渡すテクスチャのデフォルト値",
+      "title": "Unity : シェーダに渡すテクスチャのデフォルト値",
+      "content": "<!-- updated: 2026-01-22T22:12:37 -->\n<!-- title: Unity : シェーダに渡すテクスチャのデフォルト値 -->\n#public\n[[ShaderLab]] はプロパティからデフォルト値を設定できる\nhttps://docs.unity3d.com/Manual/SL-Properties.html\nなんでこれ `(0, 0, 0, 0)` ないんですかね\n\n以下、 Unity 6000.0.41f1 BRP での検証\nデフォルト値になにも指定しなかったら `UnityDefault2D` というテクスチャが割り当てられる\n[img https://i.gyazo.com/3a7af34af6c7d4d640bee8b3ca66db87.png]\n[[RenderDoc]] で `UnityDefault2D` の値見てみるとこんな感じ\n[img https://i.gyazo.com/39751244f6b42e5dbd1a64e5bca53d6f.png]\n> If you leave the string empty or enter an invalid value, it defaults to “gray”.\nと先ほどのリファレンスには書いてるが、\n見た目的にはグレーなんだけど ShaderLab でデフォルト値に指定できる `gray` とは異なる\n\n`UnityDefault2D` は [[sRGB]] に変換すると `(0.5, 0.5, 0.5, 0.729...)` になり、これは誰がどう嬉しいんですか\n",
+      "preview": "[[ShaderLab]] はプロパティからデフォルト値を設定できる\nhttps://docs.unity3d.com/Manual/SL-Properties.html\nなんでこれ `(0, 0, 0, 0)` ないんですかね",
+      "modifiedAt": 1769087557000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://i.gyazo.com/3a7af34af6c7d4d640bee8b3ca66db87.png"
+    },
+    {
       "name": "Vanitas vanitatum, et omnia vanitas..md",
       "slug": "Vanitas vanitatum, et omnia vanitas.",
       "title": "Vanitas vanitatum, et omnia vanitas.",
-      "content": "<!-- updated: 2026-01-17T18:46:31 -->\n#public\n> コヘレトは言う。なんという空しさ、なんという空しさ、すべては空しい。\nhttps://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%BF%E3%82%B9\n[[ヴァニタス]]\n\n[[白州アズサ]]がよく引用するが、その先の発言もみられる\n[img https://gyazo.com/1f7822a3a79ab5c22dcf9b2447da8665/max_size/1000]\nポジティブな[[ニヒリズム]]？\n\nhttps://scrapbox.io/yozba/%E3%81%9F%E3%81%A8%E3%81%88%E5%85%A8%E3%81%A6%E3%81%8C%E8%99%9A%E3%81%97%E3%81%84%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E3%80%81%E3%81%9D%E3%82%8C%E3%81%AF%E4%BB%8A%E6%97%A5%E6%9C%80%E5%96%84%E3%82%92%E5%B0%BD%E3%81%8F%E3%81%95%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%81%AB%E3%81%AF%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84",
+      "content": "<!-- updated: 2026-01-20T11:39:51 -->\n#public\n> コヘレトは言う。なんという空しさ、なんという空しさ、すべては空しい。\nhttps://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%BF%E3%82%B9\n[[ヴァニタス]]\n\n[[白州アズサ]]がよく引用するが、その先の発言もみられる\n[img https://gyazo.com/1f7822a3a79ab5c22dcf9b2447da8665/max_size/1000]\nポジティブな[[ニヒリズム]]？\n\n[https://scrapbox.io/yozba/%E3%81%9F%E3%81%A8%E3%81%88%E5%85%A8%E3%81%A6%E3%81%8C%E8%99%9A%E3%81%97%E3%81%84%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E3%80%81%E3%81%9D%E3%82%8C%E3%81%AF%E4%BB%8A%E6%97%A5%E6%9C%80%E5%96%84%E3%82%92%E5%B0%BD%E3%81%8F%E3%81%95%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%81%AB%E3%81%AF%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84 /yozba/たとえ全てが虚しいものだとしても、それは今日最善を尽くさない理由にはならない]",
       "preview": "> コヘレトは言う。なんという空しさ、なんという空しさ、すべては空しい。\nhttps://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%BF%E3%82%B9\n[[ヴァニタス]]",
-      "modifiedAt": 1768643191000,
+      "modifiedAt": 1768876791000,
       "linkCount": 0,
       "thumbnailUrl": "https://gyazo.com/1f7822a3a79ab5c22dcf9b2447da8665/max_size/1000"
     },
@@ -651,12 +671,32 @@
       "thumbnailUrl": "https://cs1.animestore.docomo.ne.jp/anime/1/00/05/zqEITQ/10005_1_1.png?1550563317000"
     },
     {
+      "name": "やってみる価値はありますぜ.md",
+      "slug": "やってみる価値はありますぜ",
+      "title": "やってみる価値はありますぜ",
+      "content": "<!-- updated: 2026-01-23T01:02:09 -->\n#public\n>地球が駄目になるかならないかなんだ！やってみる価値はありますぜ！\n\nhttps://dic.pixiv.net/a/%E5%9C%B0%E7%90%83%E3%81%8C%E9%A7%84%E7%9B%AE%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%8B%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%81%8B%E3%81%AA%E3%82%93%E3%81%A0%21\n\n逆シャアで一番好きなセリフ\n\n小学生の時に[[ガンダム無双2]]のムービーシーンで聞いて諦めの悪さ、意地汚さにえらく感動した記憶がある\n[yt https://youtu.be/z9s-ulghEiw?si=65hCy_DSXs3mFqf7&t=1037]",
+      "preview": ">地球が駄目になるかならないかなんだ！やってみる価値はありますぜ！\nhttps://dic.pixiv.net/a/%E5%9C%B0%E7%90%83%E3%81%8C%E9%A7%84%E7%9B%AE%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%8B%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%81%8B%E3%81%AA%E3%82%93%E3%81%A0%21\n逆シャアで一番好きなセリフ",
+      "modifiedAt": 1769097729000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/z9s-ulghEiw/hqdefault.jpg"
+    },
+    {
       "name": "よりよく消費するために生産する.md",
       "slug": "よりよく消費するために生産する",
       "title": "よりよく消費するために生産する",
       "content": "<!-- updated: 2026-01-17T17:51:41 -->\n#public\nプロコンシューマーというない単語を最近頭に思い浮かべがち\n\nすでに似たような言葉があるっぽい\nhttps://ja.wikipedia.org/wiki/%E7%94%9F%E7%94%A3%E6%B6%88%E8%B2%BB%E8%80%85\n\nしかし、考えてるのはこっちの方\nhttps://baku89.com/ja/June%2026%EF%BC%8C%202024%EF%BC%9A%20%E5%92%8C%E5%A3%B0\n> よりよく消費するために生産する\nいい言葉なのでこっちをページのタイトルに変更\nなんでも手ごね as literacy ですね\n[[実際にそれをする]]ことでよりよくそれについて理解できることがある\n少なくとも見え方は変わりそう\n",
       "preview": "プロコンシューマーというない単語を最近頭に思い浮かべがち\nすでに似たような言葉があるっぽい\nhttps://ja.wikipedia.org/wiki/%E7%94%9F%E7%94%A3%E6%B6%88%E8%B2%BB%E8%80%85",
       "modifiedAt": 1768639901000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "アウトライン編集.md",
+      "slug": "アウトライン編集",
+      "title": "アウトライン編集",
+      "content": "<!-- updated: 2026-01-21T21:04:41 -->\n#public\nhttps://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5\n\n各行をブロックと見立ててテキストの編集を行う的な\n構造を意識したテキストを書くのに使用しそう\n目次とか？[[Cosense]] のような箇条書き構造とか？\n[https://scrapbox.io/shokai/%E9%A0%AD%E3%81%AB%E3%82%B9%E3%83%83%E3%81%A8%E5%85%A5%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B%E7%AE%87%E6%9D%A1%E6%9B%B8%E3%81%8D%E3%81%AE%E6%A7%8B%E6%88%90%E6%96%B9%E6%B3%95 /shokai/頭にスッと入ってくる箇条書きの構成方法]\n\n[https://scrapbox.io/shokai/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E7%B7%A8%E9%9B%86%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF /shokai/アウトライン編集テクニック]\nCosense にもアウトライナに搭載されているような機能がある",
+      "preview": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5\n各行をブロックと見立ててテキストの編集を行う的な\n構造を意識したテキストを書くのに使用しそう",
+      "modifiedAt": 1768997081000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -729,6 +769,16 @@
       "modifiedAt": 1768650082000,
       "linkCount": 0,
       "thumbnailUrl": "https://gyazo.com/2c3665b2d156c7a21ef7dc57b83bcc64/max_size/1000"
+    },
+    {
+      "name": "トラックバック.md",
+      "slug": "トラックバック",
+      "title": "トラックバック",
+      "content": "<!-- updated: 2026-01-22T21:58:33 -->\n#public\nhttps://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%83%83%E3%82%AF",
+      "preview": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%83%83%E3%82%AF",
+      "modifiedAt": 1769086713000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "ニンテンドーダイレクト 2008.3.2 FM Slideshow (Sparkle).md",
@@ -954,9 +1004,9 @@
       "name": "飯島ゆんのようにしか生きられない.md",
       "slug": "飯島ゆんのようにしか生きられない",
       "title": "飯島ゆんのようにしか生きられない",
-      "content": "<!-- updated: 2026-01-17T20:09:48 -->\n#public\nhttps://siusiu.hatenablog.jp/entry/2018/10/08/220207\n\nhttps://x.com/neuecc/status/1107350738953355264\n\n[[neuecc]] 絶賛\n\nhttps://scrapbox.io/onmk/%E9%A3%AF%E5%B3%B6%E3%82%86%E3%82%93%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%8B%E7%94%9F%E3%81%8D%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84",
-      "preview": "https://siusiu.hatenablog.jp/entry/2018/10/08/220207\nhttps://x.com/neuecc/status/1107350738953355264\n[[neuecc]] 絶賛",
-      "modifiedAt": 1768648188000,
+      "content": "<!-- updated: 2026-01-20T11:40:56 -->\n#public\nhttps://siusiu.hatenablog.jp/entry/2018/10/08/220207\n\nhttps://x.com/neuecc/status/1107350738953355264\n>まぁ素晴らしい。読み方が。文章が。 / “飯島ゆんのようにしか生きられない - 当たり判定ゼロ” http://htn.to/iih9ibgPZwX\n[[neuecc]] 絶賛\n\n[https://scrapbox.io/onmk/%E9%A3%AF%E5%B3%B6%E3%82%86%E3%82%93%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%8B%E7%94%9F%E3%81%8D%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84 /onmk/飯島ゆんのようにしか生きられない]",
+      "preview": "https://siusiu.hatenablog.jp/entry/2018/10/08/220207\nhttps://x.com/neuecc/status/1107350738953355264\n>まぁ素晴らしい。読み方が。文章が。 / “飯島ゆんのようにしか生きられない - 当たり判定ゼロ” http://htn.to/iih9ibgPZwX",
+      "modifiedAt": 1768876856000,
       "linkCount": 0,
       "thumbnailUrl": null
     }
@@ -1040,11 +1090,17 @@
     "Compofiller Studio": [],
     "Cosense": [
       {
+        "slug": "アウトライン編集",
+        "title": "アウトライン編集",
+        "preview": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5\n各行をブロックと見立ててテキストの編集を行う的な\n構造を意識したテキストを書くのに使用しそう"
+      },
+      {
         "slug": "山口駿",
         "title": "山口駿",
         "preview": "https://oumlr.com/\n[[oumlr]] / [[_ihcanan]]\nDirector, CG / Motion Designer"
       }
     ],
+    "CSharp _ Performance Improvements シリーズ": [],
     "Demo": [
       {
         "slug": "4k intro",
@@ -1115,7 +1171,7 @@
       {
         "slug": "飯島ゆんのようにしか生きられない",
         "title": "飯島ゆんのようにしか生きられない",
-        "preview": "https://siusiu.hatenablog.jp/entry/2018/10/08/220207\nhttps://x.com/neuecc/status/1107350738953355264\n[[neuecc]] 絶賛"
+        "preview": "https://siusiu.hatenablog.jp/entry/2018/10/08/220207\nhttps://x.com/neuecc/status/1107350738953355264\n>まぁ素晴らしい。読み方が。文章が。 / “飯島ゆんのようにしか生きられない - 当たり判定ゼロ” http://htn.to/iih9ibgPZwX"
       }
     ],
     "Number One _ Another One": [],
@@ -1131,6 +1187,7 @@
     "Testing": [],
     "The ten rules of techno": [],
     "The Useless Web": [],
+    "Unity _ シェーダに渡すテクスチャのデフォルト値": [],
     "Vanitas vanitatum, et omnia vanitas.": [],
     "VRDG+H _1 - 2016-03-26": [],
     "Wackelkontakt": [],
@@ -1170,7 +1227,9 @@
         "preview": "このフレーズをどこで聞いたか忘れてしまったけど、同意\n本はなにか別のものに置き換えてもおｋ\n読み手の経験によって本が面白くなったり面白くなくなったりする"
       }
     ],
+    "やってみる価値はありますぜ": [],
     "よりよく消費するために生産する": [],
+    "アウトライン編集": [],
     "アルバム単位で聴くという行為": [],
     "エンゼルフィッシュ": [],
     "キャレット": [],
@@ -1178,6 +1237,7 @@
     "シェル": [],
     "シャープネルかけたい……": [],
     "ジャムいね": [],
+    "トラックバック": [],
     "ニンテンドーダイレクト 2008.3.2 FM Slideshow (Sparkle)": [],
     "ネオンライト構文": [],
     "ファイルが大事": [],
