@@ -141,6 +141,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/Vb7c359lRqg/hqdefault.jpg"
     },
     {
+      "name": "ATA.md",
+      "slug": "ATA",
+      "title": "ATA",
+      "content": "<!-- updated: 2026-01-25T13:27:45 -->\n#public\n[yt https://www.youtube.com/watch?v=DEzuZlUB3zM]\n\n[[橋本麦]]",
+      "preview": "[yt https://www.youtube.com/watch?v=DEzuZlUB3zM]\n[[橋本麦]]",
+      "modifiedAt": 1769315265000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/DEzuZlUB3zM/hqdefault.jpg"
+    },
+    {
       "name": "azumanga click house.md",
       "slug": "azumanga click house",
       "title": "azumanga click house",
@@ -294,9 +304,9 @@
       "name": "draw()_ について言及のある記事.md",
       "slug": "draw()_ について言及のある記事",
       "title": "draw(); について言及のある記事",
-      "content": "<!-- updated: 2026-01-19T23:15:07 -->\n<!-- title: draw(); について言及のある記事 -->\n#public\n\n[[draw();]] についての記事\n\n順不同\n\n- [https://shampagne.hatenablog.com/entry/20241117/1731850513 SESSIONS × draw(); でVJした話]\n- [https://note.com/redmond418/n/n9e9a66d24c5c VJはいいぞって話と今年やったVJ全部の振り返り2025]\n- [https://sdhizumi.blogspot.com/2025/12/sessions-2025-music-competition.html?spref=tw SESSIONS 2025 Music Competitionに参加]\n- [https://subm.notion.site/VJ-VJ-2cbc57c3c854809b977fced46dc9305d 寿司VJと散歩VJの状態管理]\n- [https://note.com/mememiya/n/n7284ce7b9d73?sub_rt=share_sb ジェネVJ初心者が『draw(tokyo);#3』でVJしたので振り返り&ざっくり解説]\n- [https://www.sp4ghet.com/blog/lookback2024 2024年を振り返る]\n- [https://note.com/fond_tapir5987/n/n4d23f357dec2?sub_rt=share_sb 自分がやりたい表現をやるためにジェネVJをしよう！（draw(tokyo);#3を経て）]\n- [https://note.com/calm_sorrel2417/n/nb19773803650?sub_rt=share_pw 寿司コントローラーを作った話]\n- [https://note.com/syoronpotabetai/n/n084c25b82d5b 好きなビジュアルを出すためにジェネVJをしよう draw(tokyo);#3 振り返り]\n- [https://phi16.hatenablog.com/entry/2025/10/18/190456 記録 251018　draw の V をやりました]\n  - [https://phi16.hatenablog.com/entry/2025/10/20/202015 記録 251020　draw の V の解説]\n- [https://note.com/nuskey/n/nd865349d4877?sub_rt=share_pw draw(tokyo); #3 振り返り]\n- [https://note.com/monoton_music/n/n9275b3cb8870 draw(tokyo); #3 – VJ Syoronpo. b2b monoton / B2BVJシステムの構成とイベント後記]\n- [https://note.com/djsharpnel/n/n91d475e8f728 DJ SHARPNELマシンライブin日本科学未来館SESSIONS x draw();の解説]\n- [https://gam0022.net/blog/2025/04/16/draw2/ draw(tokyo); #2でVJデビュー！（GLSLライブコーディング）]\n- [https://kinakomoti321.hatenablog.com/entry/2025/04/23/022256 draw(tokyo); #2 レポート]\n- [https://butadiene.hatenablog.com/entry/2025/03/24/233041 自分の撮った写真数千枚を使って、リアルタイムに画像を生成してくれるVJツールを作った話]\n- [https://shivaduke28.hatenablog.com/entry/2025/03/25/205506 Rectorについて]\n- [https://scrapbox.io/shivaduke28/20250322_draw(tokyo);_%232#67e42e7f37bf320000ff9c4f 20250322 draw(tokyo); #2]\n- [https://vrc-yue.hatenablog.com/entry/2025/06/23/224611 Audio/Visual Event \"draw();\" #6のwriteupと制作したエフェクトシステム「G-Buffcade」の解説]\n- [https://scrapbox.io/0b5vr/20250322_draw(tokyo);_%232_Live_Coding 20250322 draw(tokyo); #2 Live Coding]\n- [https://note.com/sainakey5/n/n4d96094ac212 【ジェネ系VJ】オーディオビジュアルイベント draw();]\n- [https://note.com/sainakey5/n/nf9b7f1ef5e5a 【自作VJソフト】「ジェネラティブVJ　やり方」と draw(tokyo); #2 と気持ち]\n- [https://6octaves.com/2025/09/jpdemoscener_0b5vr.html 日本のデモシーナー、0b5vrさんにインタビュー]\n- [https://phi16.fanbox.cc/posts/10416614 近況と、メタノードのはなし]\n- [https://note.com/hacha/n/nf8902a526107 2024/2/24 draw(tokyo);@CIRCUS TOKYO VJ振り返り]\n- [https://fotfla.hatenablog.com/entry/2023/12/25/001027 UnityでやってるVJの構成について]\n- [https://www.zinntikumugai.com/2024/03/09/-6434-/ 3/9 日記的何か]\n- [https://w0nyv.hatenablog.com/entry/2023/02/01/143136 draw(); #2にてVJを行った]",
-      "preview": "[[draw();]] についての記事\n順不同\n- [https://shampagne.hatenablog.com/entry/20241117/1731850513 SESSIONS × draw(); でVJした話]",
-      "modifiedAt": 1768832107000,
+      "content": "<!-- updated: 2026-01-26T00:00:15 -->\n<!-- title: draw(); について言及のある記事 -->\n#public\n\n[[draw();]] についての記事\n\n順不同\n\n- [https://sigreni.fanbox.cc/posts/11022997 初めてのVJの構成で考えたこと]\n- [https://shampagne.hatenablog.com/entry/20241117/1731850513 SESSIONS × draw(); でVJした話]\n- [https://note.com/redmond418/n/n9e9a66d24c5c VJはいいぞって話と今年やったVJ全部の振り返り2025]\n- [https://sdhizumi.blogspot.com/2025/12/sessions-2025-music-competition.html?spref=tw SESSIONS 2025 Music Competitionに参加]\n- [https://subm.notion.site/VJ-VJ-2cbc57c3c854809b977fced46dc9305d 寿司VJと散歩VJの状態管理]\n- [https://note.com/mememiya/n/n7284ce7b9d73?sub_rt=share_sb ジェネVJ初心者が『draw(tokyo);#3』でVJしたので振り返り&ざっくり解説]\n- [https://www.sp4ghet.com/blog/lookback2024 2024年を振り返る]\n- [https://note.com/fond_tapir5987/n/n4d23f357dec2?sub_rt=share_sb 自分がやりたい表現をやるためにジェネVJをしよう！（draw(tokyo);#3を経て）]\n- [https://note.com/calm_sorrel2417/n/nb19773803650?sub_rt=share_pw 寿司コントローラーを作った話]\n- [https://note.com/syoronpotabetai/n/n084c25b82d5b 好きなビジュアルを出すためにジェネVJをしよう draw(tokyo);#3 振り返り]\n- [https://phi16.hatenablog.com/entry/2025/10/18/190456 記録 251018　draw の V をやりました]\n  - [https://phi16.hatenablog.com/entry/2025/10/20/202015 記録 251020　draw の V の解説]\n- [https://note.com/nuskey/n/nd865349d4877?sub_rt=share_pw draw(tokyo); #3 振り返り]\n- [https://note.com/monoton_music/n/n9275b3cb8870 draw(tokyo); #3 – VJ Syoronpo. b2b monoton / B2BVJシステムの構成とイベント後記]\n- [https://note.com/djsharpnel/n/n91d475e8f728 DJ SHARPNELマシンライブin日本科学未来館SESSIONS x draw();の解説]\n- [https://gam0022.net/blog/2025/04/16/draw2/ draw(tokyo); #2でVJデビュー！（GLSLライブコーディング）]\n- [https://kinakomoti321.hatenablog.com/entry/2025/04/23/022256 draw(tokyo); #2 レポート]\n- [https://butadiene.hatenablog.com/entry/2025/03/24/233041 自分の撮った写真数千枚を使って、リアルタイムに画像を生成してくれるVJツールを作った話]\n- [https://shivaduke28.hatenablog.com/entry/2025/03/25/205506 Rectorについて]\n- [https://scrapbox.io/shivaduke28/20250322_draw(tokyo);_%232#67e42e7f37bf320000ff9c4f 20250322 draw(tokyo); #2]\n- [https://vrc-yue.hatenablog.com/entry/2025/06/23/224611 Audio/Visual Event \"draw();\" #6のwriteupと制作したエフェクトシステム「G-Buffcade」の解説]\n- [https://scrapbox.io/0b5vr/20250322_draw(tokyo);_%232_Live_Coding 20250322 draw(tokyo); #2 Live Coding]\n- [https://note.com/sainakey5/n/n4d96094ac212 【ジェネ系VJ】オーディオビジュアルイベント draw();]\n- [https://note.com/sainakey5/n/nf9b7f1ef5e5a 【自作VJソフト】「ジェネラティブVJ　やり方」と draw(tokyo); #2 と気持ち]\n- [https://6octaves.com/2025/09/jpdemoscener_0b5vr.html 日本のデモシーナー、0b5vrさんにインタビュー]\n- [https://phi16.fanbox.cc/posts/10416614 近況と、メタノードのはなし]\n- [https://note.com/hacha/n/nf8902a526107 2024/2/24 draw(tokyo);@CIRCUS TOKYO VJ振り返り]\n- [https://fotfla.hatenablog.com/entry/2023/12/25/001027 UnityでやってるVJの構成について]\n- [https://www.zinntikumugai.com/2024/03/09/-6434-/ 3/9 日記的何か]\n- [https://w0nyv.hatenablog.com/entry/2023/02/01/143136 draw(); #2にてVJを行った]",
+      "preview": "[[draw();]] についての記事\n順不同\n- [https://sigreni.fanbox.cc/posts/11022997 初めてのVJの構成で考えたこと]",
+      "modifiedAt": 1769353215000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -394,10 +404,10 @@
       "name": "Hexler.md",
       "slug": "Hexler",
       "title": "Hexler",
-      "content": "<!-- updated: 2026-01-24T23:29:37 -->\n#public\n[img https://hexler.net/site/images/logos/hexler_logo-white.svg]\n\nhttps://hexler.net/\n\n[[TouchOSC]] , [[KodeLife]] などを開発",
-      "preview": "[img https://hexler.net/site/images/logos/hexler_logo-white.svg]\nhttps://hexler.net/\n[[TouchOSC]] , [[KodeLife]] などを開発",
-      "modifiedAt": 1769264977000,
-      "linkCount": 2,
+      "content": "<!-- updated: 2026-01-25T15:47:16 -->\n#public\n[img https://hexler.net/site/images/logos/hexler_logo-white.svg]\n\nhttps://hexler.net/\n\n[[Audiovisual]] パフォーマンス近辺のツールを開発",
+      "preview": "[img https://hexler.net/site/images/logos/hexler_logo-white.svg]\nhttps://hexler.net/\n[[Audiovisual]] パフォーマンス近辺のツールを開発",
+      "modifiedAt": 1769323636000,
+      "linkCount": 3,
       "thumbnailUrl": "https://hexler.net/site/images/logos/hexler_logo-white.svg"
     },
     {
@@ -454,11 +464,31 @@
       "name": "Keijiro Takahashi 神です.md",
       "slug": "Keijiro Takahashi 神です",
       "title": "Keijiro Takahashi 神です",
-      "content": "<!-- updated: 2026-01-18T18:22:12 -->\n#public\n[img https://gyazo.com/2d5a9330ffa2870967939cb873724b8f/max_size/1000]\n\n[[meme]]\n\n[yt https://www.youtube.com/watch?v=AanCE5zp01A&t=148s]",
-      "preview": "[img https://gyazo.com/2d5a9330ffa2870967939cb873724b8f/max_size/1000]\n[[meme]]\n[yt https://www.youtube.com/watch?v=AanCE5zp01A&t=148s]",
-      "modifiedAt": 1768728132000,
+      "content": "<!-- updated: 2026-01-25T16:01:11 -->\n#public\n[img https://gyazo.com/2d5a9330ffa2870967939cb873724b8f/max_size/1000]\n\n[[meme]]\n\n[[Keijiro Takahashi]]\n\n[yt https://www.youtube.com/watch?v=AanCE5zp01A&t=148s]",
+      "preview": "[img https://gyazo.com/2d5a9330ffa2870967939cb873724b8f/max_size/1000]\n[[meme]]\n[[Keijiro Takahashi]]",
+      "modifiedAt": 1769324471000,
       "linkCount": 0,
       "thumbnailUrl": "https://gyazo.com/2d5a9330ffa2870967939cb873724b8f/max_size/1000"
+    },
+    {
+      "name": "Keijiro Takahashi.md",
+      "slug": "Keijiro Takahashi",
+      "title": "Keijiro Takahashi",
+      "content": "<!-- updated: 2026-01-25T15:55:42 -->\n#public\nhttps://www.keijiro.tokyo/\n\n[[Unity]] で [[Audiovisual]] パフォーマンスやるための便利なパッケージをいっぱい作っている",
+      "preview": "https://www.keijiro.tokyo/\n[[Unity]] で [[Audiovisual]] パフォーマンスやるための便利なパッケージをいっぱい作っている",
+      "modifiedAt": 1769324142000,
+      "linkCount": 3,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "KodeLife.md",
+      "slug": "KodeLife",
+      "title": "KodeLife",
+      "content": "<!-- updated: 2026-01-25T15:56:17 -->\n#public\n[img https://hexler.net/site/images/app_icons/png_white/KodeLife-icon.png]\n\nhttps://hexler.net/kodelife\n\n[[Hexler]] による Real-time GPU shader editor\n[[GLSL]] が書けるよ\n\n[[Keijiro神|Keijiro Takahashi]]が良く使ってる印象\n[yt https://www.youtube.com/watch?v=VYtH68_X9yw]",
+      "preview": "[img https://hexler.net/site/images/app_icons/png_white/KodeLife-icon.png]\nhttps://hexler.net/kodelife\n[[Hexler]] による Real-time GPU shader editor",
+      "modifiedAt": 1769324177000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://hexler.net/site/images/app_icons/png_white/KodeLife-icon.png"
     },
     {
       "name": "Learning Synths.md",
@@ -741,6 +771,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "touch_waves.md",
+      "slug": "touch_waves",
+      "title": "touch:waves",
+      "content": "<!-- updated: 2026-01-25T15:59:42 -->\n<!-- title: touch:waves -->\n#public\nhttps://sascacci.com/\n\nInteractive Audiovisual App\n[[Sascacci]] による",
+      "preview": "https://sascacci.com/\nInteractive Audiovisual App\n[[Sascacci]] による",
+      "modifiedAt": 1769324382000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "Unity _ シェーダに渡すテクスチャのデフォルト値.md",
       "slug": "Unity _ シェーダに渡すテクスチャのデフォルト値",
       "title": "Unity : シェーダに渡すテクスチャのデフォルト値",
@@ -849,6 +889,16 @@
       "modifiedAt": 1768709000000,
       "linkCount": 3,
       "thumbnailUrl": "https://gyazo.com/c079d4c1dc1d9582a83dd9f8100e3d70/max_size/1000"
+    },
+    {
+      "name": "Ziphead.md",
+      "slug": "Ziphead",
+      "title": "Ziphead",
+      "content": "<!-- updated: 2026-01-25T13:33:20 -->\n#public\n[yt https://www.youtube.com/watch?v=Y_lm0cZOkeA]\n\n[[CNCD]] , [[Fairlight]]\n\n🔗\n- https://www.pouet.net/prod.php?which=65400\n- https://demozoo.org/productions/136314/",
+      "preview": "[yt https://www.youtube.com/watch?v=Y_lm0cZOkeA]\n[[CNCD]] , [[Fairlight]]\n🔗",
+      "modifiedAt": 1769315600000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/Y_lm0cZOkeA/hqdefault.jpg"
     },
     {
       "name": "あのチューン.md",
@@ -1227,7 +1277,7 @@
       "content": "<!-- updated: 2026-01-24T17:46:48 -->\n#public\nhttps://baku89.com/\n\n[[baku89]]",
       "preview": "https://baku89.com/\n[[baku89]]",
       "modifiedAt": 1769244408000,
-      "linkCount": 1,
+      "linkCount": 2,
       "thumbnailUrl": null
     },
     {
@@ -1416,6 +1466,7 @@
     ],
     "Apollo": [],
     "Arachnids": [],
+    "ATA": [],
     "azumanga click house": [],
     "Bad Apple but it's a 3Blue1Brown video": [],
     "BenchmarkDotNet": [],
@@ -1491,7 +1542,7 @@
       {
         "slug": "draw()_ について言及のある記事",
         "title": "draw(); について言及のある記事",
-        "preview": "[[draw();]] についての記事\n順不同\n- [https://shampagne.hatenablog.com/entry/20241117/1731850513 SESSIONS × draw(); でVJした話]"
+        "preview": "[[draw();]] についての記事\n順不同\n- [https://sigreni.fanbox.cc/posts/11022997 初めてのVJの構成で考えたこと]"
       }
     ],
     "Enter the Void - Opening Title Sequence": [],
@@ -1523,6 +1574,11 @@
         "slug": "Algorave Tokyo - 2020-02-15",
         "title": "Algorave Tokyo - 2020-02-15",
         "preview": "[img https://gyazo.com/fc7c41c71ceea36c4b0176780344907f/max_size/1000]\nhttps://algorave.tokyo/\n東京で行われた [[Algorave]] のイベント"
+      },
+      {
+        "slug": "KodeLife",
+        "title": "KodeLife",
+        "preview": "[img https://hexler.net/site/images/app_icons/png_white/KodeLife-icon.png]\nhttps://hexler.net/kodelife\n[[Hexler]] による Real-time GPU shader editor"
       }
     ],
     "in perspective": [],
@@ -1531,6 +1587,24 @@
     "JSONPlaceholder": [],
     "Jujutsu": [],
     "Keijiro Takahashi 神です": [],
+    "Keijiro Takahashi": [
+      {
+        "slug": "Keijiro Takahashi 神です",
+        "title": "Keijiro Takahashi 神です",
+        "preview": "[img https://gyazo.com/2d5a9330ffa2870967939cb873724b8f/max_size/1000]\n[[meme]]\n[[Keijiro Takahashi]]"
+      },
+      {
+        "slug": "KodeLife",
+        "title": "KodeLife",
+        "preview": "[img https://hexler.net/site/images/app_icons/png_white/KodeLife-icon.png]\nhttps://hexler.net/kodelife\n[[Hexler]] による Real-time GPU shader editor"
+      },
+      {
+        "slug": "VRDG+H _1 - 2016-03-26",
+        "title": "VRDG+H #1 - 2016-03-26",
+        "preview": "[img https://gyazo.com/ce3164e02c0df5c55169b9873647a2e7/max_size/1000]\n主催：[[HIP LAND MUSIC CORPORATION]]\n企画：HIP LAND MUSIC CORPORATION / [[BRDG]]"
+      }
+    ],
+    "KodeLife": [],
     "Learning Synths": [],
     "live coding youtube": [],
     "Log-polar coordinates": [],
@@ -1582,6 +1656,7 @@
     "Testing": [],
     "The ten rules of techno": [],
     "The Useless Web": [],
+    "touch_waves": [],
     "Unity _ シェーダに渡すテクスチャのデフォルト値": [],
     "Vanitas vanitatum, et omnia vanitas.": [],
     "VRCALOGRAVE - 2020-12-29": [],
@@ -1609,6 +1684,7 @@
         "preview": "[yt https://www.youtube.com/watch?v=bdWGBirRpDs]\n[[xoyozo]]"
       }
     ],
+    "Ziphead": [],
     "あのチューン": [],
     "え～～～とつまりVJは・・・曲に合わせてリアルタイムで映像を編集する・・・・・・・・・人？": [],
     "きらめく絆創膏": [],
@@ -1686,6 +1762,11 @@
     "数年単位で見返しがちなアニメ": [],
     "書くことを楽しむ": [],
     "橋本麦": [
+      {
+        "slug": "ATA",
+        "title": "ATA",
+        "preview": "[yt https://www.youtube.com/watch?v=DEzuZlUB3zM]\n[[橋本麦]]"
+      },
       {
         "slug": "メタマウンティング・ゲーム",
         "title": "メタマウンティング・ゲーム",
