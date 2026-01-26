@@ -27,7 +27,7 @@
       "content": "<!-- updated: 2026-01-17T18:26:34 -->\n#public\n[[Demo]] のサブカテゴリ",
       "preview": "[[Demo]] のサブカテゴリ",
       "modifiedAt": 1768641994000,
-      "linkCount": 5,
+      "linkCount": 6,
       "thumbnailUrl": null
     },
     {
@@ -221,6 +221,16 @@
       "thumbnailUrl": "http://www.cbc-net.com/log/images/2011/01/cbcnet_logo_150_rgb.png"
     },
     {
+      "name": "cdak.md",
+      "slug": "cdak",
+      "title": "cdak",
+      "content": "<!-- updated: 2026-01-26T22:29:42 -->\n#public\n[yt https://www.youtube.com/watch?v=RCh3Q08HMfs]\n\n[[4k intro]]\n[[Quite]] , [[orange]]\n\nrelease date: august 2010 マ？\n\n🔗\n- https://www.pouet.net/prod.php?which=55758\n- https://demozoo.org/productions/21367/",
+      "preview": "[yt https://www.youtube.com/watch?v=RCh3Q08HMfs]\n[[4k intro]]\n[[Quite]] , [[orange]]",
+      "modifiedAt": 1769434182000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/RCh3Q08HMfs/hqdefault.jpg"
+    },
+    {
       "name": "Claude Code.md",
       "slug": "Claude Code",
       "title": "Claude Code",
@@ -257,7 +267,7 @@
       "content": "<!-- updated: 2026-01-17T18:14:12 -->\n#public\n[img https://gyazo.com/e3c1d0218d873b4802b37a75f65ad45f/max_size/1000]\nhttps://scrapbox.io/\n\n[[Helpfeel]] による [[Wiki]] 作成サービス\n旧名は [[Scrapbox]]",
       "preview": "[img https://gyazo.com/e3c1d0218d873b4802b37a75f65ad45f/max_size/1000]\nhttps://scrapbox.io/\n[[Helpfeel]] による [[Wiki]] 作成サービス",
       "modifiedAt": 1768641252000,
-      "linkCount": 3,
+      "linkCount": 4,
       "thumbnailUrl": "https://gyazo.com/e3c1d0218d873b4802b37a75f65ad45f/max_size/1000"
     },
     {
@@ -349,6 +359,16 @@
       "modifiedAt": 1768641444000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/ouV_h7zoo1w/hqdefault.jpg"
+    },
+    {
+      "name": "FREELY TOMORROW.md",
+      "slug": "FREELY TOMORROW",
+      "title": "FREELY TOMORROW",
+      "content": "<!-- updated: 2026-01-26T22:56:29 -->\n#public\n[yt https://www.youtube.com/watch?v=KmvydnVTriE]\n\n[[yama_ko]]\n\n[[Vectorheart]]",
+      "preview": "[yt https://www.youtube.com/watch?v=KmvydnVTriE]\n[[yama_ko]]\n[[Vectorheart]]",
+      "modifiedAt": 1769435789000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/KmvydnVTriE/hqdefault.jpg"
     },
     {
       "name": "Frutiger Metro.md",
@@ -521,6 +541,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "Lumen.md",
+      "slug": "Lumen",
+      "title": "Lumen",
+      "content": "<!-- updated: 2026-01-26T22:17:39 -->\n#public\n[img https://lumen-app.com/images/lumen-logo-mandala.png]\nhttps://lumen-app.com/\n\nSoftware [[Video synthesizer]]",
+      "preview": "[img https://lumen-app.com/images/lumen-logo-mandala.png]\nhttps://lumen-app.com/\nSoftware [[Video synthesizer]]",
+      "modifiedAt": 1769433459000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://lumen-app.com/images/lumen-logo-mandala.png"
+    },
+    {
       "name": "LÖVE.md",
       "slug": "LÖVE",
       "title": "LÖVE",
@@ -679,6 +709,16 @@
       "modifiedAt": 1768641389000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/itqUd8nxxfc/hqdefault.jpg"
+    },
+    {
+      "name": "ScrapboxでVJするためのChrome拡張を作った.md",
+      "slug": "ScrapboxでVJするためのChrome拡張を作った",
+      "title": "ScrapboxでVJするためのChrome拡張を作った",
+      "content": "<!-- updated: 2026-01-26T22:11:49 -->\n#public\nhttps://blog.sushi.money/entry/2020/02/08/162434\n\n[[Scrapbox|Cosense]] で [[VJ]] やってみた記事\n\n[tw https://x.com/pastak/status/1225749948945199105?s=20]",
+      "preview": "https://blog.sushi.money/entry/2020/02/08/162434\n[[Scrapbox|Cosense]] で [[VJ]] やってみた記事\n[tw https://x.com/pastak/status/1225749948945199105?s=20]",
+      "modifiedAt": 1769433109000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1225749880938758144/pu/img/K1JQ7SBwQtKQlfOU.jpg"
     },
     {
       "name": "Simple Web Server.md",
@@ -954,9 +994,9 @@
       "name": "よりよく消費するために生産する.md",
       "slug": "よりよく消費するために生産する",
       "title": "よりよく消費するために生産する",
-      "content": "<!-- updated: 2026-01-17T17:51:41 -->\n#public\nプロコンシューマーというない単語を最近頭に思い浮かべがち\n\nすでに似たような言葉があるっぽい\nhttps://ja.wikipedia.org/wiki/%E7%94%9F%E7%94%A3%E6%B6%88%E8%B2%BB%E8%80%85\n\nしかし、考えてるのはこっちの方\nhttps://baku89.com/ja/June%2026%EF%BC%8C%202024%EF%BC%9A%20%E5%92%8C%E5%A3%B0\n> よりよく消費するために生産する\nいい言葉なのでこっちをページのタイトルに変更\nなんでも手ごね as literacy ですね\n[[実際にそれをする]]ことでよりよくそれについて理解できることがある\n少なくとも見え方は変わりそう\n",
+      "content": "<!-- updated: 2026-01-26T01:06:42 -->\n#public\nプロコンシューマーというない単語を最近頭に思い浮かべがち\n\nすでに似たような言葉があるっぽい\nhttps://ja.wikipedia.org/wiki/%E7%94%9F%E7%94%A3%E6%B6%88%E8%B2%BB%E8%80%85\n\nしかし、考えてるのはこっちの方\nhttps://baku89.com/ja/June%2026%EF%BC%8C%202024%EF%BC%9A%20%E5%92%8C%E5%A3%B0\n> よりよく消費するために生産する\nいい言葉なのでこっちをページのタイトルに変更\nなんでも手ごね as literacy ですね\n[[実際にそれをする]]ことでよりよくそれについて理解できることがある\n少なくとも見え方は変わりそう\n\n俺が [[VJ]] をする理由の一つ\n",
       "preview": "プロコンシューマーというない単語を最近頭に思い浮かべがち\nすでに似たような言葉があるっぽい\nhttps://ja.wikipedia.org/wiki/%E7%94%9F%E7%94%A3%E6%B6%88%E8%B2%BB%E8%80%85",
-      "modifiedAt": 1768639901000,
+      "modifiedAt": 1769357202000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -1129,6 +1169,16 @@
       "modifiedAt": 1768640757000,
       "linkCount": 0,
       "thumbnailUrl": "https://i.gyazo.com/75ecb9aebf5ec0655f8aaccbf3527754.jpg"
+    },
+    {
+      "name": "モノクロ∞ブルースカイ.md",
+      "slug": "モノクロ∞ブルースカイ",
+      "title": "モノクロ∞ブルースカイ",
+      "content": "<!-- updated: 2026-01-26T22:52:11 -->\n#public\n[yt https://www.youtube.com/watch?v=PB6qZQNteQY]",
+      "preview": "[yt https://www.youtube.com/watch?v=PB6qZQNteQY]",
+      "modifiedAt": 1769435531000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/PB6qZQNteQY/hqdefault.jpg"
     },
     {
       "name": "ローゼンメイデン.md",
@@ -1381,6 +1431,11 @@
         "preview": "https://github.com/gopher-atz/4klang\n[[4k intro]] 用シンセ\n[[VSTプラグイン]]として提供されてるのでお好きな [[DAW]] でどうぞ"
       },
       {
+        "slug": "cdak",
+        "title": "cdak",
+        "preview": "[yt https://www.youtube.com/watch?v=RCh3Q08HMfs]\n[[4k intro]]\n[[Quite]] , [[orange]]"
+      },
+      {
         "slug": "Compofiller Studio",
         "title": "Compofiller Studio",
         "preview": "[img https://i.gyazo.com/4fe82fd140825a4f5e6cff7f36b0469d.jpg]\nhttp://www.kameli.net/compofillerstudio/http://www.kameli.net/compofillerstudio/\n[[4klang]] music + [[GLSL]] shader = [[4k intro]]"
@@ -1486,10 +1541,16 @@
         "preview": "[img https://gyazo.com/2171299b02f741248496cb7af3a6b52e/max_size/1000]\n[[Algorave]] のイベント\nAct"
       }
     ],
+    "cdak": [],
     "Claude Code": [],
     "Compofiller Studio": [],
     "Corporate Memphis": [],
     "Cosense": [
+      {
+        "slug": "ScrapboxでVJするためのChrome拡張を作った",
+        "title": "ScrapboxでVJするためのChrome拡張を作った",
+        "preview": "https://blog.sushi.money/entry/2020/02/08/162434\n[[Scrapbox|Cosense]] で [[VJ]] やってみた記事\n[tw https://x.com/pastak/status/1225749948945199105?s=20]"
+      },
       {
         "slug": "アウトライン編集",
         "title": "アウトライン編集",
@@ -1548,6 +1609,7 @@
     "Enter the Void - Opening Title Sequence": [],
     "Eyecandy": [],
     "franz": [],
+    "FREELY TOMORROW": [],
     "Frutiger Metro": [
       {
         "slug": "Testing",
@@ -1608,6 +1670,7 @@
     "Learning Synths": [],
     "live coding youtube": [],
     "Log-polar coordinates": [],
+    "Lumen": [],
     "LÖVE": [],
     "Mad Hope": [],
     "meow mix": [],
@@ -1647,6 +1710,7 @@
     ],
     "Rubber Johnny": [],
     "Rudebox": [],
+    "ScrapboxでVJするためのChrome拡張を作った": [],
     "Simple Web Server": [],
     "Soda City Funk": [],
     "ssh-keygen": [],
@@ -1719,6 +1783,7 @@
     "ファイルが大事": [],
     "メタマウンティング・ゲーム": [],
     "メディアの違いを理解せよ。": [],
+    "モノクロ∞ブルースカイ": [],
     "ローゼンメイデン": [],
     "主役を降りる": [],
     "人生ビスマルク": [
