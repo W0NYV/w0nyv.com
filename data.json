@@ -201,6 +201,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/5DPtClNqOEQ/hqdefault.jpg"
     },
     {
+      "name": "Bonzomatic.md",
+      "slug": "Bonzomatic",
+      "title": "Bonzomatic",
+      "content": "<!-- updated: 2026-01-28T23:30:29 -->\n#public\n[img https://github.com/Gargaj/Bonzomatic/blob/master/data/unix/icon.png?raw=true]\nhttps://github.com/Gargaj/Bonzomatic\n\n[[GLSL]] [[Live coding]] tool\n\n[[Gargaj]] による",
+      "preview": "[img https://github.com/Gargaj/Bonzomatic/blob/master/data/unix/icon.png?raw=true]\nhttps://github.com/Gargaj/Bonzomatic\n[[GLSL]] [[Live coding]] tool",
+      "modifiedAt": 1769610629000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://github.com/Gargaj/Bonzomatic/blob/master/data/unix/icon.png?raw=true"
+    },
+    {
       "name": "BRDG.md",
       "slug": "BRDG",
       "title": "BRDG",
@@ -249,6 +259,16 @@
       "modifiedAt": 1768721497000,
       "linkCount": 0,
       "thumbnailUrl": "https://i.gyazo.com/4fe82fd140825a4f5e6cff7f36b0469d.jpg"
+    },
+    {
+      "name": "Conventional Commits.md",
+      "slug": "Conventional Commits",
+      "title": "Conventional Commits",
+      "content": "<!-- updated: 2026-01-28T22:52:36 -->\n#public\nhttps://www.conventionalcommits.org/ja/v1.0.0/\n\nコミットメッセージのための軽量の規約\n[[SemVer]] に依存\n\n嬉しさがあるのは分かるがやりすぎ？と思わなくもない",
+      "preview": "https://www.conventionalcommits.org/ja/v1.0.0/\nコミットメッセージのための軽量の規約\n[[SemVer]] に依存",
+      "modifiedAt": 1769608356000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "Corporate Memphis.md",
@@ -399,6 +419,16 @@
       "modifiedAt": 1769261612000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/ev3vENli7wQ/hqdefault.jpg"
+    },
+    {
+      "name": "Ghost Voices.md",
+      "slug": "Ghost Voices",
+      "title": "Ghost Voices",
+      "content": "<!-- updated: 2026-01-28T23:47:35 -->\n#public\n[yt https://www.youtube.com/watch?v=HPc8QMycGno]\n\n[[Virtual Self]]",
+      "preview": "[yt https://www.youtube.com/watch?v=HPc8QMycGno]\n[[Virtual Self]]",
+      "modifiedAt": 1769611655000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/HPc8QMycGno/hqdefault.jpg"
     },
     {
       "name": "Glitch.md",
@@ -701,6 +731,16 @@
       "thumbnailUrl": "https://renderdoc.org/fp/logo.svg"
     },
     {
+      "name": "RFCにおいて要請の程度を示すために用いるキーワード.md",
+      "slug": "RFCにおいて要請の程度を示すために用いるキーワード",
+      "title": "RFCにおいて要請の程度を示すために用いるキーワード",
+      "content": "<!-- updated: 2026-01-28T22:48:53 -->\n#public\nhttps://www.nic.ad.jp/ja/tech/ipa/RFC2119JA.html\n\n[[RFC 2119]]",
+      "preview": "https://www.nic.ad.jp/ja/tech/ipa/RFC2119JA.html\n[[RFC 2119]]",
+      "modifiedAt": 1769608133000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "Rubber Johnny.md",
       "slug": "Rubber Johnny",
       "title": "Rubber Johnny",
@@ -821,6 +861,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "TOPLAP.md",
+      "slug": "TOPLAP",
+      "title": "TOPLAP",
+      "content": "<!-- updated: 2026-01-28T23:34:52 -->\n#public\n[img https://toplap.org/wiki/images/thumb/6/67/Toplap.png/300px-Toplap.png]\nhttps://blog.toplap.org/\n\n[[Live coding]] 促進団体\n\nhttps://github.com/toplap/awesome-livecoding",
+      "preview": "[img https://toplap.org/wiki/images/thumb/6/67/Toplap.png/300px-Toplap.png]\nhttps://blog.toplap.org/\n[[Live coding]] 促進団体",
+      "modifiedAt": 1769610892000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://toplap.org/wiki/images/thumb/6/67/Toplap.png/300px-Toplap.png"
+    },
+    {
       "name": "touch_waves.md",
       "slug": "touch_waves",
       "title": "touch:waves",
@@ -894,9 +944,9 @@
       "name": "Wiki の私物化.md",
       "slug": "Wiki の私物化",
       "title": "Wiki の私物化",
-      "content": "<!-- updated: 2026-01-27T22:08:52 -->\n#public\n[https://scrapbox.io/yozba/Scrapbox%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%AE%E3%81%AB%E5%8A%A3%E5%8C%96%E7%89%88Wikipedia%E3%81%A0%E3%81%AA%E3%81%A8%E6%B0%97%E3%81%AB%E3%81%99%E3%82%8B%E5%BF%85%E8%A6%81%E3%81%AF%E3%81%AA%E3%81%84 /yozba/Scrapboxを書くのに劣化版Wikipediaだなと気にする必要はない]\n\n自分が書きたいように書き、リンクしよう",
-      "preview": "[https://scrapbox.io/yozba/Scrapbox%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%AE%E3%81%AB%E5%8A%A3%E5%8C%96%E7%89%88Wikipedia%E3%81%A0%E3%81%AA%E3%81%A8%E6%B0%97%E3%81%AB%E3%81%99%E3%82%8B%E5%BF%85%E8%A6%81%E3%81%AF%E3%81%AA%E3%81%84 /yozba/Scrapboxを書くのに劣化版Wikipediaだなと気にする必要はない]\n自分が書きたいように書き、リンクしよう",
-      "modifiedAt": 1769519332000,
+      "content": "<!-- updated: 2026-01-28T22:41:25 -->\n#public\n[https://scrapbox.io/yozba/Scrapbox%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%AE%E3%81%AB%E5%8A%A3%E5%8C%96%E7%89%88Wikipedia%E3%81%A0%E3%81%AA%E3%81%A8%E6%B0%97%E3%81%AB%E3%81%99%E3%82%8B%E5%BF%85%E8%A6%81%E3%81%AF%E3%81%AA%E3%81%84 /yozba/Scrapboxを書くのに劣化版Wikipediaだなと気にする必要はない]\n\n自分が書きたいように書き、リンクしよう\n\nこの情報は他の所に書いてるからといってここに書かなくていい理由にはならない",
+      "preview": "[https://scrapbox.io/yozba/Scrapbox%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%AE%E3%81%AB%E5%8A%A3%E5%8C%96%E7%89%88Wikipedia%E3%81%A0%E3%81%AA%E3%81%A8%E6%B0%97%E3%81%AB%E3%81%99%E3%82%8B%E5%BF%85%E8%A6%81%E3%81%AF%E3%81%AA%E3%81%84 /yozba/Scrapboxを書くのに劣化版Wikipediaだなと気にする必要はない]\n自分が書きたいように書き、リンクしよう\nこの情報は他の所に書いてるからといってここに書かなくていい理由にはならない",
+      "modifiedAt": 1769607685000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -1211,6 +1261,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/KK014WfP-ug/hqdefault.jpg"
     },
     {
+      "name": "与えることを拒み、招待することを怠ることは、受け取ることを拒むのと同様に、戦いを宣言するのに等しい.md",
+      "slug": "与えることを拒み、招待することを怠ることは、受け取ることを拒むのと同様に、戦いを宣言するのに等しい",
+      "title": "与えることを拒み、招待することを怠ることは、受け取ることを拒むのと同様に、戦いを宣言するのに等しい",
+      "content": "<!-- updated: 2026-01-28T23:05:03 -->\n#public\n[[贈与論]] の一節\n\nまあそうなのかもしれない",
+      "preview": "[[贈与論]] の一節\nまあそうなのかもしれない",
+      "modifiedAt": 1769609103000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "主役を降りる.md",
       "slug": "主役を降りる",
       "title": "主役を降りる",
@@ -1304,9 +1364,19 @@
       "name": "庭についてうだうだ考える.md",
       "slug": "庭についてうだうだ考える",
       "title": "庭についてうだうだ考える",
-      "content": "<!-- updated: 2026-01-27T22:19:59 -->\n#public\n\n例えば `Unity : hoge` みたいなタイトルは Unity 空間内のことを述べているわけだけどこのページと Unity というタイトルのページをリンクさせたければ、わざとらしく本文に `[[Unity]]` を仕込まないといけない\nまあそのための [[タグ]] ではあるんだけど、それっていつかタグまみれになる兆候ではとも思う\nタイトルをパースして `hoge : huga` は hoge にリンクさせる？\nこの機能とは関係なく半角スペースセミコロン半角スペースを使っているタイトルはどうなるんすかそれ、もっと複雑にするべき？",
+      "content": "<!-- updated: 2026-01-28T22:38:49 -->\n#public\n\n例えば `Unity : hoge` みたいなタイトルは Unity 空間内のことを述べているわけだけどこのページと Unity というタイトルのページをリンクさせたければ、わざとらしく本文に `[[Unity]]` を仕込まないといけない\nまあそのための [[タグ]] ではあるんだけど、それっていつかタグまみれになる兆候ではとも思う\nタイトルをパースして `hoge : huga` は hoge にリンクさせる？\nこの機能とは関係なく半角スペースセミコロン半角スペースを使っているタイトルはどうなるんすかそれ、もっと複雑にするべき？\n↑\n全文探索があれば解決じゃん\n[[最終的に見つかればいい]]ので",
       "preview": "例えば `Unity : hoge` みたいなタイトルは Unity 空間内のことを述べているわけだけどこのページと Unity というタイトルのページをリンクさせたければ、わざとらしく本文に `[[Unity]]` を仕込まないといけない\nまあそのための [[タグ]] ではあるんだけど、それっていつかタグまみれになる兆候ではとも思う\nタイトルをパースして `hoge : huga` は hoge にリンクさせる？",
-      "modifiedAt": 1769519999000,
+      "modifiedAt": 1769607529000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "心やさしい人は理不尽なひどい目にあわないでほしい.md",
+      "slug": "心やさしい人は理不尽なひどい目にあわないでほしい",
+      "title": "心やさしい人は理不尽なひどい目にあわないでほしい",
+      "content": "<!-- updated: 2026-01-28T21:21:49 -->\n#public\nまじで\n\n火の鳥の弁太...\n\n柴関ラーメンの大将...",
+      "preview": "まじで\n火の鳥の弁太...\n柴関ラーメンの大将...",
+      "modifiedAt": 1769602909000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -1348,6 +1418,16 @@
       "preview": "もはやノートに書くことが目的になってしまうほどに、書くことの [[UX]] を向上させれば、自ずと学習というものが好きになるじゃないのという仮説\nデジタルノートであれば今は [[LLM]] を活用すれば自分の好きなように環境を作れるわけだし、やらない手はないのでは",
       "modifiedAt": 1768310678000,
       "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "最終的に見つかればいい.md",
+      "slug": "最終的に見つかればいい",
+      "title": "最終的に見つかればいい",
+      "content": "<!-- updated: 2026-01-28T22:39:35 -->\n#public\n[https://scrapbox.io/shokai/%E6%9C%80%E7%B5%82%E7%9A%84%E3%81%AB%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8C%E3%81%B0%E3%82%88%E3%81%84 /shokai/最終的に見つかればよい]\n\nせやね",
+      "preview": "[https://scrapbox.io/shokai/%E6%9C%80%E7%B5%82%E7%9A%84%E3%81%AB%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8C%E3%81%B0%E3%82%88%E3%81%84 /shokai/最終的に見つかればよい]\nせやね",
+      "modifiedAt": 1769607575000,
+      "linkCount": 1,
       "thumbnailUrl": null
     },
     {
@@ -1567,6 +1647,7 @@
     "BenchmarkDotNet": [],
     "biimシステム": [],
     "BITE ME MORE PLS": [],
+    "Bonzomatic": [],
     "BRDG": [
       {
         "slug": "VRDG+H _1 - 2016-03-26",
@@ -1584,6 +1665,7 @@
     "cdak": [],
     "Claude Code": [],
     "Compofiller Studio": [],
+    "Conventional Commits": [],
     "Corporate Memphis": [],
     "Cosense": [
       {
@@ -1664,6 +1746,7 @@
       }
     ],
     "Gantz Graf": [],
+    "Ghost Voices": [],
     "Glitch": [],
     "Gyazo": [],
     "Height Map to Normal Map": [],
@@ -1749,6 +1832,7 @@
         "preview": "[[ShaderLab]] はプロパティからデフォルト値を設定できる\nhttps://docs.unity3d.com/Manual/SL-Properties.html\nなんでこれ `(0, 0, 0, 0)` ないんですかね"
       }
     ],
+    "RFCにおいて要請の程度を示すために用いるキーワード": [],
     "Rubber Johnny": [],
     "Rudebox": [],
     "ScrapboxでVJするためのChrome拡張を作った": [],
@@ -1767,6 +1851,7 @@
     "Testing": [],
     "The ten rules of techno": [],
     "The Useless Web": [],
+    "TOPLAP": [],
     "touch_waves": [],
     "Unity _ シェーダに渡すテクスチャのデフォルト値": [],
     "Vanitas vanitatum, et omnia vanitas.": [],
@@ -1833,6 +1918,7 @@
     "メディアの違いを理解せよ。": [],
     "モノクロ∞ブルースカイ": [],
     "ローゼンメイデン": [],
+    "与えることを拒み、招待することを怠ることは、受け取ることを拒むのと同様に、戦いを宣言するのに等しい": [],
     "主役を降りる": [],
     "人生ビスマルク": [
       {
@@ -1871,10 +1957,18 @@
     ],
     "岩波Web目録": [],
     "庭についてうだうだ考える": [],
+    "心やさしい人は理不尽なひどい目にあわないでほしい": [],
     "恋をするとテクノなんて聞いてられない": [],
     "恋愛サーキュレーションbyレゾナンツ児童合唱団_＠EXPO2025": [],
     "数年単位で見返しがちなアニメ": [],
     "書くことを楽しむ": [],
+    "最終的に見つかればいい": [
+      {
+        "slug": "庭についてうだうだ考える",
+        "title": "庭についてうだうだ考える",
+        "preview": "例えば `Unity : hoge` みたいなタイトルは Unity 空間内のことを述べているわけだけどこのページと Unity というタイトルのページをリンクさせたければ、わざとらしく本文に `[[Unity]]` を仕込まないといけない\nまあそのための [[タグ]] ではあるんだけど、それっていつかタグまみれになる兆候ではとも思う\nタイトルをパースして `hoge : huga` は hoge にリンクさせる？"
+      }
+    ],
     "橋本麦": [
       {
         "slug": "ATA",
