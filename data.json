@@ -144,9 +144,9 @@
       "name": "ATA.md",
       "slug": "ATA",
       "title": "ATA",
-      "content": "<!-- updated: 2026-01-25T13:27:45 -->\n#public\n[yt https://www.youtube.com/watch?v=DEzuZlUB3zM]\n\n[[橋本麦]]",
-      "preview": "[yt https://www.youtube.com/watch?v=DEzuZlUB3zM]\n[[橋本麦]]",
-      "modifiedAt": 1769315265000,
+      "content": "<!-- updated: 2026-01-30T23:03:24 -->\n#public\n[yt https://www.youtube.com/watch?v=DEzuZlUB3zM]\n\n[[Olga Bell]]\n[[橋本麦]]",
+      "preview": "[yt https://www.youtube.com/watch?v=DEzuZlUB3zM]\n[[Olga Bell]]\n[[橋本麦]]",
+      "modifiedAt": 1769781804000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/DEzuZlUB3zM/hqdefault.jpg"
     },
@@ -164,9 +164,9 @@
       "name": "Bad Apple but it's a 3Blue1Brown video.md",
       "slug": "Bad Apple but it's a 3Blue1Brown video",
       "title": "Bad Apple but it's a 3Blue1Brown video",
-      "content": "<!-- updated: 2026-01-24T22:52:42 -->\n#public\n[yt https://www.youtube.com/watch?v=t0N0dZTsn-w]",
-      "preview": "[yt https://www.youtube.com/watch?v=t0N0dZTsn-w]",
-      "modifiedAt": 1769262762000,
+      "content": "<!-- updated: 2026-01-30T23:17:13 -->\n#public\n[yt https://www.youtube.com/watch?v=t0N0dZTsn-w]\n\n[[Bad Apple!!]]",
+      "preview": "[yt https://www.youtube.com/watch?v=t0N0dZTsn-w]\n[[Bad Apple!!]]",
+      "modifiedAt": 1769782633000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/t0N0dZTsn-w/hqdefault.jpg"
     },
@@ -251,6 +251,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/RCh3Q08HMfs/hqdefault.jpg"
     },
     {
+      "name": "Chase No Face.md",
+      "slug": "Chase No Face",
+      "title": "Chase No Face",
+      "content": "<!-- updated: 2026-01-30T23:04:59 -->\n#public\n[yt https://www.youtube.com/watch?v=RfbMVOIJzzo]\n\n[[Olga Bell]]\n[[Zach Lieberman]]\n\n[yt https://www.youtube.com/watch?v=na7FU-VTWN8]\n>It’s based on face tracking / projection ideas I explored with [[Daito Manabe]]",
+      "preview": "[yt https://www.youtube.com/watch?v=RfbMVOIJzzo]\n[[Olga Bell]]\n[[Zach Lieberman]]",
+      "modifiedAt": 1769781899000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/RfbMVOIJzzo/hqdefault.jpg"
+    },
+    {
       "name": "Claude Code.md",
       "slug": "Claude Code",
       "title": "Claude Code",
@@ -308,6 +318,26 @@
       "preview": "このバージョンの [[.NET]] からパフォーマンスがどんな向上をしたの？が書かれてる記事\n新しいバージョンが出るたびに投稿されてそう\n読み応えたっぷり",
       "modifiedAt": 1769087781000,
       "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "Daito Manabe.md",
+      "slug": "Daito Manabe",
+      "title": "Daito Manabe",
+      "content": "<!-- updated: 2026-01-30T23:46:26 -->\n#public\nhttps://daito.ws/ja/\n\nhttps://scrapbox.io/artresearch/",
+      "preview": "https://daito.ws/ja/\nhttps://scrapbox.io/artresearch/",
+      "modifiedAt": 1769784386000,
+      "linkCount": 2,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "Daniel Shiffman.md",
+      "slug": "Daniel Shiffman",
+      "title": "Daniel Shiffman",
+      "content": "<!-- updated: 2026-01-30T23:28:54 -->\n#public\nhttps://www.youtube.com/@TheCodingTrain\n\nhttps://thecodingtrain.com/\n\n[[Processing]] , [[p5.js]] での [[Creative coding]] 関連の動画をいっぱいアップロードしてる\n\nCoding Challenge を写経してた時期がありました",
+      "preview": "https://www.youtube.com/@TheCodingTrain\nhttps://thecodingtrain.com/\n[[Processing]] , [[p5.js]] での [[Creative coding]] 関連の動画をいっぱいアップロードしてる",
+      "modifiedAt": 1769783334000,
+      "linkCount": 1,
       "thumbnailUrl": null
     },
     {
@@ -551,6 +581,16 @@
       "thumbnailUrl": "https://github.com/jj-vcs/jj/raw/main/docs/images/jj-logo.svg"
     },
     {
+      "name": "KBC 2018 ED - Upgrades (Keyboard Crasher Otomad).md",
+      "slug": "KBC 2018 ED - Upgrades (Keyboard Crasher Otomad)",
+      "title": "KBC 2018 ED - Upgrades (Keyboard Crasher Otomad)",
+      "content": "<!-- updated: 2026-01-30T23:18:25 -->\n#public\n[yt https://www.youtube.com/watch?v=nvoEaG8uwpE]\n\n[[Jeyun]]",
+      "preview": "[yt https://www.youtube.com/watch?v=nvoEaG8uwpE]\n[[Jeyun]]",
+      "modifiedAt": 1769782705000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/nvoEaG8uwpE/hqdefault.jpg"
+    },
+    {
       "name": "Keijiro Takahashi 神です.md",
       "slug": "Keijiro Takahashi 神です",
       "title": "Keijiro Takahashi 神です",
@@ -651,6 +691,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/GiaD7WSdb4M/hqdefault.jpg"
     },
     {
+      "name": "Mine or Yours (Bella Boo Remix).md",
+      "slug": "Mine or Yours (Bella Boo Remix)",
+      "title": "Mine or Yours (Bella Boo Remix)",
+      "content": "<!-- updated: 2026-01-30T23:39:48 -->\n#public\n[yt https://www.youtube.com/watch?v=x9ecFU7w0NE]\n\n[[橋本麦]]",
+      "preview": "[yt https://www.youtube.com/watch?v=x9ecFU7w0NE]\n[[橋本麦]]",
+      "modifiedAt": 1769783988000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/x9ecFU7w0NE/hqdefault.jpg"
+    },
+    {
       "name": "Moleman 2 - Demoscene - The Art of the Algorithms.md",
       "slug": "Moleman 2 - Demoscene - The Art of the Algorithms",
       "title": "Moleman 2 - Demoscene - The Art of the Algorithms",
@@ -659,6 +709,16 @@
       "modifiedAt": 1769263078000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/iRkZcTg1JWU/hqdefault.jpg"
+    },
+    {
+      "name": "Nature of Code.md",
+      "slug": "Nature of Code",
+      "title": "Nature of Code",
+      "content": "<!-- updated: 2026-01-30T23:30:35 -->\n#public\n[img https://natureofcode.com/static/18df89731f3e9900d7f93faf5febcb7e/e9d78/0.webp]\nhttps://natureofcode.com/\n\n[[Daniel Shiffman]] 先生による [[Creative coding]] 書籍\n\n初版は [[Processing]] だった気がするけど、新しいやつは [[p5.js]] っぽい\n\n日本語訳が実家にある",
+      "preview": "[img https://natureofcode.com/static/18df89731f3e9900d7f93faf5febcb7e/e9d78/0.webp]\nhttps://natureofcode.com/\n[[Daniel Shiffman]] 先生による [[Creative coding]] 書籍",
+      "modifiedAt": 1769783435000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://natureofcode.com/static/18df89731f3e9900d7f93faf5febcb7e/e9d78/0.webp"
     },
     {
       "name": "neuecc.md",
@@ -699,6 +759,36 @@
       "modifiedAt": 1769700029000,
       "linkCount": 1,
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png"
+    },
+    {
+      "name": "openFrameworks.md",
+      "slug": "openFrameworks",
+      "title": "openFrameworks",
+      "content": "<!-- updated: 2026-01-30T23:08:12 -->\n#public\n[img https://openframeworks.cc/assets/images/of-logo.svg]\nhttps://openframeworks.cc/\n\n[[Creative coding]] のための [[オープンソース]] [[C++]] ツールキット",
+      "preview": "[img https://openframeworks.cc/assets/images/of-logo.svg]\nhttps://openframeworks.cc/\n[[Creative coding]] のための [[オープンソース]] [[C++]] ツールキット",
+      "modifiedAt": 1769782092000,
+      "linkCount": 1,
+      "thumbnailUrl": "https://openframeworks.cc/assets/images/of-logo.svg"
+    },
+    {
+      "name": "OpenProcessing.md",
+      "slug": "OpenProcessing",
+      "title": "OpenProcessing",
+      "content": "<!-- updated: 2026-01-30T23:36:27 -->\n#public\n[img https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY6OWG3sbvrx8HArPDQQrXvFimvePww80YEw&s]\nhttps://openprocessing.org/\n\n[[p5.js]] 製の作品投稿プラットフォーム",
+      "preview": "[img https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY6OWG3sbvrx8HArPDQQrXvFimvePww80YEw&s]\nhttps://openprocessing.org/\n[[p5.js]] 製の作品投稿プラットフォーム",
+      "modifiedAt": 1769783787000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY6OWG3sbvrx8HArPDQQrXvFimvePww80YEw&s"
+    },
+    {
+      "name": "p5.js.md",
+      "slug": "p5.js",
+      "title": "p5.js",
+      "content": "<!-- updated: 2026-01-30T23:32:01 -->\n#public\n[img https://p5js.jp/assets/img/p5js.svg]\nhttps://p5js.org/",
+      "preview": "[img https://p5js.jp/assets/img/p5js.svg]\nhttps://p5js.org/",
+      "modifiedAt": 1769783521000,
+      "linkCount": 4,
+      "thumbnailUrl": "https://p5js.jp/assets/img/p5js.svg"
     },
     {
       "name": "PAPERS.md",
@@ -749,6 +839,16 @@
       "modifiedAt": 1768708873000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/WKeFuxvI6fw/hqdefault.jpg"
+    },
+    {
+      "name": "ray.md",
+      "slug": "ray",
+      "title": "ray",
+      "content": "<!-- updated: 2026-01-31T02:32:30 -->\n#public\n[yt https://www.youtube.com/watch?v=yT_ylSCgY6Q]\n\n[[BUMP OF CHICKEN]]",
+      "preview": "[yt https://www.youtube.com/watch?v=yT_ylSCgY6Q]\n[[BUMP OF CHICKEN]]",
+      "modifiedAt": 1769794350000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/yT_ylSCgY6Q/hqdefault.jpg"
     },
     {
       "name": "ReDreaming Angel.md",
@@ -1071,6 +1171,16 @@
       "thumbnailUrl": "https://gyazo.com/c079d4c1dc1d9582a83dd9f8100e3d70/max_size/1000"
     },
     {
+      "name": "Zach Lieberman.md",
+      "slug": "Zach Lieberman",
+      "title": "Zach Lieberman",
+      "content": "<!-- updated: 2026-01-30T23:06:05 -->\n#public\nhttp://zach.li/\n\nアーティスト\n\n[[openFrameworks]] の開発も手伝っている",
+      "preview": "http://zach.li/\nアーティスト\n[[openFrameworks]] の開発も手伝っている",
+      "modifiedAt": 1769781965000,
+      "linkCount": 1,
+      "thumbnailUrl": null
+    },
+    {
       "name": "Ziphead.md",
       "slug": "Ziphead",
       "title": "Ziphead",
@@ -1079,6 +1189,16 @@
       "modifiedAt": 1769315600000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/Y_lm0cZOkeA/hqdefault.jpg"
+    },
+    {
+      "name": "【東方】Bad Apple!! K-D Tree Regenerated!!.md",
+      "slug": "【東方】Bad Apple!! K-D Tree Regenerated!!",
+      "title": "【東方】Bad Apple!! K-D Tree Regenerated!!",
+      "content": "<!-- updated: 2026-01-30T23:16:48 -->\n#public\n[yt https://www.youtube.com/watch?v=u7jjBIYitcI]\n\n[[Jeyun]]\n[[Bad Apple!!]]\n[[k-d tree]]\n",
+      "preview": "[yt https://www.youtube.com/watch?v=u7jjBIYitcI]\n[[Jeyun]]\n[[Bad Apple!!]]",
+      "modifiedAt": 1769782608000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/u7jjBIYitcI/hqdefault.jpg"
     },
     {
       "name": "あのチューン.md",
@@ -1507,7 +1627,7 @@
       "content": "<!-- updated: 2026-01-24T17:46:48 -->\n#public\nhttps://baku89.com/\n\n[[baku89]]",
       "preview": "https://baku89.com/\n[[baku89]]",
       "modifiedAt": 1769244408000,
-      "linkCount": 2,
+      "linkCount": 3,
       "thumbnailUrl": null
     },
     {
@@ -1548,6 +1668,16 @@
       "preview": "https://ja.wikipedia.org/wiki/%E7%9F%A5%E8%AD%98%E3%81%AE%E5%91%AA%E3%81%84\n一度知ってしまったら知らなかった時の状態を上手く思い出すことは出来ない",
       "modifiedAt": 1768646855000,
       "linkCount": 1,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "福祉としてのコンテンツ.md",
+      "slug": "福祉としてのコンテンツ",
+      "title": "福祉としてのコンテンツ",
+      "content": "<!-- updated: 2026-01-30T22:54:38 -->\n#public\nコンテンツって言葉ナンセンスじゃないか、なんかいい言葉欲しい\n\n[tw https://x.com/masshutake5/status/2015073242126688372?s=20]\n\nhttps://www.trekkie-trax.com/ep/guchon-six-horns/\n>lilbesh ramko - それこそ気が狂いそうになる時に、ポップスから元気もらうことが多くて。マッキー（槇原敬之）とか[[星野源]]さんとか、無条件で元気が出るというか。ポップスのよさって無条件な愛というか、寄り添ってもらえる感覚にあると思うんで。だから、最近は自分を元気づけるために制作してる部分もある。そうやって自分自身の頭を整理して、現状出せる音楽を作ってる、という感じですね。",
+      "preview": "コンテンツって言葉ナンセンスじゃないか、なんかいい言葉欲しい\n[tw https://x.com/masshutake5/status/2015073242126688372?s=20]\nhttps://www.trekkie-trax.com/ep/guchon-six-horns/",
+      "modifiedAt": 1769781278000,
+      "linkCount": 0,
       "thumbnailUrl": null
     },
     {
@@ -1744,6 +1874,7 @@
       }
     ],
     "cdak": [],
+    "Chase No Face": [],
     "Claude Code": [],
     "Compofiller Studio": [],
     "Conventional Commits": [],
@@ -1776,6 +1907,25 @@
       }
     ],
     "CSharp _ Performance Improvements シリーズ": [],
+    "Daito Manabe": [
+      {
+        "slug": "Chase No Face",
+        "title": "Chase No Face",
+        "preview": "[yt https://www.youtube.com/watch?v=RfbMVOIJzzo]\n[[Olga Bell]]\n[[Zach Lieberman]]"
+      },
+      {
+        "slug": "Terminal Slam",
+        "title": "Terminal Slam",
+        "preview": "[yt https://www.youtube.com/watch?v=GlhV-OKHecI]\n[[Squarepusher]]\nDirector, Glitch Effects and Interaction Designer：[[Daito Manabe]]"
+      }
+    ],
+    "Daniel Shiffman": [
+      {
+        "slug": "Nature of Code",
+        "title": "Nature of Code",
+        "preview": "[img https://natureofcode.com/static/18df89731f3e9900d7f93faf5febcb7e/e9d78/0.webp]\nhttps://natureofcode.com/\n[[Daniel Shiffman]] 先生による [[Creative coding]] 書籍"
+      }
+    ],
     "Demo": [
       {
         "slug": "4k intro",
@@ -1866,6 +2016,7 @@
     "Jeff Mills": [],
     "JSONPlaceholder": [],
     "Jujutsu": [],
+    "KBC 2018 ED - Upgrades (Keyboard Crasher Otomad)": [],
     "Keijiro Takahashi 神です": [],
     "Keijiro Takahashi": [
       {
@@ -1892,7 +2043,9 @@
     "LÖVE": [],
     "Mad Hope": [],
     "meow mix": [],
+    "Mine or Yours (Bella Boo Remix)": [],
     "Moleman 2 - Demoscene - The Art of the Algorithms": [],
+    "Nature of Code": [],
     "neuecc": [
       {
         "slug": "BenchmarkDotNet",
@@ -1920,11 +2073,42 @@
         "preview": "https://stephango.com/\n[[Obsidian]] 開発者\nサイトには素敵な読み物がいっぱいある"
       }
     ],
+    "openFrameworks": [
+      {
+        "slug": "Zach Lieberman",
+        "title": "Zach Lieberman",
+        "preview": "http://zach.li/\nアーティスト\n[[openFrameworks]] の開発も手伝っている"
+      }
+    ],
+    "OpenProcessing": [],
+    "p5.js": [
+      {
+        "slug": "Daniel Shiffman",
+        "title": "Daniel Shiffman",
+        "preview": "https://www.youtube.com/@TheCodingTrain\nhttps://thecodingtrain.com/\n[[Processing]] , [[p5.js]] での [[Creative coding]] 関連の動画をいっぱいアップロードしてる"
+      },
+      {
+        "slug": "Nature of Code",
+        "title": "Nature of Code",
+        "preview": "[img https://natureofcode.com/static/18df89731f3e9900d7f93faf5febcb7e/e9d78/0.webp]\nhttps://natureofcode.com/\n[[Daniel Shiffman]] 先生による [[Creative coding]] 書籍"
+      },
+      {
+        "slug": "OpenProcessing",
+        "title": "OpenProcessing",
+        "preview": "[img https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY6OWG3sbvrx8HArPDQQrXvFimvePww80YEw&s]\nhttps://openprocessing.org/\n[[p5.js]] 製の作品投稿プラットフォーム"
+      },
+      {
+        "slug": "The Useless Web",
+        "title": "The Useless Web",
+        "preview": "https://theuselessweb.com/\n好きなサイト\n高3~大1くらいの時に [[YouTube]] で知って [[p5.js]] で真似できないかと考えてた"
+      }
+    ],
     "PAPERS": [],
     "plyPhon": [],
     "Poolsuite": [],
     "Q. つまらない本を買ってしまったらどうする？ A. 最後まで読んで罵倒する": [],
     "QuomodocunquizE": [],
+    "ray": [],
     "ReDreaming Angel": [],
     "RenderDoc": [
       {
@@ -1990,7 +2174,15 @@
         "preview": "[yt https://www.youtube.com/watch?v=bdWGBirRpDs]\n[[xoyozo]]"
       }
     ],
+    "Zach Lieberman": [
+      {
+        "slug": "Chase No Face",
+        "title": "Chase No Face",
+        "preview": "[yt https://www.youtube.com/watch?v=RfbMVOIJzzo]\n[[Olga Bell]]\n[[Zach Lieberman]]"
+      }
+    ],
     "Ziphead": [],
+    "【東方】Bad Apple!! K-D Tree Regenerated!!": [],
     "あのチューン": [],
     "え～～～とつまりVJは・・・曲に合わせてリアルタイムで映像を編集する・・・・・・・・・人？": [],
     "きらめく絆創膏": [],
@@ -2076,7 +2268,12 @@
       {
         "slug": "ATA",
         "title": "ATA",
-        "preview": "[yt https://www.youtube.com/watch?v=DEzuZlUB3zM]\n[[橋本麦]]"
+        "preview": "[yt https://www.youtube.com/watch?v=DEzuZlUB3zM]\n[[Olga Bell]]\n[[橋本麦]]"
+      },
+      {
+        "slug": "Mine or Yours (Bella Boo Remix)",
+        "title": "Mine or Yours (Bella Boo Remix)",
+        "preview": "[yt https://www.youtube.com/watch?v=x9ecFU7w0NE]\n[[橋本麦]]"
       },
       {
         "slug": "メタマウンティング・ゲーム",
@@ -2094,6 +2291,7 @@
         "preview": "https://baku89.com/2022/07/03/meta-mounting\n[[橋本麦]]\n[[マウンティング]]を知ってしまった日から俺たちは永遠にマウンティングの呪縛から逃れられない"
       }
     ],
+    "福祉としてのコンテンツ": [],
     "紙皿、割りばし、プラコップ": [],
     "自他の境界": [],
     "読み手が本を面白くする": [],
