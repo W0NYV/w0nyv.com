@@ -191,6 +191,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/t0N0dZTsn-w/hqdefault.jpg"
     },
     {
+      "name": "Bad Application.md",
+      "slug": "Bad Application",
+      "title": "Bad Application",
+      "content": "<!-- updated: 2026-02-03T21:41:29 -->\n#public\n[img https://images.ntwind.com/utilities/badapp-12.png]\nhttps://www.ntwind.com/freeware/badapp.html\n\n自身応答なし状態にしたり、クラッシュさせたりできるアプリ\n\n左の欄はよくわかってない",
+      "preview": "[img https://images.ntwind.com/utilities/badapp-12.png]\nhttps://www.ntwind.com/freeware/badapp.html\n自身応答なし状態にしたり、クラッシュさせたりできるアプリ",
+      "modifiedAt": 1770122489000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://images.ntwind.com/utilities/badapp-12.png"
+    },
+    {
       "name": "BenchmarkDotNet.md",
       "slug": "BenchmarkDotNet",
       "title": "BenchmarkDotNet",
@@ -219,6 +229,16 @@
       "modifiedAt": 1768709521000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/5DPtClNqOEQ/hqdefault.jpg"
+    },
+    {
+      "name": "Blogtrottr.md",
+      "slug": "Blogtrottr",
+      "title": "Blogtrottr",
+      "content": "<!-- updated: 2026-02-03T22:05:12 -->\n#public\n[img https://blogtrottr.com/images/header-logo.png]\nhttps://blogtrottr.com/\n\n[[RSS]] を登録したメアドに飛ばすよ\n広告入るけど無料でアカウント登録なしで使えて偉すぎる",
+      "preview": "[img https://blogtrottr.com/images/header-logo.png]\nhttps://blogtrottr.com/\n[[RSS]] を登録したメアドに飛ばすよ",
+      "modifiedAt": 1770123912000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://blogtrottr.com/images/header-logo.png"
     },
     {
       "name": "Bokeh.md",
@@ -574,11 +594,11 @@
       "name": "healthy spread.md",
       "slug": "healthy spread",
       "title": "healthy spread",
-      "content": "<!-- updated: 2026-02-02T22:27:08 -->\n#public\n豆腐をベースにどんぶりに食材を入れて混ぜて食う\n\n結構なに入れてもいいはず\n\n入れがちなもの\n- ラー油\n- ごま油\n- めかぶ\n- 納豆\n\n最強のレシピ見つけてえな\n\nhttps://en.wikipedia.org/wiki/Spread_(prison_food)",
-      "preview": "豆腐をベースにどんぶりに食材を入れて混ぜて食う\n結構なに入れてもいいはず\n入れがちなもの",
-      "modifiedAt": 1770038828000,
+      "content": "<!-- updated: 2026-02-03T21:53:54 -->\n#public\n豆腐をベースにどんぶりに食材を入れて混ぜて食う\n\n最安 50 円 (豆腐と醤油だけでも成立するため) だけど大体 150 ~ 300 円に落ちつく気がする\n\n結構なに入れてもいいはず\n最強のレシピ見つけてえな\n\n入れたことあるもの\n- ラー油\n- ごま油\n- めかぶ\n- 納豆\n- 卵\n- [https://item.rakuten.co.jp/chinmiya/030513/#030513 かつを酒盗 マイルド]\n  - not too bad\n\nhttps://en.wikipedia.org/wiki/Spread_(prison_food)\n[yt https://www.youtube.com/watch?v=KtmkrmHC-4M]",
+      "preview": "豆腐をベースにどんぶりに食材を入れて混ぜて食う\n最安 50 円 (豆腐と醤油だけでも成立するため) だけど大体 150 ~ 300 円に落ちつく気がする\n結構なに入れてもいいはず",
+      "modifiedAt": 1770123234000,
       "linkCount": 0,
-      "thumbnailUrl": null
+      "thumbnailUrl": "https://img.youtube.com/vi/KtmkrmHC-4M/hqdefault.jpg"
     },
     {
       "name": "Height Map to Normal Map.md",
@@ -724,9 +744,9 @@
       "name": "Level playing field.md",
       "slug": "Level playing field",
       "title": "Level playing field",
-      "content": "<!-- updated: 2026-02-02T22:13:41 -->\n#public\n",
-      "preview": "",
-      "modifiedAt": 1770038021000,
+      "content": "<!-- updated: 2026-02-03T21:37:50 -->\n#public\nhttps://en.wikipedia.org/wiki/Level_playing_field",
+      "preview": "https://en.wikipedia.org/wiki/Level_playing_field",
+      "modifiedAt": 1770122270000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -1031,6 +1051,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/KqPnZxVnB-8/hqdefault.jpg"
     },
     {
+      "name": "RSS.md",
+      "slug": "RSS",
+      "title": "RSS",
+      "content": "<!-- updated: 2026-02-03T22:07:48 -->\n#public\n[img https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/250px-Feed-icon.svg.png]\n\nウェブサイトの更新情報を配信するための [[XML]] フォーマット \n\nhttps://ja.wikipedia.org/wiki/RSS\n歴史すごいな",
+      "preview": "[img https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/250px-Feed-icon.svg.png]\nウェブサイトの更新情報を配信するための [[XML]] フォーマット \nhttps://ja.wikipedia.org/wiki/RSS",
+      "modifiedAt": 1770124068000,
+      "linkCount": 1,
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/250px-Feed-icon.svg.png"
+    },
+    {
       "name": "Rubber Johnny.md",
       "slug": "Rubber Johnny",
       "title": "Rubber Johnny",
@@ -1069,6 +1099,16 @@
       "modifiedAt": 1769699482000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/Tk_hUtR3f8Y/hqdefault.jpg"
+    },
+    {
+      "name": "Scum.md",
+      "slug": "Scum",
+      "title": "Scum",
+      "content": "<!-- updated: 2026-02-03T23:11:18 -->\n#public\nhttps://www.kemuri-ga-tatsu.com/kjdnktk2025-jacksonkaki\n[img https://gyazo.com/5d0780a066e366340971a850dd704a99/max_size/1000]\n\n[[既成概念]]の破壊\n\n[tw https://x.com/Kakiaraara/status/1912108795557470588/]\n",
+      "preview": "https://www.kemuri-ga-tatsu.com/kjdnktk2025-jacksonkaki\n[img https://gyazo.com/5d0780a066e366340971a850dd704a99/max_size/1000]\n[[既成概念]]の破壊",
+      "modifiedAt": 1770127878000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://gyazo.com/5d0780a066e366340971a850dd704a99/max_size/1000"
     },
     {
       "name": "Shelter.md",
@@ -1221,6 +1261,16 @@
       "thumbnailUrl": "https://avatars.githubusercontent.com/u/79505?s=200&v=4"
     },
     {
+      "name": "TOKIDOKI.md",
+      "slug": "TOKIDOKI",
+      "title": "TOKIDOKI",
+      "content": "<!-- updated: 2026-02-03T22:10:29 -->\n#public\n[yt https://www.youtube.com/watch?v=U-b1dwFzfTs]\n\n[[Gaia Space Agency]]\n[[cables.gl]]\n\n🔗\n- https://www.pouet.net/prod.php?which=92818\n- https://www.youtube.com/watch?v=U-b1dwFzfTs",
+      "preview": "[yt https://www.youtube.com/watch?v=U-b1dwFzfTs]\n[[Gaia Space Agency]]\n[[cables.gl]]",
+      "modifiedAt": 1770124229000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/U-b1dwFzfTs/hqdefault.jpg"
+    },
+    {
       "name": "TOPLAP.md",
       "slug": "TOPLAP",
       "title": "TOPLAP",
@@ -1299,6 +1349,16 @@
       "modifiedAt": 1768709164000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/bdWGBirRpDs/hqdefault.jpg"
+    },
+    {
+      "name": "Webhook.md",
+      "slug": "Webhook",
+      "title": "Webhook",
+      "content": "<!-- updated: 2026-02-03T21:42:33 -->\n#public\nhttps://qiita.com/soarflat/items/ed970f6dc59b2ab76169\n\nただの [[HTTP]] の POST リクエスト",
+      "preview": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169\nただの [[HTTP]] の POST リクエスト",
+      "modifiedAt": 1770122553000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "Wiki の私物化.md",
@@ -2151,9 +2211,11 @@
     "Automatic": [],
     "azumanga click house": [],
     "Bad Apple but it's a 3Blue1Brown video": [],
+    "Bad Application": [],
     "BenchmarkDotNet": [],
     "biimシステム": [],
     "BITE ME MORE PLS": [],
+    "Blogtrottr": [],
     "Bokeh": [],
     "Bonzomatic": [],
     "BRDG": [
@@ -2434,10 +2496,18 @@
     ],
     "RFCにおいて要請の程度を示すために用いるキーワード": [],
     "Riddim Hell": [],
+    "RSS": [
+      {
+        "slug": "Blogtrottr",
+        "title": "Blogtrottr",
+        "preview": "[img https://blogtrottr.com/images/header-logo.png]\nhttps://blogtrottr.com/\n[[RSS]] を登録したメアドに飛ばすよ"
+      }
+    ],
     "Rubber Johnny": [],
     "Rudebox": [],
     "ScrapboxでVJするためのChrome拡張を作った": [],
     "SCRATCHIN": [],
+    "Scum": [],
     "Shelter": [],
     "Simple Web Server": [],
     "SmoothCSV": [],
@@ -2470,6 +2540,7 @@
     "The ten rules of techno": [],
     "The Useless Web": [],
     "TiddlyWiki": [],
+    "TOKIDOKI": [],
     "TOPLAP": [],
     "touch_waves": [],
     "Unity _ シェーダに渡すテクスチャのデフォルト値": [],
@@ -2478,6 +2549,7 @@
     "VRDG+H _1 - 2016-03-26": [],
     "Wackelkontakt": [],
     "Waifu Jam": [],
+    "Webhook": [],
     "Wiki の私物化": [],
     "wiki 兼 ブログ 兼 メモ 兼 ポートフォリオ": [],
     "Wikilinks": [],
