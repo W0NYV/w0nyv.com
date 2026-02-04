@@ -51,6 +51,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "A Sense Of Getting Closer.md",
+      "slug": "A Sense Of Getting Closer",
+      "title": "A Sense Of Getting Closer",
+      "content": "<!-- updated: 2026-02-04T23:49:26 -->\n#public\n[yt https://youtu.be/4jaHcz3d85w?si=hyWzNfEQAx3wx1j7]\n\n[[Max Cooper]]\n[[Conner Griffith]]",
+      "preview": "[yt https://youtu.be/4jaHcz3d85w?si=hyWzNfEQAx3wx1j7]\n[[Max Cooper]]\n[[Conner Griffith]]",
+      "modifiedAt": 1770216566000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/4jaHcz3d85w/hqdefault.jpg"
+    },
+    {
       "name": "Alberto Balsalm (Super Mario 64 Remix).md",
       "slug": "Alberto Balsalm (Super Mario 64 Remix)",
       "title": "Alberto Balsalm (Super Mario 64 Remix)",
@@ -749,6 +759,16 @@
       "modifiedAt": 1770122270000,
       "linkCount": 0,
       "thumbnailUrl": null
+    },
+    {
+      "name": "Limen.md",
+      "slug": "Limen",
+      "title": "Limen",
+      "content": "<!-- updated: 2026-02-04T23:56:15 -->\n#public\n[yt https://www.youtube.com/watch?v=4g7txcnj798]\n\n[[yozba]]",
+      "preview": "[yt https://www.youtube.com/watch?v=4g7txcnj798]\n[[yozba]]",
+      "modifiedAt": 1770216975000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/4g7txcnj798/hqdefault.jpg"
     },
     {
       "name": "live coding youtube.md",
@@ -1971,6 +1991,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "決定木.md",
+      "slug": "決定木",
+      "title": "決定木",
+      "content": "<!-- updated: 2026-02-04T23:47:12 -->\n#public\n分類や回帰をするための木構造\n\nデータを分類したいときは分類木って言うし、どんな時にどんな感じの値になるのか知りたいときは回帰木というっぽい\n\n[img https://tsubasabunko.jp/archives/014/202010/6df6364ef57ae93ccb598adbd15b62df.jpg]\nこれは分類木だなぁ\n\n決定木を作成するためのアルゴリズム\n- [[CART]]\n- [[C4.5]]\nなどなど\n\n🔗\n- https://qiita.com/3000manJPY/items/ef7495960f472ec14377\n- https://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E6%9C%A8",
+      "preview": "分類や回帰をするための木構造\nデータを分類したいときは分類木って言うし、どんな時にどんな感じの値になるのか知りたいときは回帰木というっぽい\n[img https://tsubasabunko.jp/archives/014/202010/6df6364ef57ae93ccb598adbd15b62df.jpg]",
+      "modifiedAt": 1770216432000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://tsubasabunko.jp/archives/014/202010/6df6364ef57ae93ccb598adbd15b62df.jpg"
+    },
+    {
       "name": "流転光速.md",
       "slug": "流転光速",
       "title": "流転光速",
@@ -2165,6 +2195,7 @@
         "preview": "[yt https://www.youtube.com/watch?v=D2COWeeEqTs]\n[[64k intro]]\n[[0b5vr]]"
       }
     ],
+    "A Sense Of Getting Closer": [],
     "Alberto Balsalm (Super Mario 64 Remix)": [],
     "Aleph-0": [],
     "Algorave Tokyo - 2017-12-22": [],
@@ -2404,6 +2435,7 @@
     "KodeLife": [],
     "Learning Synths": [],
     "Level playing field": [],
+    "Limen": [],
     "live coding youtube": [],
     "Log-polar coordinates": [],
     "Lumen": [],
@@ -2699,6 +2731,7 @@
       }
     ],
     "比": [],
+    "決定木": [],
     "流転光速": [],
     "無知自慢": [],
     "生活core": [],
