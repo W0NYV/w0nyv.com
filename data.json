@@ -561,6 +561,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/ev3vENli7wQ/hqdefault.jpg"
     },
     {
+      "name": "Generative Art Timeline.md",
+      "slug": "Generative Art Timeline",
+      "title": "Generative Art Timeline",
+      "content": "<!-- updated: 2026-02-06T23:40:36 -->\n#public\nhttps://timeline.lerandom.art/\n\n[[Le Random]] による [[Generative Art]] の Timeline\n",
+      "preview": "https://timeline.lerandom.art/\n[[Le Random]] による [[Generative Art]] の Timeline",
+      "modifiedAt": 1770388836000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "Ghost Voices.md",
       "slug": "Ghost Voices",
       "title": "Ghost Voices",
@@ -569,6 +579,16 @@
       "modifiedAt": 1769611655000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/HPc8QMycGno/hqdefault.jpg"
+    },
+    {
+      "name": "GitHub _ Artifacts.md",
+      "slug": "GitHub _ Artifacts",
+      "title": "GitHub : Artifacts",
+      "content": "<!-- updated: 2026-02-06T23:55:18 -->\n<!-- title: GitHub : Artifacts -->\n#public\nhttps://docs.github.com/ja/actions/concepts/workflows-and-actions/workflow-artifacts\n\nリポジトリとは別に成果物を一時的に保管できるやつという認識\n\n>ビルドされたバイナリやビルド ログなど、ワークフローの実行が終了した後に表示するためにジョブによって生成されたファイルを保存する場合は、成果物を使用します。\nらしい\n\nこれによりわざわざ `gh-pages` みたいなブランチを用意しなくても [[GitHub Pages]] にデプロイできる\nhttps://zenn.dev/zozotech/articles/f2509a21b768ed",
+      "preview": "https://docs.github.com/ja/actions/concepts/workflows-and-actions/workflow-artifacts\nリポジトリとは別に成果物を一時的に保管できるやつという認識\n>ビルドされたバイナリやビルド ログなど、ワークフローの実行が終了した後に表示するためにジョブによって生成されたファイルを保存する場合は、成果物を使用します。",
+      "modifiedAt": 1770389718000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "Glitch.md",
@@ -661,6 +681,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/eU-UsvYbIV0/hqdefault.jpg"
     },
     {
+      "name": "Jesus on E's.md",
+      "slug": "Jesus on E's",
+      "title": " Jesus on E's",
+      "content": "<!-- updated: 2026-02-06T23:23:30 -->\n<!-- title:  Jesus on E's -->\n#public\n[yt https://www.youtube.com/watch?v=zxuX23HIdt8]\n\n[[LSD]]\n[[Amiga]]\n\n🔗\n- https://www.pouet.net/prod.php?which=5265\n- https://demozoo.org/productions/112329/\n",
+      "preview": "[yt https://www.youtube.com/watch?v=zxuX23HIdt8]\n[[LSD]]\n[[Amiga]]",
+      "modifiedAt": 1770387810000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/zxuX23HIdt8/hqdefault.jpg"
+    },
+    {
       "name": "JSONPlaceholder.md",
       "slug": "JSONPlaceholder",
       "title": "JSONPlaceholder",
@@ -739,6 +769,16 @@
       "modifiedAt": 1769324177000,
       "linkCount": 0,
       "thumbnailUrl": "https://hexler.net/site/images/app_icons/png_white/KodeLife-icon.png"
+    },
+    {
+      "name": "Le Random.md",
+      "slug": "Le Random",
+      "title": "Le Random",
+      "content": "<!-- updated: 2026-02-06T23:43:43 -->\n#public\n[img https://pbs.twimg.com/profile_images/1917858746421653504/HAgLoe3X_400x400.jpg]\nhttps://www.lerandom.art/\n\n[[Generative Art]] の Web メディア\nコレクションとかもやる\n",
+      "preview": "[img https://pbs.twimg.com/profile_images/1917858746421653504/HAgLoe3X_400x400.jpg]\nhttps://www.lerandom.art/\n[[Generative Art]] の Web メディア",
+      "modifiedAt": 1770389023000,
+      "linkCount": 1,
+      "thumbnailUrl": "https://pbs.twimg.com/profile_images/1917858746421653504/HAgLoe3X_400x400.jpg"
     },
     {
       "name": "Learning Synths.md",
@@ -917,7 +957,7 @@
       "content": "<!-- updated: 2026-01-30T00:20:29 -->\n#public\n[img https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png]\nhttps://obsidian.md/\n\n[[Markdown]] Editor / Viewer",
       "preview": "[img https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png]\nhttps://obsidian.md/\n[[Markdown]] Editor / Viewer",
       "modifiedAt": 1769700029000,
-      "linkCount": 1,
+      "linkCount": 2,
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png"
     },
     {
@@ -1011,6 +1051,16 @@
       "thumbnailUrl": "https://pbs.twimg.com/media/GtdOOUQbsAAhsRC?format=jpg&name=small"
     },
     {
+      "name": "Quartz.md",
+      "slug": "Quartz",
+      "title": "Quartz",
+      "content": "<!-- updated: 2026-02-06T23:16:31 -->\n#public\nhttps://quartz.jzhao.xyz/\nhttps://github.com/jackyzha0/quartz\n\n[[Markdown]] ファイルから静的サイトをジェネる\n\n[[Obsidian]] の構文はちゃんと機能するはず\nスポンサーにもいる",
+      "preview": "https://quartz.jzhao.xyz/\nhttps://github.com/jackyzha0/quartz\n[[Markdown]] ファイルから静的サイトをジェネる",
+      "modifiedAt": 1770387391000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "QuomodocunquizE.md",
       "slug": "QuomodocunquizE",
       "title": "QuomodocunquizE",
@@ -1099,6 +1149,16 @@
       "modifiedAt": 1768641389000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/itqUd8nxxfc/hqdefault.jpg"
+    },
+    {
+      "name": "Ryoji Ikeda.md",
+      "slug": "Ryoji Ikeda",
+      "title": "Ryoji Ikeda",
+      "content": "<!-- updated: 2026-02-07T01:31:25 -->\n#public\nhttps://www.ryojiikeda.com/\n\nhttps://bijutsutecho.com/magazine/news/report/25492\n>この世界をどうやって最小単位に還元するかというと、それがデータですよね。本質です。観測した事実であって、例えば星の座標だとしたら、xyzの数値だけで決まっていたり、DNAのシークエンスも解読されていて、タンパク質は20種類のアミノ酸でできていることがわかっています。牛のこの部分であれば、アミノ酸がどういう組み合わせでどう配列されているのかわかっているので、そうしたデータをもとに様々なことを記述することができるわけです。僕がやっているのは、そうしたデータを用いてアート作品をつくることです。その作品に意味はないし、答えもない。だから、音楽のコンサートに来るように、意味や答えも求めないで自由に楽しんでほしいと思っています\n",
+      "preview": "https://www.ryojiikeda.com/\nhttps://bijutsutecho.com/magazine/news/report/25492\n>この世界をどうやって最小単位に還元するかというと、それがデータですよね。本質です。観測した事実であって、例えば星の座標だとしたら、xyzの数値だけで決まっていたり、DNAのシークエンスも解読されていて、タンパク質は20種類のアミノ酸でできていることがわかっています。牛のこの部分であれば、アミノ酸がどういう組み合わせでどう配列されているのかわかっているので、そうしたデータをもとに様々なことを記述することができるわけです。僕がやっているのは、そうしたデータを用いてアート作品をつくることです。その作品に意味はないし、答えもない。だから、音楽のコンサートに来るように、意味や答えも求めないで自由に楽しんでほしいと思っています",
+      "modifiedAt": 1770395485000,
+      "linkCount": 1,
+      "thumbnailUrl": null
     },
     {
       "name": "ScrapboxでVJするためのChrome拡張を作った.md",
@@ -1491,6 +1551,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/u7jjBIYitcI/hqdefault.jpg"
     },
     {
+      "name": "あたらしいたましい.md",
+      "slug": "あたらしいたましい",
+      "title": "あたらしいたましい",
+      "content": "<!-- updated: 2026-02-06T23:47:25 -->\n#public\n[yt https://www.youtube.com/watch?v=ZwGpF9hOdSQ]\n\n[[□□□]]\n[[伊藤ガビン]] , [[林洋介]] , [[宮本拓馬]]",
+      "preview": "[yt https://www.youtube.com/watch?v=ZwGpF9hOdSQ]\n[[□□□]]\n[[伊藤ガビン]] , [[林洋介]] , [[宮本拓馬]]",
+      "modifiedAt": 1770389245000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/ZwGpF9hOdSQ/hqdefault.jpg"
+    },
+    {
       "name": "あのチューン.md",
       "slug": "あのチューン",
       "title": "あのチューン",
@@ -1657,6 +1727,16 @@
       "content": "<!-- updated: 2026-01-14T23:15:43 -->\n#public\n\nhttps://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%AB\nユーザが OS を操作するためのインターフェースを提供するプログラム\nと理解している\n普段何気なく画面を見て PC を操作してるけど、それもシェルを介しているはず\n\n[[Windows]] のシェル\nhttps://learn.microsoft.com/ja-jp/windows/win32/shell/shell-entry\nhttps://learn.microsoft.com/ja-jp/windows/win32/shell/explorer-concepts\nシェルから [[Win32 API]] を叩きにいってそう",
       "preview": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%AB\nユーザが OS を操作するためのインターフェースを提供するプログラム\nと理解している",
       "modifiedAt": 1768400143000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "シニフィアン _ シニフィエ.md",
+      "slug": "シニフィアン _ シニフィエ",
+      "title": "シニフィアン / シニフィエ",
+      "content": "<!-- updated: 2026-02-07T01:27:45 -->\n<!-- title: シニフィアン / シニフィエ -->\n#public\nhttps://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8B%E3%83%95%E3%82%A3%E3%82%A2%E3%83%B3%E3%81%A8%E3%82%B7%E3%83%8B%E3%83%95%E3%82%A3%E3%82%A8\n>シニフィアンは、フランス語で動詞 signifier の現在分詞形で、「指すもの」「意味するもの」「表すもの」という意味を持つ。\n>\n>それに対して、シニフィエは、同じ動詞の過去分詞形で、「指されるもの」「意味されているもの」「表されているもの」という意味を持つ。\n\n>ゴットロープ・フレーゲの指摘にもあるように、シニフィエにあたる「意味」ないし「概念」は「指示対象」とは必ずしも一致しない。この意味において、「指示対象」はレフェラン（référent）と呼ばれ、シニフィエとは区別される。\n実在するりんごとイデアのりんごは違うみたいな話っすかね\n\nシニフィアンとシニフィエを拡大解釈して色々考えてみたいので[[記号論]]を学びたいかも\n\n以下雑ななにか\n\nシニフィアンの強度が高ければシニフィエなんてどうでもよくなる気がする\n[[スぺクタル]]だったり、純粋にそれ自体が[[楽しいからやる]]以上に理由なんてどうでもよくなるやつ\n意味を表す以外の価値の発生？シニフィアンの自己目的化？\n雑に [[Gemini]] に投げたら [[マテリアリズム]] , [[Floating signifier]] という語を教えてもらった\n\n[[Ryoji Ikeda]]\n\nシニフィエがどうでもよくなるほどにシニフィアンの程度が高いことは一握りだろうし、普通はシニフィアン/シニフィエから価値を見出そうとするはず\n\n逆にシニフィアンの程度が低ければ低いほどシニフィエ気になりがち？\nその行為の意図はなんなんすかねみたいな\n\nまあでもシニフィアンがおもんなかったらシニフィエに共感できても微妙なのかもしれない\nhttps://baku89.com/so-what-problem\n\nシニフィアンとシニフィエの両方の強度が高いことが望ましいのか？\n平たく言えば意図にも納得できるし意図を表すものが意図を表す以外の価値も持ってると嬉しい？\nまあそんな気はする\n\n映画におけるストーリーはシニフィエではなくてシニフィアンで監督が映画でやりたかったことがシニフィエ？\nシニフィエがあからさまだと萎えるからある程度余白のあるシニフィアンであるべき？\n[[マクガフィン]]\n\n色々書いたけど別にこれらってシニフィアンとシニフィエという語をわざわざ用いなくても表せれるだろうし、こんがらがりを感じなくもない気持ちに",
+      "preview": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8B%E3%83%95%E3%82%A3%E3%82%A2%E3%83%B3%E3%81%A8%E3%82%B7%E3%83%8B%E3%83%95%E3%82%A3%E3%82%A8\n>シニフィアンは、フランス語で動詞 signifier の現在分詞形で、「指すもの」「意味するもの」「表すもの」という意味を持つ。\n>",
+      "modifiedAt": 1770395265000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -1901,12 +1981,12 @@
       "thumbnailUrl": null
     },
     {
-      "name": "庭への要望.md",
-      "slug": "庭への要望",
-      "title": "庭への要望",
-      "content": "<!-- updated: 2026-02-02T23:02:54 -->\n#public\nコードブロック欲しい\n\n[[2ホップリンク]]欲しくね",
-      "preview": "コードブロック欲しい\n[[2ホップリンク]]欲しくね",
-      "modifiedAt": 1770040974000,
+      "name": "庭整備.md",
+      "slug": "庭整備",
+      "title": "庭整備",
+      "content": "<!-- updated: 2026-02-06T23:12:17 -->\n#public\n[[2ホップリンク]]欲しくね\n\n[[レスポンシブウェブデザイン]] にする\n",
+      "preview": "[[2ホップリンク]]欲しくね\n[[レスポンシブウェブデザイン]] にする",
+      "modifiedAt": 1770387137000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -1968,6 +2048,16 @@
       "preview": "[https://scrapbox.io/shokai/%E6%9C%80%E7%B5%82%E7%9A%84%E3%81%AB%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8C%E3%81%B0%E3%82%88%E3%81%84 /shokai/最終的に見つかればよい]\nせやね\n例えば `Hoge : huga` みたいなタイトルは Hoge の huga のことを述べているわけだけどこのページと Hoge というタイトルのページをリンクさせたければ、わざとらしく本文に `[[Hoge]]` を仕込まないといけない",
       "modifiedAt": 1769696176000,
       "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "楽しいからやる.md",
+      "slug": "楽しいからやる",
+      "title": "楽しいからやる",
+      "content": "<!-- updated: 2026-02-07T00:17:24 -->\n#public\nhttps://blueenvelope.intheblueshirt.com/p/the-blue-envelope-12\n>特に綺麗事をいうつもりはないが、音楽は楽しい。演奏をするのも、作品を作るのも楽しい。人に聴いてもらえるともっと楽しい。楽しいからやるの。そして、楽器を触った瞬間に、DAWからなんらかの音を鳴らした瞬間に、作品を作り始めた瞬間に、明確に大きすぎる”何か”が起きている。「何も起きなかった」なんて悲しいことを言わないでくれよ、と思ったりするのである。\n\n富、名声は副産物くらいに捉えてた方が衛生的に良さそう",
+      "preview": "https://blueenvelope.intheblueshirt.com/p/the-blue-envelope-12\n>特に綺麗事をいうつもりはないが、音楽は楽しい。演奏をするのも、作品を作るのも楽しい。人に聴いてもらえるともっと楽しい。楽しいからやるの。そして、楽器を触った瞬間に、DAWからなんらかの音を鳴らした瞬間に、作品を作り始めた瞬間に、明確に大きすぎる”何か”が起きている。「何も起きなかった」なんて悲しいことを言わないでくれよ、と思ったりするのである。\n富、名声は副産物くらいに捉えてた方が衛生的に良さそう",
+      "modifiedAt": 1770391044000,
+      "linkCount": 1,
       "thumbnailUrl": null
     },
     {
@@ -2383,7 +2473,9 @@
       }
     ],
     "Gantz Graf": [],
+    "Generative Art Timeline": [],
     "Ghost Voices": [],
+    "GitHub _ Artifacts": [],
     "Glitch": [],
     "GOTCHA！": [],
     "Gyazo": [],
@@ -2409,6 +2501,7 @@
     "in perspective": [],
     "InfiniteRave _1 - 2018-09-15": [],
     "Jeff Mills": [],
+    "Jesus on E's": [],
     "JSONPlaceholder": [],
     "Jujutsu": [],
     "KaTeX": [],
@@ -2433,6 +2526,13 @@
     ],
     "Kindolphin": [],
     "KodeLife": [],
+    "Le Random": [
+      {
+        "slug": "Generative Art Timeline",
+        "title": "Generative Art Timeline",
+        "preview": "https://timeline.lerandom.art/\n[[Le Random]] による [[Generative Art]] の Timeline"
+      }
+    ],
     "Learning Synths": [],
     "Level playing field": [],
     "Limen": [],
@@ -2468,6 +2568,11 @@
       }
     ],
     "Obsidian": [
+      {
+        "slug": "Quartz",
+        "title": "Quartz",
+        "preview": "https://quartz.jzhao.xyz/\nhttps://github.com/jackyzha0/quartz\n[[Markdown]] ファイルから静的サイトをジェネる"
+      },
       {
         "slug": "Steph Ango",
         "title": "Steph Ango",
@@ -2516,6 +2621,7 @@
     "plyPhon": [],
     "Poolsuite": [],
     "Q. つまらない本を買ってしまったらどうする？ A. 最後まで読んで罵倒する": [],
+    "Quartz": [],
     "QuomodocunquizE": [],
     "ray": [],
     "ReDreaming Angel": [],
@@ -2537,6 +2643,13 @@
     ],
     "Rubber Johnny": [],
     "Rudebox": [],
+    "Ryoji Ikeda": [
+      {
+        "slug": "シニフィアン _ シニフィエ",
+        "title": "シニフィアン / シニフィエ",
+        "preview": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8B%E3%83%95%E3%82%A3%E3%82%A2%E3%83%B3%E3%81%A8%E3%82%B7%E3%83%8B%E3%83%95%E3%82%A3%E3%82%A8\n>シニフィアンは、フランス語で動詞 signifier の現在分詞形で、「指すもの」「意味するもの」「表すもの」という意味を持つ。\n>"
+      }
+    ],
     "ScrapboxでVJするためのChrome拡張を作った": [],
     "SCRATCHIN": [],
     "Scum": [],
@@ -2615,6 +2728,7 @@
     "Zettelkasten": [],
     "Ziphead": [],
     "【東方】Bad Apple!! K-D Tree Regenerated!!": [],
+    "あたらしいたましい": [],
     "あのチューン": [],
     "え～～～とつまりVJは・・・曲に合わせてリアルタイムで映像を編集する・・・・・・・・・人？": [],
     "かなしばりに遭ったら": [],
@@ -2643,6 +2757,7 @@
     "キリトリセン": [],
     "サンフェーデッド": [],
     "シェル": [],
+    "シニフィアン _ シニフィエ": [],
     "シャープネルかけたい……": [],
     "ジャムいね": [],
     "トラックバック": [],
@@ -2701,13 +2816,20 @@
       }
     ],
     "岩波Web目録": [],
-    "庭への要望": [],
+    "庭整備": [],
     "心やさしい人は理不尽なひどい目にあわないでほしい": [],
     "恋をするとテクノなんて聞いてられない": [],
     "恋愛サーキュレーションbyレゾナンツ児童合唱団_＠EXPO2025": [],
     "数年単位で見返しがちなアニメ": [],
     "書くことを楽しむ": [],
     "最終的に見つかればいい": [],
+    "楽しいからやる": [
+      {
+        "slug": "シニフィアン _ シニフィエ",
+        "title": "シニフィアン / シニフィエ",
+        "preview": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8B%E3%83%95%E3%82%A3%E3%82%A2%E3%83%B3%E3%81%A8%E3%82%B7%E3%83%8B%E3%83%95%E3%82%A3%E3%82%A8\n>シニフィアンは、フランス語で動詞 signifier の現在分詞形で、「指すもの」「意味するもの」「表すもの」という意味を持つ。\n>"
+      }
+    ],
     "橋本麦": [
       {
         "slug": "ATA",
