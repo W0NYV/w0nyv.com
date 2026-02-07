@@ -81,6 +81,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/6WsM9ExX7Bg/hqdefault.jpg"
     },
     {
+      "name": "Alfie Dwyer.md",
+      "slug": "Alfie Dwyer",
+      "title": "Alfie Dwyer",
+      "content": "<!-- updated: 2026-02-08T02:15:46 -->\n#public\nhttps://www.zezima.co.uk/",
+      "preview": "https://www.zezima.co.uk/",
+      "modifiedAt": 1770484546000,
+      "linkCount": 2,
+      "thumbnailUrl": null
+    },
+    {
       "name": "Algorave Tokyo - 2017-12-22.md",
       "slug": "Algorave Tokyo - 2017-12-22",
       "title": "Algorave Tokyo - 2017-12-22",
@@ -137,7 +147,7 @@
       "content": "<!-- updated: 2026-01-17T18:51:50 -->\n#public\n[img https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Aphex_Twin_logo.svg/2048px-Aphex_Twin_logo.svg.png]\n\nhttps://www.furious.com/perfect/aphextwin.html\n> PSF: Another term that's been used to describe your work is 'intelligent dance music.'\n> I just think it's really funny to have terms like that. It's bascially saying 'this is intelligent and everything else is STUPID.' It's really nasty to everyone else's music. (laughs) It makes me laugh, things like that. I don't use names. I just say that I like something or I don't.",
       "preview": "[img https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Aphex_Twin_logo.svg/2048px-Aphex_Twin_logo.svg.png]\nhttps://www.furious.com/perfect/aphextwin.html\n> PSF: Another term that's been used to describe your work is 'intelligent dance music.'",
       "modifiedAt": 1768643510000,
-      "linkCount": 2,
+      "linkCount": 5,
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Aphex_Twin_logo.svg/2048px-Aphex_Twin_logo.svg.png"
     },
     {
@@ -191,6 +201,26 @@
       "thumbnailUrl": "https://img.youtube.com/vi/OZJERhc4Zqo/hqdefault.jpg"
     },
     {
+      "name": "B.B.K.K.B.K.K.md",
+      "slug": "B.B.K.K.B.K.K",
+      "title": "B.B.K.K.B.K.K.",
+      "content": "<!-- updated: 2026-02-08T02:58:50 -->\n<!-- title: B.B.K.K.B.K.K. -->\n#public\n[yt https://www.youtube.com/watch?v=XHtQO0aLEKI]\n\n[[出前]]",
+      "preview": "[yt https://www.youtube.com/watch?v=XHtQO0aLEKI]\n[[出前]]",
+      "modifiedAt": 1770487130000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/XHtQO0aLEKI/hqdefault.jpg"
+    },
+    {
+      "name": "Back to Body.md",
+      "slug": "Back to Body",
+      "title": "Back to Body",
+      "content": "<!-- updated: 2026-02-08T02:14:03 -->\n#public\n[yt https://www.youtube.com/watch?v=_3Pkubty3QU]\n\n[[Alfie Dwyer]]",
+      "preview": "[yt https://www.youtube.com/watch?v=_3Pkubty3QU]\n[[Alfie Dwyer]]",
+      "modifiedAt": 1770484443000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/_3Pkubty3QU/hqdefault.jpg"
+    },
+    {
       "name": "Bad Apple but it's a 3Blue1Brown video.md",
       "slug": "Bad Apple but it's a 3Blue1Brown video",
       "title": "Bad Apple but it's a 3Blue1Brown video",
@@ -239,6 +269,16 @@
       "modifiedAt": 1768709521000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/5DPtClNqOEQ/hqdefault.jpg"
+    },
+    {
+      "name": "Blackbox Life Recorder 21f.md",
+      "slug": "Blackbox Life Recorder 21f",
+      "title": "Blackbox Life Recorder 21f",
+      "content": "<!-- updated: 2026-02-08T02:18:49 -->\n#public\n[yt https://www.youtube.com/watch?v=e_Ue_P7vcRE]\n\n[[Aphex Twin]]\n[[Weirdcore]] , [[Alfie Dwyer]]",
+      "preview": "[yt https://www.youtube.com/watch?v=e_Ue_P7vcRE]\n[[Aphex Twin]]\n[[Weirdcore]] , [[Alfie Dwyer]]",
+      "modifiedAt": 1770484729000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/e_Ue_P7vcRE/hqdefault.jpg"
     },
     {
       "name": "Blogtrottr.md",
@@ -491,6 +531,16 @@
       "thumbnailUrl": "https://pbs.twimg.com/profile_images/1681198354385215490/VLNJs4vJ_400x400.jpg"
     },
     {
+      "name": "Fibonacci Sequence.md",
+      "slug": "Fibonacci Sequence",
+      "title": "Fibonacci Sequence",
+      "content": "<!-- updated: 2026-02-08T01:51:57 -->\n#public\n[yt https://www.youtube.com/watch?v=BgBsMqFHx6M]\n\n[[Max Cooper]]\n[[Yoshi Sodeoka]]",
+      "preview": "[yt https://www.youtube.com/watch?v=BgBsMqFHx6M]\n[[Max Cooper]]\n[[Yoshi Sodeoka]]",
+      "modifiedAt": 1770483117000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/BgBsMqFHx6M/hqdefault.jpg"
+    },
+    {
       "name": "Flexoki.md",
       "slug": "Flexoki",
       "title": "Flexoki",
@@ -499,6 +549,16 @@
       "modifiedAt": 1769524771000,
       "linkCount": 0,
       "thumbnailUrl": "https://github.com/kepano/flexoki/raw/main/_images/flexoki-dark.png"
+    },
+    {
+      "name": "Flood the zone with shit.md",
+      "slug": "Flood the zone with shit",
+      "title": "Flood the zone with shit",
+      "content": "<!-- updated: 2026-02-08T02:27:36 -->\n#public\nhttps://www.mdpi.com/2076-0760/14/6/391\n\nhttps://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation\n\nカスで空間を埋め尽くす",
+      "preview": "https://www.mdpi.com/2076-0760/14/6/391\nhttps://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation\nカスで空間を埋め尽くす",
+      "modifiedAt": 1770485256000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "Flow vol.7 - 2025-07-15.md",
@@ -624,11 +684,11 @@
       "name": "healthy spread.md",
       "slug": "healthy spread",
       "title": "healthy spread",
-      "content": "<!-- updated: 2026-02-03T21:53:54 -->\n#public\n豆腐をベースにどんぶりに食材を入れて混ぜて食う\n\n最安 50 円 (豆腐と醤油だけでも成立するため) だけど大体 150 ~ 300 円に落ちつく気がする\n\n結構なに入れてもいいはず\n最強のレシピ見つけてえな\n\n入れたことあるもの\n- ラー油\n- ごま油\n- めかぶ\n- 納豆\n- 卵\n- [https://item.rakuten.co.jp/chinmiya/030513/#030513 かつを酒盗 マイルド]\n  - not too bad\n\nhttps://en.wikipedia.org/wiki/Spread_(prison_food)\n[yt https://www.youtube.com/watch?v=KtmkrmHC-4M]",
-      "preview": "豆腐をベースにどんぶりに食材を入れて混ぜて食う\n最安 50 円 (豆腐と醤油だけでも成立するため) だけど大体 150 ~ 300 円に落ちつく気がする\n結構なに入れてもいいはず",
-      "modifiedAt": 1770123234000,
+      "content": "<!-- updated: 2026-02-08T01:20:15 -->\n#public\n[img https://i.gyazo.com/1d1945cd1cd7822b710f31d72064cd56.jpg]\n豆腐をベースにどんぶりに食材を入れて混ぜて食う\n\n最安 50 円 (豆腐と醤油だけでも成立するため) だけど大体 150 ~ 300 円に落ちつく気がする\n\n結構なに入れてもいいはず\n最強のレシピ見つけてえな\n\n入れたことあるもの\n- ラー油\n- ごま油\n- めかぶ\n- 納豆\n- 卵\n- [https://item.rakuten.co.jp/chinmiya/030513/#030513 かつを酒盗 マイルド]\n  - not too bad\n\nhttps://en.wikipedia.org/wiki/Spread_(prison_food)\n[yt https://www.youtube.com/watch?v=KtmkrmHC-4M]",
+      "preview": "[img https://i.gyazo.com/1d1945cd1cd7822b710f31d72064cd56.jpg]\n豆腐をベースにどんぶりに食材を入れて混ぜて食う\n最安 50 円 (豆腐と醤油だけでも成立するため) だけど大体 150 ~ 300 円に落ちつく気がする",
+      "modifiedAt": 1770481215000,
       "linkCount": 0,
-      "thumbnailUrl": "https://img.youtube.com/vi/KtmkrmHC-4M/hqdefault.jpg"
+      "thumbnailUrl": "https://i.gyazo.com/1d1945cd1cd7822b710f31d72064cd56.jpg"
     },
     {
       "name": "Height Map to Normal Map.md",
@@ -871,6 +931,16 @@
       "thumbnailUrl": "https://gyazo.com/05c701310f8b63d268027ec9f32e4c74/max_size/1000"
     },
     {
+      "name": "Measuring Ruins.md",
+      "slug": "Measuring Ruins",
+      "title": "Measuring Ruins",
+      "content": "<!-- updated: 2026-02-08T02:04:44 -->\n#public\n[yt https://www.youtube.com/watch?v=fzC-RV1h0gc]\n\n[[Oneohtrix Point Never]]\n[[Yoshi Sodeoka]]\n",
+      "preview": "[yt https://www.youtube.com/watch?v=fzC-RV1h0gc]\n[[Oneohtrix Point Never]]\n[[Yoshi Sodeoka]]",
+      "modifiedAt": 1770483884000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/fzC-RV1h0gc/hqdefault.jpg"
+    },
+    {
       "name": "meow mix.md",
       "slug": "meow mix",
       "title": "meow mix",
@@ -939,6 +1009,16 @@
       "modifiedAt": 1768658811000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/TaEoAJw_0Zc/hqdefault.jpg"
+    },
+    {
+      "name": "nvidia-smi.md",
+      "slug": "nvidia-smi",
+      "title": "nvidia-smi",
+      "content": "<!-- updated: 2026-02-08T02:36:03 -->\n#public\n[[GPU]] のパフォーマンス見るゾ\n\nhttps://developer.download.nvidia.com/compute/DCGM/docs/nvidia-smi-367.38.pdf\n\nhttps://qiita.com/OV104/items/ecad7f8842a82e0c679b",
+      "preview": "[[GPU]] のパフォーマンス見るゾ\nhttps://developer.download.nvidia.com/compute/DCGM/docs/nvidia-smi-367.38.pdf\nhttps://qiita.com/OV104/items/ecad7f8842a82e0c679b",
+      "modifiedAt": 1770485763000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "NxPC.Lab.md",
@@ -1011,6 +1091,16 @@
       "thumbnailUrl": "https://p5js.jp/assets/img/p5js.svg"
     },
     {
+      "name": "PAC-TIVE.md",
+      "slug": "PAC-TIVE",
+      "title": "PAC-TIVE",
+      "content": "<!-- updated: 2026-02-08T02:11:03 -->\n#public\n[yt https://www.youtube.com/watch?v=98Wr-_qPpL8]\n\n[[Weirdcore]]",
+      "preview": "[yt https://www.youtube.com/watch?v=98Wr-_qPpL8]\n[[Weirdcore]]",
+      "modifiedAt": 1770484263000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/98Wr-_qPpL8/hqdefault.jpg"
+    },
+    {
       "name": "PAPERS.md",
       "slug": "PAPERS",
       "title": "PAPERS",
@@ -1019,6 +1109,16 @@
       "modifiedAt": 1768648535000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/56EG957YinM/hqdefault.jpg"
+    },
+    {
+      "name": "Platonic.md",
+      "slug": "Platonic",
+      "title": "Platonic",
+      "content": "<!-- updated: 2026-02-08T01:58:24 -->\n#public\n[yt https://www.youtube.com/watch?v=9FKRSuG_Nmk]\n\n[[Max Cooper]]\n[[Páraic McGloughlin]]",
+      "preview": "[yt https://www.youtube.com/watch?v=9FKRSuG_Nmk]\n[[Max Cooper]]\n[[Páraic McGloughlin]]",
+      "modifiedAt": 1770483504000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/9FKRSuG_Nmk/hqdefault.jpg"
     },
     {
       "name": "plyPhon.md",
@@ -1039,6 +1139,16 @@
       "modifiedAt": 1768726272000,
       "linkCount": 0,
       "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEeaWl11eK-Gg/company-logo_200_200/company-logo_200_200/0/1681764188980/poolsuite_logo?e=2147483647&v=beta&t=FnqR4o13QE8yWaaRe-CXiDpSa-dw1vSZH5v3eXgWu0U"
+    },
+    {
+      "name": "Prism.js.md",
+      "slug": "Prism.js",
+      "title": "Prism.js",
+      "content": "<!-- updated: 2026-02-07T13:01:24 -->\n#public\nhttps://prismjs.com/\n\nコードの[[シンタックスハイライト]] [[JavaScript]] ライブラリ",
+      "preview": "https://prismjs.com/\nコードの[[シンタックスハイライト]] [[JavaScript]] ライブラリ",
+      "modifiedAt": 1770436884000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "Q. つまらない本を買ってしまったらどうする？ A. 最後まで読んで罵倒する.md",
@@ -1101,6 +1211,16 @@
       "thumbnailUrl": "https://renderdoc.org/fp/logo.svg"
     },
     {
+      "name": "Repetition.md",
+      "slug": "Repetition",
+      "title": "Repetition",
+      "content": "<!-- updated: 2026-02-08T01:30:08 -->\n#public\n[yt https://www.youtube.com/watch?v=nO9aot9RgQc]\n\n[[Max Cooper]]\n[[Kevin McGloughlin]]",
+      "preview": "[yt https://www.youtube.com/watch?v=nO9aot9RgQc]\n[[Max Cooper]]\n[[Kevin McGloughlin]]",
+      "modifiedAt": 1770481808000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/nO9aot9RgQc/hqdefault.jpg"
+    },
+    {
       "name": "RFCにおいて要請の程度を示すために用いるキーワード.md",
       "slug": "RFCにおいて要請の程度を示すために用いるキーワード",
       "title": "RFCにおいて要請の程度を示すために用いるキーワード",
@@ -1134,9 +1254,9 @@
       "name": "Rubber Johnny.md",
       "slug": "Rubber Johnny",
       "title": "Rubber Johnny",
-      "content": "<!-- updated: 2026-01-16T23:01:42 -->\n#public\n[yt https://www.youtube.com/watch?v=eRvfxWRi6qQ]\n[[Chris Cunningham]]\n[[Aphex Twin]]",
+      "content": "<!-- updated: 2026-02-08T01:25:47 -->\n#public\n[yt https://www.youtube.com/watch?v=eRvfxWRi6qQ]\n[[Chris Cunningham]]\n[[Aphex Twin]]\n\n[sp https://open.spotify.com/intl-ja/track/55iOSXakrTUX877F5sF5xR?si=a8270ecd448e448c]",
       "preview": "[yt https://www.youtube.com/watch?v=eRvfxWRi6qQ]\n[[Chris Cunningham]]\n[[Aphex Twin]]",
-      "modifiedAt": 1768572102000,
+      "modifiedAt": 1770481547000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/eRvfxWRi6qQ/hqdefault.jpg"
     },
@@ -1189,6 +1309,16 @@
       "modifiedAt": 1770127878000,
       "linkCount": 0,
       "thumbnailUrl": "https://gyazo.com/5d0780a066e366340971a850dd704a99/max_size/1000"
+    },
+    {
+      "name": "Seven layers.md",
+      "slug": "Seven layers",
+      "title": "Seven layers",
+      "content": "<!-- updated: 2026-02-08T02:38:40 -->\n#public\n[yt https://www.youtube.com/watch?v=E8nKUVNlc3A]\n\n[[misokabocha]]\n\n[https://scrapbox.io/misokabocha/%E3%80%8CSeven_layers%E3%80%8D%E3%81%A7%E3%82%84%E3%82%8A%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8 「Seven layers」でやりたかったこと]",
+      "preview": "[yt https://www.youtube.com/watch?v=E8nKUVNlc3A]\n[[misokabocha]]\n[https://scrapbox.io/misokabocha/%E3%80%8CSeven_layers%E3%80%8D%E3%81%A7%E3%82%84%E3%82%8A%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8 「Seven layers」でやりたかったこと]",
+      "modifiedAt": 1770485920000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/E8nKUVNlc3A/hqdefault.jpg"
     },
     {
       "name": "Shelter.md",
@@ -1289,6 +1419,16 @@
       "modifiedAt": 1768736214000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/_n_iKR3Icio/hqdefault.jpg"
+    },
+    {
+      "name": "T69 Collapse.md",
+      "slug": "T69 Collapse",
+      "title": "T69 Collapse",
+      "content": "<!-- updated: 2026-02-08T02:29:33 -->\n#public\n[yt https://www.youtube.com/watch?v=SqayDnQ2wmw]\n\n[[Aphex Twin]]\n[[Weirdcore]]",
+      "preview": "[yt https://www.youtube.com/watch?v=SqayDnQ2wmw]\n[[Aphex Twin]]\n[[Weirdcore]]",
+      "modifiedAt": 1770485373000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/SqayDnQ2wmw/hqdefault.jpg"
     },
     {
       "name": "Terminal Slam.md",
@@ -1431,6 +1571,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/bdWGBirRpDs/hqdefault.jpg"
     },
     {
+      "name": "Warp Records.md",
+      "slug": "Warp Records",
+      "title": "Warp Records",
+      "content": "<!-- updated: 2026-02-08T02:08:42 -->\n#public\n[img https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Warp_Records_logo.svg/1280px-Warp_Records_logo.svg.png]\nhttps://warp.net/\n\nレコードレーベル\n\nartists\n- [[Aphex Twin]]\n- [[Autechre]]\n- [[Boards of Canada]]\n- [[LFO]]\n- [[Oneohtrix Point Never]]\n- [[Squarepusher]]\nなどなど",
+      "preview": "[img https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Warp_Records_logo.svg/1280px-Warp_Records_logo.svg.png]\nhttps://warp.net/\nレコードレーベル",
+      "modifiedAt": 1770484122000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Warp_Records_logo.svg/1280px-Warp_Records_logo.svg.png"
+    },
+    {
       "name": "Webhook.md",
       "slug": "Webhook",
       "title": "Webhook",
@@ -1438,6 +1588,16 @@
       "preview": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169\nただの [[HTTP]] の POST リクエスト",
       "modifiedAt": 1770122553000,
       "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "Weirdcore.md",
+      "slug": "Weirdcore",
+      "title": "Weirdcore",
+      "content": "<!-- updated: 2026-02-08T02:11:22 -->\n#public\nhttps://weirdcore.tv/",
+      "preview": "https://weirdcore.tv/",
+      "modifiedAt": 1770484282000,
+      "linkCount": 3,
       "thumbnailUrl": null
     },
     {
@@ -1509,6 +1669,16 @@
       "modifiedAt": 1769957130000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/q6EoRBvdVPQ/hqdefault.jpg"
+    },
+    {
+      "name": "Yoshi Sodeoka.md",
+      "slug": "Yoshi Sodeoka",
+      "title": "Yoshi Sodeoka",
+      "content": "<!-- updated: 2026-02-08T01:55:34 -->\n#public\nhttps://sodeoka.com/",
+      "preview": "https://sodeoka.com/",
+      "modifiedAt": 1770483334000,
+      "linkCount": 2,
+      "thumbnailUrl": null
     },
     {
       "name": "Zach Lieberman.md",
@@ -1771,6 +1941,16 @@
       "thumbnailUrl": "https://gyazo.com/2c3665b2d156c7a21ef7dc57b83bcc64/max_size/1000"
     },
     {
+      "name": "スーパーに閉じ込められたぼくら.md",
+      "slug": "スーパーに閉じ込められたぼくら",
+      "title": "スーパーに閉じ込められたぼくら",
+      "content": "<!-- updated: 2026-02-08T01:27:14 -->\n#public\n[yt https://youtu.be/UbjSaWtrOyE?si=_KDlN9WxSUdx7JvA]\n\n[[DÉ DÉ MOUSE]] , [[namitape]]",
+      "preview": "[yt https://youtu.be/UbjSaWtrOyE?si=_KDlN9WxSUdx7JvA]\n[[DÉ DÉ MOUSE]] , [[namitape]]",
+      "modifiedAt": 1770481634000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/UbjSaWtrOyE/hqdefault.jpg"
+    },
+    {
       "name": "トラックバック.md",
       "slug": "トラックバック",
       "title": "トラックバック",
@@ -1819,6 +1999,16 @@
       "modifiedAt": 1769699800000,
       "linkCount": 0,
       "thumbnailUrl": null
+    },
+    {
+      "name": "フレンドコード.md",
+      "slug": "フレンドコード",
+      "title": "フレンドコード",
+      "content": "<!-- updated: 2026-02-08T02:52:14 -->\n#public\n[yt https://www.youtube.com/watch?v=IRsXLmj92-o]\n\n[[Sorao Sakimura]] , [[Toshime]]",
+      "preview": "[yt https://www.youtube.com/watch?v=IRsXLmj92-o]\n[[Sorao Sakimura]] , [[Toshime]]",
+      "modifiedAt": 1770486734000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/IRsXLmj92-o/hqdefault.jpg"
     },
     {
       "name": "メタマウンティング・ゲーム.md",
@@ -1994,9 +2184,9 @@
       "name": "庭整備.md",
       "slug": "庭整備",
       "title": "庭整備",
-      "content": "<!-- updated: 2026-02-06T23:12:17 -->\n#public\n[[2ホップリンク]]欲しくね\n\n[[レスポンシブウェブデザイン]] にする\n",
-      "preview": "[[2ホップリンク]]欲しくね\n[[レスポンシブウェブデザイン]] にする",
-      "modifiedAt": 1770387137000,
+      "content": "<!-- updated: 2026-02-07T13:13:51 -->\n#public\n[[2ホップリンク]]欲しくね\n\nページ飛んだらスクロールリセットされるべきだな\n",
+      "preview": "[[2ホップリンク]]欲しくね\nページ飛んだらスクロールリセットされるべきだな",
+      "modifiedAt": 1770437631000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -2298,6 +2488,18 @@
     "A Sense Of Getting Closer": [],
     "Alberto Balsalm (Super Mario 64 Remix)": [],
     "Aleph-0": [],
+    "Alfie Dwyer": [
+      {
+        "slug": "Back to Body",
+        "title": "Back to Body",
+        "preview": "[yt https://www.youtube.com/watch?v=_3Pkubty3QU]\n[[Alfie Dwyer]]"
+      },
+      {
+        "slug": "Blackbox Life Recorder 21f",
+        "title": "Blackbox Life Recorder 21f",
+        "preview": "[yt https://www.youtube.com/watch?v=e_Ue_P7vcRE]\n[[Aphex Twin]]\n[[Weirdcore]] , [[Alfie Dwyer]]"
+      }
+    ],
     "Algorave Tokyo - 2017-12-22": [],
     "Algorave Tokyo - 2020-02-15": [],
     "Algorave x NxPC.Lab at Tokyo (IAMAS) - 2018-11-18": [],
@@ -2331,9 +2533,24 @@
         "preview": "[yt https://www.youtube.com/watch?v=tBVGv9-bfKI]\n[[Aphex Twin]] の [[Alberto Balsalm]] [[スーパーマリオ64]] remix"
       },
       {
+        "slug": "Blackbox Life Recorder 21f",
+        "title": "Blackbox Life Recorder 21f",
+        "preview": "[yt https://www.youtube.com/watch?v=e_Ue_P7vcRE]\n[[Aphex Twin]]\n[[Weirdcore]] , [[Alfie Dwyer]]"
+      },
+      {
         "slug": "Rubber Johnny",
         "title": "Rubber Johnny",
         "preview": "[yt https://www.youtube.com/watch?v=eRvfxWRi6qQ]\n[[Chris Cunningham]]\n[[Aphex Twin]]"
+      },
+      {
+        "slug": "T69 Collapse",
+        "title": "T69 Collapse",
+        "preview": "[yt https://www.youtube.com/watch?v=SqayDnQ2wmw]\n[[Aphex Twin]]\n[[Weirdcore]]"
+      },
+      {
+        "slug": "Warp Records",
+        "title": "Warp Records",
+        "preview": "[img https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Warp_Records_logo.svg/1280px-Warp_Records_logo.svg.png]\nhttps://warp.net/\nレコードレーベル"
       }
     ],
     "Apollo": [],
@@ -2341,11 +2558,14 @@
     "ATA": [],
     "Automatic": [],
     "azumanga click house": [],
+    "B.B.K.K.B.K.K": [],
+    "Back to Body": [],
     "Bad Apple but it's a 3Blue1Brown video": [],
     "Bad Application": [],
     "BenchmarkDotNet": [],
     "biimシステム": [],
     "BITE ME MORE PLS": [],
+    "Blackbox Life Recorder 21f": [],
     "Blogtrottr": [],
     "Bokeh": [],
     "Bonzomatic": [],
@@ -2459,7 +2679,9 @@
     "Enter the Void - Opening Title Sequence": [],
     "EON BREAK": [],
     "Eyecandy": [],
+    "Fibonacci Sequence": [],
     "Flexoki": [],
+    "Flood the zone with shit": [],
     "Flow vol.7 - 2025-07-15": [],
     "Flow": [
       {
@@ -2552,6 +2774,7 @@
     "LÖVE": [],
     "Mad Hope": [],
     "Matrix Color formula": [],
+    "Measuring Ruins": [],
     "meow mix": [],
     "Mine or Yours (Bella Boo Remix)": [],
     "Moleman 2 - Demoscene - The Art of the Algorithms": [],
@@ -2570,6 +2793,7 @@
     ],
     "nobody here": [],
     "Number One _ Another One": [],
+    "nvidia-smi": [],
     "NxPC.Lab": [
       {
         "slug": "Algorave x NxPC.Lab at Tokyo (IAMAS) - 2018-11-18",
@@ -2627,9 +2851,12 @@
         "preview": "https://theuselessweb.com/\n好きなサイト\n高3~大1くらいの時に [[YouTube]] で知って [[p5.js]] で真似できないかと考えてた"
       }
     ],
+    "PAC-TIVE": [],
     "PAPERS": [],
+    "Platonic": [],
     "plyPhon": [],
     "Poolsuite": [],
+    "Prism.js": [],
     "Q. つまらない本を買ってしまったらどうする？ A. 最後まで読んで罵倒する": [],
     "Quartz": [],
     "QuomodocunquizE": [],
@@ -2642,6 +2869,7 @@
         "preview": "[[ShaderLab]] はプロパティからデフォルト値を設定できる\nhttps://docs.unity3d.com/Manual/SL-Properties.html\nなんでこれ `(0, 0, 0, 0)` ないんですかね"
       }
     ],
+    "Repetition": [],
     "RFCにおいて要請の程度を示すために用いるキーワード": [],
     "Riddim Hell": [],
     "RSS": [
@@ -2663,6 +2891,7 @@
     "ScrapboxでVJするためのChrome拡張を作った": [],
     "SCRATCHIN": [],
     "Scum": [],
+    "Seven layers": [],
     "Shelter": [],
     "Simple Web Server": [],
     "SmoothCSV": [],
@@ -2690,6 +2919,7 @@
       }
     ],
     "Symphony in Acid": [],
+    "T69 Collapse": [],
     "Terminal Slam": [],
     "Testing": [],
     "The ten rules of techno": [],
@@ -2704,7 +2934,25 @@
     "VRDG+H _1 - 2016-03-26": [],
     "Wackelkontakt": [],
     "Waifu Jam": [],
+    "Warp Records": [],
     "Webhook": [],
+    "Weirdcore": [
+      {
+        "slug": "Blackbox Life Recorder 21f",
+        "title": "Blackbox Life Recorder 21f",
+        "preview": "[yt https://www.youtube.com/watch?v=e_Ue_P7vcRE]\n[[Aphex Twin]]\n[[Weirdcore]] , [[Alfie Dwyer]]"
+      },
+      {
+        "slug": "PAC-TIVE",
+        "title": "PAC-TIVE",
+        "preview": "[yt https://www.youtube.com/watch?v=98Wr-_qPpL8]\n[[Weirdcore]]"
+      },
+      {
+        "slug": "T69 Collapse",
+        "title": "T69 Collapse",
+        "preview": "[yt https://www.youtube.com/watch?v=SqayDnQ2wmw]\n[[Aphex Twin]]\n[[Weirdcore]]"
+      }
+    ],
     "Wiki の私物化": [],
     "wiki 兼 ブログ 兼 メモ 兼 ポートフォリオ": [],
     "Wikilinks": [],
@@ -2728,6 +2976,18 @@
       }
     ],
     "Yee": [],
+    "Yoshi Sodeoka": [
+      {
+        "slug": "Fibonacci Sequence",
+        "title": "Fibonacci Sequence",
+        "preview": "[yt https://www.youtube.com/watch?v=BgBsMqFHx6M]\n[[Max Cooper]]\n[[Yoshi Sodeoka]]"
+      },
+      {
+        "slug": "Measuring Ruins",
+        "title": "Measuring Ruins",
+        "preview": "[yt https://www.youtube.com/watch?v=fzC-RV1h0gc]\n[[Oneohtrix Point Never]]\n[[Yoshi Sodeoka]]"
+      }
+    ],
     "Zach Lieberman": [
       {
         "slug": "Chase No Face",
@@ -2771,11 +3031,13 @@
     "シニフィアン _ シニフィエ": [],
     "シャープネルかけたい……": [],
     "ジャムいね": [],
+    "スーパーに閉じ込められたぼくら": [],
     "トラックバック": [],
     "ニンテンドーダイレクト 2008.3.2 FM Slideshow (Sparkle)": [],
     "ネオンライト構文": [],
     "パラノとスキゾ": [],
     "ファイルが大事": [],
+    "フレンドコード": [],
     "メタマウンティング・ゲーム": [],
     "メディアの違いを理解せよ。": [],
     "モノクロ∞ブルースカイ": [],
