@@ -21,14 +21,34 @@
       "thumbnailUrl": "https://img.youtube.com/vi/ed3MHvDfMtE/hqdefault.jpg"
     },
     {
+      "name": "12 o'clocks.md",
+      "slug": "12 o'clocks",
+      "title": "12 o'clocks",
+      "content": "<!-- updated: 2026-02-08T19:04:21 -->\n#public\nhttps://tokyotypedirectorsclub.org/award/1997-98_interactive/\n\n[[John Maeda]] による作品\n\n有志による [[p5.js]] ポート版がある\nhttps://codingtrain.github.io/12oclocks/#\n[img https://gyazo.com/16915bb6ba253bc36cfe638c3d7e5d9a/max_size/1000]",
+      "preview": "https://tokyotypedirectorsclub.org/award/1997-98_interactive/\n[[John Maeda]] による作品\n有志による [[p5.js]] ポート版がある",
+      "modifiedAt": 1770545061000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://gyazo.com/16915bb6ba253bc36cfe638c3d7e5d9a/max_size/1000"
+    },
+    {
       "name": "4k intro.md",
       "slug": "4k intro",
       "title": "4k intro",
-      "content": "<!-- updated: 2026-01-17T18:26:34 -->\n#public\n[[Demo]] のサブカテゴリ",
-      "preview": "[[Demo]] のサブカテゴリ",
-      "modifiedAt": 1768641994000,
-      "linkCount": 6,
+      "content": "<!-- updated: 2026-02-08T23:16:49 -->\n#public\n[[Demo]] のサブカテゴリ\n\nhttps://in4k.github.io/wiki/aulds-4kb-introduction\n\nhttps://yosshin4004.github.io/demoscene/overview/index.html#If_there_were_no_restrictions_at_all\n>もしデモコンポに制約が一切無かったら、 プログラミング技術で競う意味が無くなってしまいます。\n>\n>例えば、デモがネットワークに接続することを許可したらどうなるでしょうか？ 単に youtube にアップロード済みの動画を再生するだけのデモがエントリ可能になってしまいます。 同様にファイルサイズを無制限にしてしまうと、 巨大な動画ファイルを埋め込んだだけのデモがエントリ可能になってしまいます。 そうなってしまうと、デモコンポはショートフィルムコンポと差異が無くなり、 もはやプログラミング技術は不要になってしまいます。\n>\n>ゲームエンジンを利用したデモも同様の問題を抱えています。 ストアで購入した豪華アセットを利用したカットシーンを ゲームエンジン上で再生するだけのデモで競う状況が発生してしまうと、 デモコンポはアセットにどれだけお金を掛けられるか？という資金力競争になってしまいます。",
+      "preview": "[[Demo]] のサブカテゴリ\nhttps://in4k.github.io/wiki/aulds-4kb-introduction\nhttps://yosshin4004.github.io/demoscene/overview/index.html#If_there_were_no_restrictions_at_all",
+      "modifiedAt": 1770560209000,
+      "linkCount": 14,
       "thumbnailUrl": null
+    },
+    {
+      "name": "4klang _ 4klang_VSTi_basedrum.4ki.md",
+      "slug": "4klang _ 4klang_VSTi_basedrum.4ki",
+      "title": "4klang : 4klang_VSTi\\basedrum.4ki",
+      "content": "<!-- updated: 2026-02-08T15:21:35 -->\n<!-- title: 4klang : 4klang_VSTi\\basedrum.4ki -->\n#public\n最初から入ってる example のキックを読解\n\nやってることは時間によって周波数を下がる sine 波に atack : 0 の最初からインパクトのあるエンベロープを掛け合わせるみたいな\n\n[img https://gyazo.com/2e1ea8343b356d5464c2accd2079f620/max_size/1000]\n\n1: Envelope\nattack 0 で初っ端からクライマックスな感じ\nこれはキックでよく見る形ですね\n\n2: Store\n1 の波形を使って 1 の gain を強化するみたいなことやってる\namplitude の増幅が目的っぽい\n\n3: Envelope\ndecay 以外 0 の波形\n[img https://gyazo.com/d23bb725824d6290456c489e6530d1cb/max_size/1000]\nただただ下がってく感じ\n\n4: Distortion\n3 に対して適用してるのは分かるけどこれってどんな効果なの？\n歪ませるって何？\n\n5: Store\n3 を 7 の Transpose に適用させる\namout : 32 なのでちょっと弱めにみたいな\n周波数を下げていくイメージ\n\n6: Arithmetic\n3 はもう使わないので pop で stack 上から逃がす\n\n7: Oscllator\nsine で transpose をちょっと下げる\ngate に何個かチェック付いてるけどどういう意味？\n[img https://gyazo.com/3b1acff1470fa4c28326b340c4713e3e/max_size/1000]\n\n8: Arithmetic\n7 は pop して、1 に 1 と 7 の乗算を格納\nstack 上にはシグナルが 1 つだけ積まれてる状態となる\n\n19: Panning\nまんま\n\n20. Output\n対あり",
+      "preview": "最初から入ってる example のキックを読解\nやってることは時間によって周波数を下がる sine 波に atack : 0 の最初からインパクトのあるエンベロープを掛け合わせるみたいな\n[img https://gyazo.com/2e1ea8343b356d5464c2accd2079f620/max_size/1000]",
+      "modifiedAt": 1770531695000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://gyazo.com/2e1ea8343b356d5464c2accd2079f620/max_size/1000"
     },
     {
       "name": "4klang.md",
@@ -47,7 +67,7 @@
       "content": "<!-- updated: 2026-01-17T19:50:20 -->\n#public\n[[Demo]] のサブカテゴリの一つ\n\n魂",
       "preview": "[[Demo]] のサブカテゴリの一つ\n魂",
       "modifiedAt": 1768647020000,
-      "linkCount": 1,
+      "linkCount": 2,
       "thumbnailUrl": null
     },
     {
@@ -59,6 +79,16 @@
       "modifiedAt": 1770216566000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/4jaHcz3d85w/hqdefault.jpg"
+    },
+    {
+      "name": "Absolute Territory.md",
+      "slug": "Absolute Territory",
+      "title": "Absolute Territory",
+      "content": "<!-- updated: 2026-02-08T16:18:27 -->\n#public\n[yt https://www.youtube.com/watch?v=9r8pxIogxZ0]\n\n[[4k intro]]\n[[Prismbeings]]\n\n🔗\n- https://www.pouet.net/prod.php?which=69642\n- https://demozoo.org/productions/170745/",
+      "preview": "[yt https://www.youtube.com/watch?v=9r8pxIogxZ0]\n[[4k intro]]\n[[Prismbeings]]",
+      "modifiedAt": 1770535107000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/9r8pxIogxZ0/hqdefault.jpg"
     },
     {
       "name": "Alberto Balsalm (Super Mario 64 Remix).md",
@@ -181,6 +211,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/DEzuZlUB3zM/hqdefault.jpg"
     },
     {
+      "name": "Atrium.md",
+      "slug": "Atrium",
+      "title": "Atrium",
+      "content": "<!-- updated: 2026-02-08T15:44:18 -->\n#public\n[yt https://www.youtube.com/watch?v=jlRoOqRs0bs]\n\n[[4k intro]]\n[[TBC]] , [[Loonies]]\n\n🔗\n- https://www.pouet.net/prod.php?which=50063\n- https://demozoo.org/productions/4846/",
+      "preview": "[yt https://www.youtube.com/watch?v=jlRoOqRs0bs]\n[[4k intro]]\n[[TBC]] , [[Loonies]]",
+      "modifiedAt": 1770533058000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/jlRoOqRs0bs/hqdefault.jpg"
+    },
+    {
       "name": "Automatic.md",
       "slug": "Automatic",
       "title": "Automatic",
@@ -239,6 +279,16 @@
       "modifiedAt": 1770122489000,
       "linkCount": 0,
       "thumbnailUrl": "https://images.ntwind.com/utilities/badapp-12.png"
+    },
+    {
+      "name": "Balance.md",
+      "slug": "Balance",
+      "title": "Balance",
+      "content": "<!-- updated: 2026-02-08T18:33:55 -->\n#public\n[yt https://www.youtube.com/watch?v=CA1H7vFCiS0]\n\n[[4k intro]]\n\n🔗\n- https://www.pouet.net/prod.php?which=105198\n- https://demozoo.org/productions/379050/",
+      "preview": "[yt https://www.youtube.com/watch?v=CA1H7vFCiS0]\n[[4k intro]]\n🔗",
+      "modifiedAt": 1770543235000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/CA1H7vFCiS0/hqdefault.jpg"
     },
     {
       "name": "BenchmarkDotNet.md",
@@ -321,6 +371,16 @@
       "thumbnailUrl": "https://pbs.twimg.com/profile_images/1192984925672108033/I_yTUpiK_400x400.jpg"
     },
     {
+      "name": "Candy -TokyoDemoFest2013 Invitation.md",
+      "slug": "Candy -TokyoDemoFest2013 Invitation",
+      "title": "Candy -TokyoDemoFest2013 Invitation",
+      "content": "<!-- updated: 2026-02-08T18:37:52 -->\n#public\n[yt https://www.youtube.com/watch?v=pGFOmKvA2l8]\n\n[[64k intro]]\n\n🔗\n- https://www.pouet.net/prod.php?which=60278\n- https://demozoo.org/productions/42678/",
+      "preview": "[yt https://www.youtube.com/watch?v=pGFOmKvA2l8]\n[[64k intro]]\n🔗",
+      "modifiedAt": 1770543472000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/pGFOmKvA2l8/hqdefault.jpg"
+    },
+    {
       "name": "Cat Can't Handle Flower.md",
       "slug": "Cat Can't Handle Flower",
       "title": "Cat Can't Handle Flower",
@@ -381,6 +441,26 @@
       "thumbnailUrl": "https://i.gyazo.com/4fe82fd140825a4f5e6cff7f36b0469d.jpg"
     },
     {
+      "name": "Compofiller.md",
+      "slug": "Compofiller",
+      "title": "Compofiller",
+      "content": "<!-- updated: 2026-02-08T23:06:07 -->\n#public\n[tw https://x.com/Rui8bit/status/1895031708824785086?s=20]\n",
+      "preview": "[tw https://x.com/Rui8bit/status/1895031708824785086?s=20]",
+      "modifiedAt": 1770559567000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "Computer Graphics Demonstration Tape.md",
+      "slug": "Computer Graphics Demonstration Tape",
+      "title": " Computer Graphics Demonstration Tape",
+      "content": "<!-- updated: 2026-02-08T17:59:09 -->\n<!-- title:  Computer Graphics Demonstration Tape -->\n#public\n[yt https://www.youtube.com/watch?v=9yWPB9MnbIE]\n\n[[Hackers]]\n\n🔗\n- https://www.pouet.net/prod.php?which=64972\n- https://demozoo.org/productions/131971/",
+      "preview": "[yt https://www.youtube.com/watch?v=9yWPB9MnbIE]\n[[Hackers]]\n🔗",
+      "modifiedAt": 1770541149000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/9yWPB9MnbIE/hqdefault.jpg"
+    },
+    {
       "name": "Conventional Commits.md",
       "slug": "Conventional Commits",
       "title": "Conventional Commits",
@@ -421,13 +501,23 @@
       "thumbnailUrl": null
     },
     {
+      "name": "Cycle of nature.md",
+      "slug": "Cycle of nature",
+      "title": "Cycle of nature",
+      "content": "<!-- updated: 2026-02-08T16:06:49 -->\n#public\n[yt https://www.youtube.com/watch?v=oPTykC_BYNM]\n\n[[4k intro]]\n[[Loonies]]\n\n🔗\n- https://www.pouet.net/prod.php?which=69641\n- https://demozoo.org/productions/170743/",
+      "preview": "[yt https://www.youtube.com/watch?v=oPTykC_BYNM]\n[[4k intro]]\n[[Loonies]]",
+      "modifiedAt": 1770534409000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/oPTykC_BYNM/hqdefault.jpg"
+    },
+    {
       "name": "Daito Manabe.md",
       "slug": "Daito Manabe",
       "title": "Daito Manabe",
       "content": "<!-- updated: 2026-01-30T23:46:26 -->\n#public\nhttps://daito.ws/ja/\n\nhttps://scrapbox.io/artresearch/",
       "preview": "https://daito.ws/ja/\nhttps://scrapbox.io/artresearch/",
       "modifiedAt": 1769784386000,
-      "linkCount": 2,
+      "linkCount": 4,
       "thumbnailUrl": null
     },
     {
@@ -439,6 +529,16 @@
       "modifiedAt": 1769783334000,
       "linkCount": 1,
       "thumbnailUrl": null
+    },
+    {
+      "name": "deities.md",
+      "slug": "deities",
+      "title": "deities",
+      "content": "<!-- updated: 2026-02-08T16:12:09 -->\n#public\n[yt https://www.youtube.com/watch?v=Ij6XVCsuiPI]\n\n[[mfx]]\n\n🔗\n- https://www.pouet.net/prod.php?which=24487\n- https://demozoo.org/productions/4025/",
+      "preview": "[yt https://www.youtube.com/watch?v=Ij6XVCsuiPI]\n[[mfx]]\n🔗",
+      "modifiedAt": 1770534729000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/Ij6XVCsuiPI/hqdefault.jpg"
     },
     {
       "name": "Demo.md",
@@ -461,12 +561,32 @@
       "thumbnailUrl": null
     },
     {
+      "name": "Digital garden.md",
+      "slug": "Digital garden",
+      "title": "Digital garden",
+      "content": "<!-- updated: 2026-02-08T22:14:33 -->\n#public\nデジタル庭\n\nhttps://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/",
+      "preview": "デジタル庭\nhttps://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/",
+      "modifiedAt": 1770556473000,
+      "linkCount": 1,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "dj newtown - silky heart.md",
+      "slug": "dj newtown - silky heart",
+      "title": "dj newtown - silky heart",
+      "content": "<!-- updated: 2026-02-08T17:54:18 -->\n#public\n[yt https://www.youtube.com/watch?v=wgvNLbfSbPE]\n[[dj newtown]]\n[[とらドラ!]]の[[AMV]]\n\nhttp://maltinerecords.cs8.biz/39.html",
+      "preview": "[yt https://www.youtube.com/watch?v=wgvNLbfSbPE]\n[[dj newtown]]\n[[とらドラ!]]の[[AMV]]",
+      "modifiedAt": 1770540858000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/wgvNLbfSbPE/hqdefault.jpg"
+    },
+    {
       "name": "Domain.md",
       "slug": "Domain",
       "title": "Domain",
-      "content": "<!-- updated: 2026-01-18T17:39:18 -->\n#public\n[yt https://www.youtube.com/watch?v=D2COWeeEqTs]\n\n[[64k intro]]\n[[0b5vr]]\n\n🔗\n- https://www.pouet.net/prod.php?which=90435\n- https://demozoo.org/productions/303235/",
+      "content": "<!-- updated: 2026-02-08T18:44:18 -->\n#public\n[yt https://www.youtube.com/watch?v=D2COWeeEqTs]\n\n[[64k intro]]\n[[0b5vr]]\n\n[[NotlTG]] のファンムービーもあります\n[yt https://www.youtube.com/watch?v=iRMOdxsdN4M]\n\n🔗\n- https://www.pouet.net/prod.php?which=90435\n- https://demozoo.org/productions/303235/",
       "preview": "[yt https://www.youtube.com/watch?v=D2COWeeEqTs]\n[[64k intro]]\n[[0b5vr]]",
-      "modifiedAt": 1768725558000,
+      "modifiedAt": 1770543858000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/D2COWeeEqTs/hqdefault.jpg"
     },
@@ -501,6 +621,26 @@
       "thumbnailUrl": "https://img.youtube.com/vi/kYBrHZ0lKVM/hqdefault.jpg"
     },
     {
+      "name": "EMIX.md",
+      "slug": "EMIX",
+      "title": "EMIX",
+      "content": "<!-- updated: 2026-02-08T16:56:41 -->\n#public\n[yt https://www.youtube.com/watch?v=SYG9zU_bd6U]\n\n[[Epoch]]\n\n🔗\n- https://www.pouet.net/prod.php?which=66066\n- https://demozoo.org/productions/142985/",
+      "preview": "[yt https://www.youtube.com/watch?v=SYG9zU_bd6U]\n[[Epoch]]\n🔗",
+      "modifiedAt": 1770537401000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/SYG9zU_bd6U/hqdefault.jpg"
+    },
+    {
+      "name": "End of time.md",
+      "slug": "End of time",
+      "title": "End of time",
+      "content": "<!-- updated: 2026-02-08T15:27:19 -->\n#public\n[yt https://www.youtube.com/watch?v=5lR76o9lWB0]\n\n[[4k intro]]\n[[Alcatraz]] , [[Altair]]\n\n[[Mad tracing]] らしい\n\n🔗\n- https://www.pouet.net/prod.php?which=77102\n- https://demozoo.org/productions/190388/",
+      "preview": "[yt https://www.youtube.com/watch?v=5lR76o9lWB0]\n[[4k intro]]\n[[Alcatraz]] , [[Altair]]",
+      "modifiedAt": 1770532039000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/5lR76o9lWB0/hqdefault.jpg"
+    },
+    {
       "name": "Enter the Void - Opening Title Sequence.md",
       "slug": "Enter the Void - Opening Title Sequence",
       "title": " Enter the Void - Opening Title Sequence",
@@ -519,6 +659,26 @@
       "modifiedAt": 1770048067000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/e7QeR0VxnlA/hqdefault.jpg"
+    },
+    {
+      "name": "EXC3_CM3.md",
+      "slug": "EXC3_CM3",
+      "title": "EXC3_CM3",
+      "content": "<!-- updated: 2026-02-08T19:07:35 -->\n#public\n[yt https://www.youtube.com/watch?v=o1hggJOIY_c]\n\n[[kkmfd]]\n\nかっちょE",
+      "preview": "[yt https://www.youtube.com/watch?v=o1hggJOIY_c]\n[[kkmfd]]\nかっちょE",
+      "modifiedAt": 1770545255000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/o1hggJOIY_c/hqdefault.jpg"
+    },
+    {
+      "name": "Extra.md",
+      "slug": "Extra",
+      "title": "Extra",
+      "content": "<!-- updated: 2026-02-08T15:53:19 -->\n#public\n[yt https://youtu.be/VhyjJevy1ok?si=FC6MOGQnGBvZLqlu]\n\n[[Epoch]]\n\n[[LPS Head]] が出てくる\n\n🔗\n- https://www.pouet.net/prod.php?which=71406\n- https://demozoo.org/productions/176779/",
+      "preview": "[yt https://youtu.be/VhyjJevy1ok?si=FC6MOGQnGBvZLqlu]\n[[Epoch]]\n[[LPS Head]] が出てくる",
+      "modifiedAt": 1770533599000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/VhyjJevy1ok/hqdefault.jpg"
     },
     {
       "name": "Eyecandy.md",
@@ -581,6 +741,16 @@
       "thumbnailUrl": "https://pbs.twimg.com/profile_images/1882082840822870016/AOMI7ZVv_400x400.jpg"
     },
     {
+      "name": "Fly and Fly.md",
+      "slug": "Fly and Fly",
+      "title": "Fly and Fly",
+      "content": "<!-- updated: 2026-02-08T18:26:25 -->\n#public\n[yt https://youtu.be/HS-lidjACcg?si=m-OP0QN608OTS0WE]",
+      "preview": "[yt https://youtu.be/HS-lidjACcg?si=m-OP0QN608OTS0WE]",
+      "modifiedAt": 1770542785000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/HS-lidjACcg/hqdefault.jpg"
+    },
+    {
       "name": "franz.md",
       "slug": "franz",
       "title": "franz",
@@ -599,6 +769,16 @@
       "modifiedAt": 1769435789000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/KmvydnVTriE/hqdefault.jpg"
+    },
+    {
+      "name": "FRENZ.md",
+      "slug": "FRENZ",
+      "title": "FRENZ",
+      "content": "<!-- updated: 2026-02-08T16:45:04 -->\n#public\n[img https://frenz.jp/images/frenz_logo.svg]\nhttps://frenz.jp/\n\n>FRENZ（フレンズ）は、完全新作の映像作品を上映するイベントです。\n>イベント名「FRENZ」は、「FRIENDS（仲間）」と「FRENZY（熱狂）」を掛け合わせた造語で、\n>創る側と観る側が一体となり、熱量を共有する場を目指しています。",
+      "preview": "[img https://frenz.jp/images/frenz_logo.svg]\nhttps://frenz.jp/\n>FRENZ（フレンズ）は、完全新作の映像作品を上映するイベントです。",
+      "modifiedAt": 1770536704000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://frenz.jp/images/frenz_logo.svg"
     },
     {
       "name": "Frutiger Metro.md",
@@ -684,9 +864,9 @@
       "name": "healthy spread.md",
       "slug": "healthy spread",
       "title": "healthy spread",
-      "content": "<!-- updated: 2026-02-08T01:20:15 -->\n#public\n[img https://i.gyazo.com/1d1945cd1cd7822b710f31d72064cd56.jpg]\n豆腐をベースにどんぶりに食材を入れて混ぜて食う\n\n最安 50 円 (豆腐と醤油だけでも成立するため) だけど大体 150 ~ 300 円に落ちつく気がする\n\n結構なに入れてもいいはず\n最強のレシピ見つけてえな\n\n入れたことあるもの\n- ラー油\n- ごま油\n- めかぶ\n- 納豆\n- 卵\n- [https://item.rakuten.co.jp/chinmiya/030513/#030513 かつを酒盗 マイルド]\n  - not too bad\n\nhttps://en.wikipedia.org/wiki/Spread_(prison_food)\n[yt https://www.youtube.com/watch?v=KtmkrmHC-4M]",
+      "content": "<!-- updated: 2026-02-08T20:06:17 -->\n#public\n[img https://i.gyazo.com/1d1945cd1cd7822b710f31d72064cd56.jpg]\n豆腐をベースにどんぶりに食材を入れて混ぜて食う\n\n最安 50 円 (豆腐と醤油だけでも成立するため) だけど大体 150 ~ 300 円に落ちつく気がする\n\n結構なに入れてもいいはず\n最強のレシピ見つけてえな\n\n入れたことあるもの\n- ラー油\n- ごま油\n- めかぶ\n- 納豆\n- 卵\n- [https://item.rakuten.co.jp/chinmiya/030513/#030513 かつを酒盗 マイルド]\n  - not too bad\n- キムチ鍋の素\n\nhttps://en.wikipedia.org/wiki/Spread_(prison_food)\n[yt https://www.youtube.com/watch?v=KtmkrmHC-4M]",
       "preview": "[img https://i.gyazo.com/1d1945cd1cd7822b710f31d72064cd56.jpg]\n豆腐をベースにどんぶりに食材を入れて混ぜて食う\n最安 50 円 (豆腐と醤油だけでも成立するため) だけど大体 150 ~ 300 円に落ちつく気がする",
-      "modifiedAt": 1770481215000,
+      "modifiedAt": 1770548777000,
       "linkCount": 0,
       "thumbnailUrl": "https://i.gyazo.com/1d1945cd1cd7822b710f31d72064cd56.jpg"
     },
@@ -709,6 +889,26 @@
       "modifiedAt": 1769323636000,
       "linkCount": 3,
       "thumbnailUrl": "https://hexler.net/site/images/logos/hexler_logo-white.svg"
+    },
+    {
+      "name": "Hydrokinetics.md",
+      "slug": "Hydrokinetics",
+      "title": "Hydrokinetics",
+      "content": "<!-- updated: 2026-02-08T16:03:14 -->\n#public\n[yt https://www.youtube.com/watch?v=7wLA0IVj7sA]\n\n[[4k intro]]\n[[Prismbeings]]\n\n🔗\n- https://www.pouet.net/prod.php?which=66059\n- https://demozoo.org/productions/143321/",
+      "preview": "[yt https://www.youtube.com/watch?v=7wLA0IVj7sA]\n[[4k intro]]\n[[Prismbeings]]",
+      "modifiedAt": 1770534194000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/7wLA0IVj7sA/hqdefault.jpg"
+    },
+    {
+      "name": "Hypnosis.md",
+      "slug": "Hypnosis",
+      "title": "Hypnosis",
+      "content": "<!-- updated: 2026-02-08T17:28:53 -->\n#public\n[yt https://www.youtube.com/watch?v=-F_jyeRJJLY]\n\n[[mfx]]\n\n🔗\n- https://www.pouet.net/prod.php?which=105122\n- https://demozoo.org/productions/378419/",
+      "preview": "[yt https://www.youtube.com/watch?v=-F_jyeRJJLY]\n[[mfx]]\n🔗",
+      "modifiedAt": 1770539333000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/-F_jyeRJJLY/hqdefault.jpg"
     },
     {
       "name": "in perspective.md",
@@ -751,6 +951,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/zxuX23HIdt8/hqdefault.jpg"
     },
     {
+      "name": "Jitter.md",
+      "slug": "Jitter",
+      "title": "Jitter",
+      "content": "<!-- updated: 2026-02-08T19:20:00 -->\n#public\nhttps://cycling74.com/ja/products/jitter\n\n[[Max]] のためのヴィジュアル・ツール",
+      "preview": "https://cycling74.com/ja/products/jitter\n[[Max]] のためのヴィジュアル・ツール",
+      "modifiedAt": 1770546000000,
+      "linkCount": 1,
+      "thumbnailUrl": null
+    },
+    {
       "name": "JSONPlaceholder.md",
       "slug": "JSONPlaceholder",
       "title": "JSONPlaceholder",
@@ -769,6 +979,16 @@
       "modifiedAt": 1768827914000,
       "linkCount": 0,
       "thumbnailUrl": "https://github.com/jj-vcs/jj/raw/main/docs/images/jj-logo.svg"
+    },
+    {
+      "name": "Jupiter 666 Video Computer System.md",
+      "slug": "Jupiter 666 Video Computer System",
+      "title": " Jupiter 666 Video Computer System",
+      "content": "<!-- updated: 2026-02-08T17:56:19 -->\n<!-- title:  Jupiter 666 Video Computer System -->\n#public\n[yt https://www.youtube.com/watch?v=GJHjkphr72o]\n\n[[Hackers]]\n\n🔗\n- https://www.pouet.net/prod.php?which=65391\n- https://demozoo.org/productions/136311/",
+      "preview": "[yt https://www.youtube.com/watch?v=GJHjkphr72o]\n[[Hackers]]\n🔗",
+      "modifiedAt": 1770540979000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/GJHjkphr72o/hqdefault.jpg"
     },
     {
       "name": "KaTeX.md",
@@ -871,6 +1091,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/4g7txcnj798/hqdefault.jpg"
     },
     {
+      "name": "Line jumps.md",
+      "slug": "Line jumps",
+      "title": "Line jumps",
+      "content": "<!-- updated: 2026-02-08T18:51:31 -->\n#public\n[img https://i0.wp.com/mirojapan.com/wp-content/uploads/2023/10/Line-jumps.gif?resize=1536%2C864&ssl=1]\n\nノード同士を繋げる線が交差しちゃった時にどことどこが繋がってるか分かりやすくするためのやつ\n\n名称は [[miro]] から\nhttps://miro.com/ja/blog/linejump/\n\nある\n- miro\n- [[draw.io]]\n\nない\n- [[FigJam]]",
+      "preview": "[img https://i0.wp.com/mirojapan.com/wp-content/uploads/2023/10/Line-jumps.gif?resize=1536%2C864&ssl=1]\nノード同士を繋げる線が交差しちゃった時にどことどこが繋がってるか分かりやすくするためのやつ\n名称は [[miro]] から",
+      "modifiedAt": 1770544291000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://i0.wp.com/mirojapan.com/wp-content/uploads/2023/10/Line-jumps.gif?resize=1536%2C864&ssl=1"
+    },
+    {
       "name": "live coding youtube.md",
       "slug": "live coding youtube",
       "title": "live coding youtube",
@@ -884,11 +1114,21 @@
       "name": "Log-polar coordinates.md",
       "slug": "Log-polar coordinates",
       "title": "Log-polar coordinates",
-      "content": "<!-- updated: 2026-01-18T18:12:33 -->\n#public\nhttps://en.wikipedia.org/wiki/Log-polar_coordinates\n\nhttps://www.osar.fr/notes/logspherical/",
-      "preview": "https://en.wikipedia.org/wiki/Log-polar_coordinates\nhttps://www.osar.fr/notes/logspherical/",
-      "modifiedAt": 1768727553000,
+      "content": "<!-- updated: 2026-02-08T16:42:47 -->\n#public\nhttps://en.wikipedia.org/wiki/Log-polar_coordinates\n\n[[Log-spherical coordinates]] \nhttps://www.osar.fr/notes/logspherical/",
+      "preview": "https://en.wikipedia.org/wiki/Log-polar_coordinates\n[[Log-spherical coordinates]] \nhttps://www.osar.fr/notes/logspherical/",
+      "modifiedAt": 1770536567000,
       "linkCount": 0,
       "thumbnailUrl": null
+    },
+    {
+      "name": "lost found melody.md",
+      "slug": "lost found melody",
+      "title": "lost found melody",
+      "content": "<!-- updated: 2026-02-08T18:18:04 -->\n#public\n[yt https://www.youtube.com/watch?v=9JiPYQ-rRD4]\n\n[[mozuya]]",
+      "preview": "[yt https://www.youtube.com/watch?v=9JiPYQ-rRD4]\n[[mozuya]]",
+      "modifiedAt": 1770542284000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/9JiPYQ-rRD4/hqdefault.jpg"
     },
     {
       "name": "Lumen.md",
@@ -929,6 +1169,16 @@
       "modifiedAt": 1770046185000,
       "linkCount": 0,
       "thumbnailUrl": "https://gyazo.com/05c701310f8b63d268027ec9f32e4c74/max_size/1000"
+    },
+    {
+      "name": "McGuire Computer Graphics Archive.md",
+      "slug": "McGuire Computer Graphics Archive",
+      "title": "McGuire Computer Graphics Archive",
+      "content": "<!-- updated: 2026-02-08T16:01:57 -->\n#public\nhttps://casual-effects.com/data/\n\n無料で研究とかに使えるメッシュデータまとめ\n\n置いてあるもの\n- [[Happy Buddha]]\n- [[Stanford Bunny]]\n- [[Cornell box]]\n- [[Crytek Sponza]]\n- [[Dabrovic Sponza]]\n- [[Stanford Dragon]]\n- [[LPS Head]]\n- [[Utah Teapot]]\nなどなど\n",
+      "preview": "https://casual-effects.com/data/\n無料で研究とかに使えるメッシュデータまとめ\n置いてあるもの",
+      "modifiedAt": 1770534117000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "Measuring Ruins.md",
@@ -991,6 +1241,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "No Release, Sherlock!.md",
+      "slug": "No Release, Sherlock!",
+      "title": "No Release, Sherlock!",
+      "content": "<!-- updated: 2026-02-08T18:31:32 -->\n#public\n[yt https://www.youtube.com/watch?v=nVif180p7B8]\n\n[[4k intro]]\n\n🔗\n- https://www.pouet.net/prod.php?which=53874\n- https://demozoo.org/productions/51393/",
+      "preview": "[yt https://www.youtube.com/watch?v=nVif180p7B8]\n[[4k intro]]\n🔗",
+      "modifiedAt": 1770543092000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/nVif180p7B8/hqdefault.jpg"
+    },
+    {
       "name": "nobody here.md",
       "slug": "nobody here",
       "title": "nobody here",
@@ -999,6 +1259,26 @@
       "modifiedAt": 1769881406000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/-RFunvF0mDw/hqdefault.jpg"
+    },
+    {
+      "name": "noby.md",
+      "slug": "noby",
+      "title": "noby",
+      "content": "<!-- updated: 2026-02-08T16:22:29 -->\n#public\nhttps://noby.untergrund.net/\n\n[[Prismbeings]] , [[Epoch]] 所属\n\nhttps://6octaves.com/2023/08/nobyepochprismbeings.html",
+      "preview": "https://noby.untergrund.net/\n[[Prismbeings]] , [[Epoch]] 所属\nhttps://6octaves.com/2023/08/nobyepochprismbeings.html",
+      "modifiedAt": 1770535349000,
+      "linkCount": 1,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "NullPointerException.md",
+      "slug": "NullPointerException",
+      "title": "NullPointerException",
+      "content": "<!-- updated: 2026-02-08T17:46:30 -->\n#public\n[yt https://www.youtube.com/watch?v=ynsLjv1AyEg]\n\n[[melonade]] , [[木葉はづく]]",
+      "preview": "[yt https://www.youtube.com/watch?v=ynsLjv1AyEg]\n[[melonade]] , [[木葉はづく]]",
+      "modifiedAt": 1770540390000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/ynsLjv1AyEg/hqdefault.jpg"
     },
     {
       "name": "Number One _ Another One.md",
@@ -1021,13 +1301,23 @@
       "thumbnailUrl": null
     },
     {
+      "name": "NxPC.Lab Vol.12 - 2012-03-24.md",
+      "slug": "NxPC.Lab Vol.12 - 2012-03-24",
+      "title": "NxPC.Lab Vol.12 - 2012-03-24",
+      "content": "<!-- updated: 2026-02-08T23:44:55 -->\n#public\n[img https://nxpclab.info/vol.12/img/flyer_front_shadow.png]\n\n[[NxPC.Lab]] のイベント\n\nAct\n- Performance\n  - [[The Breadboard Band]]\n  - [[Craftwife]]\n  - [[TELESCOPE]]\n  - [[ジャン＝マルク・ペルティエ]]\n  - [[松本祐一]]\n  - [[GATE]]\n- DJ\n  - [[RyoSato]]\n  - [[ACHT]]\n  - [[kei shiratori]]\n  - [[田中良治]]\n- VJ\n  - [[noriko matsumoto]]\n  - [[poki]]\n  - [[谷口暁彦]]\n  - [[tripon|Tripon]]\n  - [[Los Paria Códigos VJ System]]\n\nVenue\n- [[SECO]]\n\n🔗\n- https://nxpclab.info/vol.12/\n- https://phirip.com/w/?p=75\n- https://www.iamas.ac.jp/wordpress03/wp-content/uploads/2017/10/activity_2011_hrr.pdf",
+      "preview": "[img https://nxpclab.info/vol.12/img/flyer_front_shadow.png]\n[[NxPC.Lab]] のイベント\nAct",
+      "modifiedAt": 1770561895000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://nxpclab.info/vol.12/img/flyer_front_shadow.png"
+    },
+    {
       "name": "NxPC.Lab.md",
       "slug": "NxPC.Lab",
       "title": "NxPC.Lab",
       "content": "<!-- updated: 2026-01-24T23:42:03 -->\n#public\n[img https://nxpclab.info/shared/img/public/logo.png]\n\nhttps://nxpclab.info/\n\n[[IAMAS]] の研究室の一つ",
       "preview": "[img https://nxpclab.info/shared/img/public/logo.png]\nhttps://nxpclab.info/\n[[IAMAS]] の研究室の一つ",
       "modifiedAt": 1769265723000,
-      "linkCount": 1,
+      "linkCount": 2,
       "thumbnailUrl": "https://nxpclab.info/shared/img/public/logo.png"
     },
     {
@@ -1087,7 +1377,7 @@
       "content": "<!-- updated: 2026-02-02T23:05:47 -->\n#public\n[img https://p5js.jp/assets/img/p5js.svg]\nhttps://p5js.org/\n\n[[JavaScript]]",
       "preview": "[img https://p5js.jp/assets/img/p5js.svg]\nhttps://p5js.org/\n[[JavaScript]]",
       "modifiedAt": 1770041147000,
-      "linkCount": 4,
+      "linkCount": 5,
       "thumbnailUrl": "https://p5js.jp/assets/img/p5js.svg"
     },
     {
@@ -1114,9 +1404,9 @@
       "name": "Platonic.md",
       "slug": "Platonic",
       "title": "Platonic",
-      "content": "<!-- updated: 2026-02-08T01:58:24 -->\n#public\n[yt https://www.youtube.com/watch?v=9FKRSuG_Nmk]\n\n[[Max Cooper]]\n[[Páraic McGloughlin]]",
-      "preview": "[yt https://www.youtube.com/watch?v=9FKRSuG_Nmk]\n[[Max Cooper]]\n[[Páraic McGloughlin]]",
-      "modifiedAt": 1770483504000,
+      "content": "<!-- updated: 2026-02-08T16:50:16 -->\n#public\n[yt https://www.youtube.com/watch?v=9FKRSuG_Nmk]\n\n[[Max Cooper]]\n[[Páraic Mc Gloughlin]]",
+      "preview": "[yt https://www.youtube.com/watch?v=9FKRSuG_Nmk]\n[[Max Cooper]]\n[[Páraic Mc Gloughlin]]",
+      "modifiedAt": 1770537016000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/9FKRSuG_Nmk/hqdefault.jpg"
     },
@@ -1141,6 +1431,16 @@
       "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEeaWl11eK-Gg/company-logo_200_200/company-logo_200_200/0/1681764188980/poolsuite_logo?e=2147483647&v=beta&t=FnqR4o13QE8yWaaRe-CXiDpSa-dw1vSZH5v3eXgWu0U"
     },
     {
+      "name": "Pretty Fly (For A White Guy).md",
+      "slug": "Pretty Fly (For A White Guy)",
+      "title": "Pretty Fly (For A White Guy)",
+      "content": "<!-- updated: 2026-02-08T16:33:16 -->\n#public\n[yt https://www.youtube.com/watch?v=QtTR-_Klcq8]\n\n[[The Offspring]]",
+      "preview": "[yt https://www.youtube.com/watch?v=QtTR-_Klcq8]\n[[The Offspring]]",
+      "modifiedAt": 1770535996000,
+      "linkCount": 1,
+      "thumbnailUrl": "https://img.youtube.com/vi/QtTR-_Klcq8/hqdefault.jpg"
+    },
+    {
       "name": "Prism.js.md",
       "slug": "Prism.js",
       "title": "Prism.js",
@@ -1148,6 +1448,16 @@
       "preview": "https://prismjs.com/\nコードの[[シンタックスハイライト]] [[JavaScript]] ライブラリ",
       "modifiedAt": 1770436884000,
       "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "Prismbeings.md",
+      "slug": "Prismbeings",
+      "title": "Prismbeings",
+      "content": "<!-- updated: 2026-02-08T16:19:51 -->\n#public\nhttps://www.pouet.net/groups.php?which=12646\n\n[[noby]] さんの intro 作るときに使ってる名義",
+      "preview": "https://www.pouet.net/groups.php?which=12646\n[[noby]] さんの intro 作るときに使ってる名義",
+      "modifiedAt": 1770535191000,
+      "linkCount": 4,
       "thumbnailUrl": null
     },
     {
@@ -1331,6 +1641,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/fzQ6gRAEoy0/hqdefault.jpg"
     },
     {
+      "name": "SHIROBAKO.md",
+      "slug": "SHIROBAKO",
+      "title": "SHIROBAKO",
+      "content": "<!-- updated: 2026-02-08T22:32:54 -->\n#public\n[img https://cs1.animestore.docomo.ne.jp/anime/1/14/79/Qzq6fw/11479_1_1.png?1551177134000]\n監督：[[水島努]]\nアニメーション制作：[[P.A.WORKS]]\n\nりーちゃん；；\n\nhttps://shanonim.hatenablog.com/entry/2017/12/23/180000\nアドカレあるのワロス\n>菅野光明「アニメーターも人間だから、この仕事はお前にしかできないって言われたいんだよね。」\nいやまあそれはそうなんだけど、自分にしか出来ないことだけをやりがいにしていいのかという疑問はある\n置換可能で良くない？\n大体の事はそれを遂行できる能力が備わっているかという意味では他にも出来る人がいるわけだし",
+      "preview": "[img https://cs1.animestore.docomo.ne.jp/anime/1/14/79/Qzq6fw/11479_1_1.png?1551177134000]\n監督：[[水島努]]\nアニメーション制作：[[P.A.WORKS]]",
+      "modifiedAt": 1770557574000,
+      "linkCount": 1,
+      "thumbnailUrl": "https://cs1.animestore.docomo.ne.jp/anime/1/14/79/Qzq6fw/11479_1_1.png?1551177134000"
+    },
+    {
       "name": "Simple Web Server.md",
       "slug": "Simple Web Server",
       "title": "Simple Web Server",
@@ -1359,6 +1679,16 @@
       "modifiedAt": 1769262323000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/zhIScvlFn2w/hqdefault.jpg"
+    },
+    {
+      "name": "Someday.md",
+      "slug": "Someday",
+      "title": "Someday",
+      "content": "<!-- updated: 2026-02-08T16:49:10 -->\n#public\n[yt https://youtu.be/n-wEvzqdDZg?si=cDslv0mEAs3LU88t]\n\n[[Páraic Mc Gloughlin]]",
+      "preview": "[yt https://youtu.be/n-wEvzqdDZg?si=cDslv0mEAs3LU88t]\n[[Páraic Mc Gloughlin]]",
+      "modifiedAt": 1770536950000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/n-wEvzqdDZg/hqdefault.jpg"
     },
     {
       "name": "ssh-keygen.md",
@@ -1398,6 +1728,26 @@
       "preview": "https://stephango.com/\n[[Obsidian]] 開発者\nサイトには素敵な読み物がいっぱいある",
       "modifiedAt": 1768484823000,
       "linkCount": 2,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "Striped.md",
+      "slug": "Striped",
+      "title": "Striped",
+      "content": "<!-- updated: 2026-02-08T18:29:13 -->\n#public\n[yt https://www.youtube.com/watch?v=wkk0bW-opUA]\n\n[[4k intro]]\n\n🔗\n- https://www.pouet.net/prod.php?which=70631\n- https://demozoo.org/productions/173798/",
+      "preview": "[yt https://www.youtube.com/watch?v=wkk0bW-opUA]\n[[4k intro]]\n🔗",
+      "modifiedAt": 1770542953000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/wkk0bW-opUA/hqdefault.jpg"
+    },
+    {
+      "name": "studious.md",
+      "slug": "studious",
+      "title": "studious",
+      "content": "<!-- updated: 2026-02-08T23:26:34 -->\n#public\n夢中になる・熱中する状態\n\nhttps://narumi.blog.jp/archives/4557834.html\n>「studious」になることを覚えた子どもだったら、将来それは表現をやろうと、他の例えば研究をやろうと、あるいは物を作る人になろうと、それはすごくやっぱりひとつのものを集中の仕方が分かっているので到達できるんですね、自分のやりたいことに。\n> 一番いけないのは、体裁だけを整えて「こっちの方が見栄えがいい」とかですね、その表面だけのことを覚えて取りつくろうことだけが巧みになるっていうのが、僕はすごく今恐れていることなんですね。\n> もう小さいときは･･･この映像って多分、子どもが直接見るっていうか、お母さんとかあるいは大学生とか、これから若い人を育てる立場の人だと思うんで言いたいんですけど、それが釣りだろうと音楽だろうと、特にスポーツですね。野球やサッカー、そういうものに夢中になることを周りで勧めたいなと思ってるんですね。そういう環境を作りたいっていう。\n> 例えば僕は結構、体育会の子が好きなんですけど、野球やってた子って、中途半端な面白さ、世の中の例えばシュールな面白さみたいなああいうものは「え、つまんないんじゃないの？そういうものは」と一言で看破できる力を持ってるんですね。\n> ですから一度夢中とか熱中した経験のある子だったら、「何が本当に面白いのか」「何が本当に美味しいのか」とかが分かるんです。世の中マスコミがすごくうるさいから、「これがなんか美味しいですよ」とか「これが面白いですよ」とかって、いっぱい情報がありますよね。\n> その時にやっぱり大事なのは自分の考え、自分の意見ですよね。「なんだつまんないじゃないか」と、「なんか世の中間違ってるな」と思ってもいい。そういうなんかこう自分が一度夢中になった・熱中した体験があると、本当のものを見つける力があるなと思うんですね。\n[[佐藤雅彦]]\n\nhttps://baku89.com/2015/07/03/%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%A0%E3%83%AD%E3%82%B9\n\nこの状態になった経験があるかどうか\n\n中2の時に目の前のやる事に忙殺されることがあったけど、今思うと studious になっていたのかも\n当時なぜあんなに忙しくしてたのか\n急な心変わりがあった気はしない\nこの経験があったからこそなにをやるのにも気張ってしまう気がする\n\nちょうどいいヌケ感でやる、[[ナチュラルないなたさ|ナチュラルにいなたい]]をもってやる\n\n今（2025 現在）みんなこれを求めて視野を狭めたいという欲がありそうと[[イン・ザ・メガチャーチ]]を読んで思うなど",
+      "preview": "夢中になる・熱中する状態\nhttps://narumi.blog.jp/archives/4557834.html\n>「studious」になることを覚えた子どもだったら、将来それは表現をやろうと、他の例えば研究をやろうと、あるいは物を作る人になろうと、それはすごくやっぱりひとつのものを集中の仕方が分かっているので到達できるんですね、自分のやりたいことに。",
+      "modifiedAt": 1770560794000,
+      "linkCount": 0,
       "thumbnailUrl": null
     },
     {
@@ -1511,6 +1861,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "Tripon.md",
+      "slug": "Tripon",
+      "title": "Tripon",
+      "content": "<!-- updated: 2026-02-08T23:45:49 -->\n#public\nhttps://scrapbox.io/artresearch/Tripon\n\n[[vokoi]] + [[Daito Manabe]] + [[Satoshi Horii]]\n\n[yt https://www.youtube.com/watch?v=dGqdx7FufQ0]",
+      "preview": "https://scrapbox.io/artresearch/Tripon\n[[vokoi]] + [[Daito Manabe]] + [[Satoshi Horii]]\n[yt https://www.youtube.com/watch?v=dGqdx7FufQ0]",
+      "modifiedAt": 1770561949000,
+      "linkCount": 2,
+      "thumbnailUrl": "https://img.youtube.com/vi/dGqdx7FufQ0/hqdefault.jpg"
+    },
+    {
       "name": "Unity _ シェーダに渡すテクスチャのデフォルト値.md",
       "slug": "Unity _ シェーダに渡すテクスチャのデフォルト値",
       "title": "Unity : シェーダに渡すテクスチャのデフォルト値",
@@ -1554,9 +1914,9 @@
       "name": "Wackelkontakt.md",
       "slug": "Wackelkontakt",
       "title": "Wackelkontakt",
-      "content": "<!-- updated: 2026-01-17T19:54:53 -->\n#public\n[yt https://www.youtube.com/watch?v=jl4GlfZBCSs]\n\n[[4k intro]]\n[[Alcatraz]], [[Prismbeings]]\n[[Oidos]]\n\n🔗\n- https://www.pouet.net/prod.php?which=85220\n- https://demozoo.org/productions/277049/",
-      "preview": "[yt https://www.youtube.com/watch?v=jl4GlfZBCSs]\n[[4k intro]]\n[[Alcatraz]], [[Prismbeings]]",
-      "modifiedAt": 1768647293000,
+      "content": "<!-- updated: 2026-02-08T16:27:34 -->\n#public\n[yt https://www.youtube.com/watch?v=jl4GlfZBCSs]\n\n[[4k intro]]\n[[Alcatraz]] ([[slerpy]]), [[Prismbeings]]\n[[Oidos]]\n\n🔗\n- https://www.pouet.net/prod.php?which=85220\n- https://demozoo.org/productions/277049/\n- https://www.shadertoy.com/view/ts2yWm?__cf_chl_tk=H9DDhjpglorORLhSASXB_dnCK95qVlM6JdAT.W5hMhQ-1770535442-1.0.1.1-wu_sEzLdMLg6KWvuK929Hbxc9pb3s6UFxhehLxbTYiM",
+      "preview": "[yt https://www.youtube.com/watch?v=jl4GlfZBCSs]\n[[4k intro]]\n[[Alcatraz]] ([[slerpy]]), [[Prismbeings]]",
+      "modifiedAt": 1770535654000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/jl4GlfZBCSs/hqdefault.jpg"
     },
@@ -1614,9 +1974,9 @@
       "name": "wiki 兼 ブログ 兼 メモ 兼 ポートフォリオ.md",
       "slug": "wiki 兼 ブログ 兼 メモ 兼 ポートフォリオ",
       "title": "wiki 兼 ブログ 兼 メモ 兼 ポートフォリオ",
-      "content": "<!-- updated: 2026-01-15T23:02:41 -->\n#public\nここの方針\nオールインワンを目指していきたいですね\n\n先行事例\n・https://baku89.com/morion",
-      "preview": "ここの方針\nオールインワンを目指していきたいですね\n先行事例",
-      "modifiedAt": 1768485761000,
+      "content": "<!-- updated: 2026-02-08T22:06:52 -->\n#public\nここの方針\nオールインワンを目指していきたいですね\n\n[[Digital garden]] であり、 [[ナレッジベース]]でもあるのかも\n\n先行事例\n・https://baku89.com/morion",
+      "preview": "ここの方針\nオールインワンを目指していきたいですね\n[[Digital garden]] であり、 [[ナレッジベース]]でもあるのかも",
+      "modifiedAt": 1770556012000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -1671,6 +2031,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/q6EoRBvdVPQ/hqdefault.jpg"
     },
     {
+      "name": "YIQ で Hue shift.md",
+      "slug": "YIQ で Hue shift",
+      "title": "YIQ で Hue shift",
+      "content": "<!-- updated: 2026-02-08T15:42:37 -->\n#public\n[img https://i.sstatic.net/iaNhR.jpg]\n[[HSV]] でシフトするより無理のない感じがある\n\n[[YIQ]] は距離が彩度、色相が角度の極座標空間\nなので、rgb から yiq の現在地確かめて、hueShift 分回転させてあげることで実現\n\n```glsl\n// Source - https://stackoverflow.com/q/9234724\n// Posted by Andrea3000, modified by community. See post 'Timeline' for change history\n// Retrieved 2026-02-08, License - CC BY-SA 3.0\n\nuniform sampler2DRect texture;\nconst mat3 rgb2yiq = mat3(0.299, 0.587, 0.114, \n                          0.595716, -0.274453, -0.321263, \n                          0.211456, -0.522591, 0.311135);\nconst mat3 yiq2rgb = mat3(1.0, 0.9563, 0.6210, 1.0, -0.2721, -0.6474, 1.0, -1.1070, 1.7046);\nuniform float hue;\n\nvoid main() {\n  vec3 yColor = rgb2yiq * texture2DRect(texture, gl_TexCoord[0].st).rgb; \n  float originalHue = atan(yColor.b, yColor.g);\n  float finalHue = originalHue + hue;\n  float chroma = sqrt(yColor.b*yColor.b+yColor.g*yColor.g);\n  vec3 yFinalColor = vec3(yColor.r, chroma * cos(finalHue), chroma * sin(finalHue));\n  gl_FragColor = vec4(yiq2rgb*yFinalColor, 1.0);\n}\n\n```\n\nhttps://mofu-dev.com/blog/introducing-yiq/",
+      "preview": "[img https://i.sstatic.net/iaNhR.jpg]\n[[HSV]] でシフトするより無理のない感じがある\n[[YIQ]] は距離が彩度、色相が角度の極座標空間",
+      "modifiedAt": 1770532957000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://i.sstatic.net/iaNhR.jpg"
+    },
+    {
       "name": "Yoshi Sodeoka.md",
       "slug": "Yoshi Sodeoka",
       "title": "Yoshi Sodeoka",
@@ -1694,9 +2064,9 @@
       "name": "Zettelkasten.md",
       "slug": "Zettelkasten",
       "title": "Zettelkasten",
-      "content": "<!-- updated: 2026-02-01T02:50:43 -->\n#public\nhttps://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A7%E3%83%83%E3%83%86%E3%83%AB%E3%82%AB%E3%82%B9%E3%83%86%E3%83%B3\n>Zettelkastenを多用したことで知られるドイツの社会学者ニクラス・ルーマンは、生涯で約 90,000 枚の索引カードからなるZettelkastenを構築しており、約 50 冊の本と 約550 の寄稿を執筆した。\nゲースー",
-      "preview": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A7%E3%83%83%E3%83%86%E3%83%AB%E3%82%AB%E3%82%B9%E3%83%86%E3%83%B3\n>Zettelkastenを多用したことで知られるドイツの社会学者ニクラス・ルーマンは、生涯で約 90,000 枚の索引カードからなるZettelkastenを構築しており、約 50 冊の本と 約550 の寄稿を執筆した。\nゲースー",
-      "modifiedAt": 1769881843000,
+      "content": "<!-- updated: 2026-02-08T19:09:09 -->\n#public\nツェッテルカステン\n\nhttps://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A7%E3%83%83%E3%83%86%E3%83%AB%E3%82%AB%E3%82%B9%E3%83%86%E3%83%B3\n>Zettelkastenを多用したことで知られるドイツの社会学者ニクラス・ルーマンは、生涯で約 90,000 枚の索引カードからなるZettelkastenを構築しており、約 50 冊の本と 約550 の寄稿を執筆した。\nゲースー\n",
+      "preview": "ツェッテルカステン\nhttps://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A7%E3%83%83%E3%83%86%E3%83%AB%E3%82%AB%E3%82%B9%E3%83%86%E3%83%B3\n>Zettelkastenを多用したことで知られるドイツの社会学者ニクラス・ルーマンは、生涯で約 90,000 枚の索引カードからなるZettelkastenを構築しており、約 50 冊の本と 約550 の寄稿を執筆した。",
+      "modifiedAt": 1770545349000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -1709,6 +2079,16 @@
       "modifiedAt": 1769315600000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/Y_lm0cZOkeA/hqdefault.jpg"
+    },
+    {
+      "name": "『チェンソーマン』9 巻発売記念スペシャルPV.md",
+      "slug": "『チェンソーマン』9 巻発売記念スペシャルPV",
+      "title": "『チェンソーマン』9 巻発売記念スペシャルPV",
+      "content": "<!-- updated: 2026-02-08T18:42:03 -->\n#public\n[yt https://www.youtube.com/watch?v=VPB_J6Egi28]\n\nかっけ～\n\n[[代田栄介]]\n[tw https://x.com/shirotaeisuke/status/1323822882284167169?s=20]",
+      "preview": "[yt https://www.youtube.com/watch?v=VPB_J6Egi28]\nかっけ～\n[[代田栄介]]",
+      "modifiedAt": 1770543723000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/VPB_J6Egi28/hqdefault.jpg"
     },
     {
       "name": "【東方】Bad Apple!! K-D Tree Regenerated!!.md",
@@ -1771,6 +2151,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/rcG1sZILjfc/hqdefault.jpg"
     },
     {
+      "name": "してる感.md",
+      "slug": "してる感",
+      "title": "してる感",
+      "content": "<!-- updated: 2026-02-08T23:20:32 -->\n#public\nやってる感 / ○○っぽさ\n\n本当にそれをしてるかは重要ではなくて、それをしてる感じが出ることが鑑賞者にとっては重要？\n- [[伝わらないと意味がない]] ？\n\n[[Daito Manabe]]がライブ感が出てれば OK みたいなこと言ってた記事ってどれだっけ",
+      "preview": "やってる感 / ○○っぽさ\n本当にそれをしてるかは重要ではなくて、それをしてる感じが出ることが鑑賞者にとっては重要？\n- [[伝わらないと意味がない]] ？",
+      "modifiedAt": 1770560432000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "ときにはジャンクの極致に触れ、 自らの高潔さを知る。.md",
       "slug": "ときにはジャンクの極致に触れ、 自らの高潔さを知る。",
       "title": "ときにはジャンクの極致に触れ、 自らの高潔さを知る。",
@@ -1787,8 +2177,28 @@
       "content": "<!-- updated: 2026-01-17T20:39:04 -->\n#public\n[img https://cs1.animestore.docomo.ne.jp/anime/1/00/05/zqEITQ/10005_1_1.png?1550563317000]\n監督：[[長井龍雪]]\nシリーズ構成：[[岡田麿里]]\nアニメーション制作：[[J.C.STAFF]]\n\nあーみん",
       "preview": "[img https://cs1.animestore.docomo.ne.jp/anime/1/00/05/zqEITQ/10005_1_1.png?1550563317000]\n監督：[[長井龍雪]]\nシリーズ構成：[[岡田麿里]]",
       "modifiedAt": 1768649944000,
-      "linkCount": 2,
+      "linkCount": 3,
       "thumbnailUrl": "https://cs1.animestore.docomo.ne.jp/anime/1/00/05/zqEITQ/10005_1_1.png?1550563317000"
+    },
+    {
+      "name": "にゆにゆ3.md",
+      "slug": "にゆにゆ3",
+      "title": "にゆにゆ3",
+      "content": "<!-- updated: 2026-02-08T23:21:58 -->\n#public\n[img https://gyazo.com/e4430995862bac65237be766ab28b2bb/max_size/1000]\n[img https://gyazo.com/59e7db0d6cb29f8b3e9087b10a9f79f6/max_size/1000]",
+      "preview": "[img https://gyazo.com/e4430995862bac65237be766ab28b2bb/max_size/1000]\n[img https://gyazo.com/59e7db0d6cb29f8b3e9087b10a9f79f6/max_size/1000]",
+      "modifiedAt": 1770560518000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://gyazo.com/e4430995862bac65237be766ab28b2bb/max_size/1000"
+    },
+    {
+      "name": "にゆにゆ（ガキ）.md",
+      "slug": "にゆにゆ（ガキ）",
+      "title": "にゆにゆ（ガキ）",
+      "content": "<!-- updated: 2026-02-08T23:21:17 -->\n#public\n[img https://gyazo.com/0423a61ed3bec6ea6bd753efdfe4cfd1/max_size/1000]\n[img https://gyazo.com/e7dbdea2cefadf5610a416ea4072ab24/max_size/1000]\n",
+      "preview": "[img https://gyazo.com/0423a61ed3bec6ea6bd753efdfe4cfd1/max_size/1000]\n[img https://gyazo.com/e7dbdea2cefadf5610a416ea4072ab24/max_size/1000]",
+      "modifiedAt": 1770560477000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://gyazo.com/0423a61ed3bec6ea6bd753efdfe4cfd1/max_size/1000"
     },
     {
       "name": "まあまあまあまあまあ.md",
@@ -1814,9 +2224,9 @@
       "name": "よりよく消費するために生産する.md",
       "slug": "よりよく消費するために生産する",
       "title": "よりよく消費するために生産する",
-      "content": "<!-- updated: 2026-01-26T01:06:42 -->\n#public\nプロコンシューマーというない単語を最近頭に思い浮かべがち\n\nすでに似たような言葉があるっぽい\nhttps://ja.wikipedia.org/wiki/%E7%94%9F%E7%94%A3%E6%B6%88%E8%B2%BB%E8%80%85\n\nしかし、考えてるのはこっちの方\nhttps://baku89.com/ja/June%2026%EF%BC%8C%202024%EF%BC%9A%20%E5%92%8C%E5%A3%B0\n> よりよく消費するために生産する\nいい言葉なのでこっちをページのタイトルに変更\nなんでも手ごね as literacy ですね\n[[実際にそれをする]]ことでよりよくそれについて理解できることがある\n少なくとも見え方は変わりそう\n\n俺が [[VJ]] をする理由の一つ\n",
+      "content": "<!-- updated: 2026-02-08T21:30:19 -->\n#public\nプロコンシューマーというない単語を最近頭に思い浮かべがち\n\nすでに似たような言葉があるっぽい\nhttps://ja.wikipedia.org/wiki/%E7%94%9F%E7%94%A3%E6%B6%88%E8%B2%BB%E8%80%85\n\nしかし、考えてるのはこっちの方\nhttps://baku89.com/ja/June%2026%EF%BC%8C%202024%EF%BC%9A%20%E5%92%8C%E5%A3%B0\n> よりよく消費するために生産する\nいい言葉なのでこっちをページのタイトルに変更\nなんでも手ごね as literacy ですね\n[[実際にそれをする]]ことでよりよくそれについて理解できることがある\n少なくとも見え方は変わりそう\n\n[[読み手が本を面白くする]]という前提\n\n俺が [[VJ]] をする理由の一つ\n",
       "preview": "プロコンシューマーというない単語を最近頭に思い浮かべがち\nすでに似たような言葉があるっぽい\nhttps://ja.wikipedia.org/wiki/%E7%94%9F%E7%94%A3%E6%B6%88%E8%B2%BB%E8%80%85",
-      "modifiedAt": 1769357202000,
+      "modifiedAt": 1770553819000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -1834,9 +2244,9 @@
       "name": "アルバム単位で聴くという行為.md",
       "slug": "アルバム単位で聴くという行為",
       "title": "アルバム単位で聴くという行為",
-      "content": "<!-- updated: 2026-01-17T18:09:44 -->\n#public\n頑固親父になりたいわけではなくて、単にジャケ写や選曲、アルバム名など意思決定が多数含まれるパッケージだから聴いちゃうみたいな\n\n意味のあるかたまり\n\n[[Spotify]] でアルバム単位で聞くと My Top Songs が面白くなくなる\nMy Top Albums もくれ\n[img https://i.gyazo.com/thumb_dpr/1000/b754cb6e34bef58f9808b6080cb2c686-png.png]\nワロス\n\nなんか 2025 からあって神！\n[img https://i.gyazo.com/b656fb4901596e83b86fda5bb1683b64.png]\nでも 5 位までなのはどうなんだよ\n\n",
-      "preview": "頑固親父になりたいわけではなくて、単にジャケ写や選曲、アルバム名など意思決定が多数含まれるパッケージだから聴いちゃうみたいな\n意味のあるかたまり\n[[Spotify]] でアルバム単位で聞くと My Top Songs が面白くなくなる",
-      "modifiedAt": 1768640984000,
+      "content": "<!-- updated: 2026-02-08T19:56:00 -->\n#public\n頑固親父になりたいわけではなくて、単にジャケ写や選曲、アルバム名など意思決定が多数含まれるパッケージだから聴いちゃうみたいな\n\n作為のあるかたまり\n\n[[Spotify]] でアルバム単位で聞くと My Top Songs が面白くなくなる\nMy Top Albums もくれ\n[img https://i.gyazo.com/thumb_dpr/1000/b754cb6e34bef58f9808b6080cb2c686-png.png]\nワロス\n\nなんか 2025 からあって神！\n[img https://i.gyazo.com/b656fb4901596e83b86fda5bb1683b64.png]\nでも 5 位までなのはどうなんだよ\n\n",
+      "preview": "頑固親父になりたいわけではなくて、単にジャケ写や選曲、アルバム名など意思決定が多数含まれるパッケージだから聴いちゃうみたいな\n作為のあるかたまり\n[[Spotify]] でアルバム単位で聞くと My Top Songs が面白くなくなる",
+      "modifiedAt": 1770548160000,
       "linkCount": 0,
       "thumbnailUrl": "https://i.gyazo.com/thumb_dpr/1000/b754cb6e34bef58f9808b6080cb2c686-png.png"
     },
@@ -1931,6 +2341,16 @@
       "thumbnailUrl": "https://gyazo.com/2a7fdbec3f692a8ec717f0930d4cbb96/max_size/1000"
     },
     {
+      "name": "ジェネ系VJの語源.md",
+      "slug": "ジェネ系VJの語源",
+      "title": "ジェネ系VJの語源",
+      "content": "<!-- updated: 2026-02-08T23:45:37 -->\n#public\n未整理気味\n\n[tw https://x.com/Kezzardrix/status/1927027064223248666?s=20]\n- https://www.ameet.jp/digital-imaging/485/\n- https://www.keijiro.tokyo/posts/generative_vj\n\n2013 年以前も同様な手法の VJ はいるはず、語源だけでなく起源も気になってきた\n起源は別ちゃんと追うべきっすね\n[tw https://x.com/Kezzardrix/status/1927028028342669665?s=20]\n[[tripon|Tripon]]\n[yt https://www.youtube.com/watch?v=dGqdx7FufQ0]\n2010 年前後は [[Jitter]] が主流？\n[[Masato Tsutsui]]\n- https://adsr.jp/works/\n[[voice.zero]]\n- https://www.ntticc.or.jp/ja/archive/participants/voice-dot-zero/\n\nhttps://x.com/daitomanabe/status/1476811096137043970\n> ジェネ系VJの原体験だと 2000年初頭の https://t.co/gWi3UK7Cik 辺りなんだけど全然映像が残っておらず残念。\nhttps://arch-project.com/2002-.php\n[[ARch project]]\n>  interactive computer music meets japanese traditional music.\nらしい\n\nジェネ + VJ の最古のツイート\n[tw https://x.com/arkwknsk/status/7711522443?s=20]\nhttps://www.digitalstage.jp/mail_magazine/ds_news/20100225/hmail.html\nこの放送の中で視聴者がこんなアプリがあったらいいな～を投稿する目論見があってそれのつぶやきっぽい\n[[iSlate]] (iPad の前身), [[BGV]] (background video)\nジェネ系 + 映像で検索してもここにたどり着いた\nまあ日本語で調べてるだけなんで英語とかで検索すると本当は良さそう\n\nhttps://web.archive.org/web/20040308020905/http://music3.2ch.net/test/read.cgi/dj/1012235105/\n[img https://gyazo.com/59516be4a8454b86b627e35e255bdb70/max_size/1000]\n2ch の 2002 年のスレにジェネ系というワード出てきた\n\nhttps://www.nicovideo.jp/watch/sm2237767\n全然ジェネ + VJのワードが出てくる前よりも当然やってる人はいますよね\nhttps://x.com/xxJulexx\n\nちなみにプリレンダVJは[[レトロニム]]？\n古いという意味が含まれてるので誰かに怒られそう...\nなんか他にいい言葉ないですか、新旧というより手法の違いなんだよな",
+      "preview": "未整理気味\n[tw https://x.com/Kezzardrix/status/1927027064223248666?s=20]\n- https://www.ameet.jp/digital-imaging/485/",
+      "modifiedAt": 1770561937000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://gyazo.com/59516be4a8454b86b627e35e255bdb70/max_size/1000"
+    },
+    {
       "name": "ジャムいね.md",
       "slug": "ジャムいね",
       "title": "ジャムいね",
@@ -1949,6 +2369,36 @@
       "modifiedAt": 1770481634000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/UbjSaWtrOyE/hqdefault.jpg"
+    },
+    {
+      "name": "デオドラント.md",
+      "slug": "デオドラント",
+      "title": "デオドラント",
+      "content": "<!-- updated: 2026-02-08T22:02:08 -->\n#public\n[img https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20-06-18-Deodorants_RRK6884.jpg/250px-20-06-18-Deodorants_RRK6884.jpg]\nhttps://ja.wikipedia.org/wiki/%E3%83%87%E3%82%AA%E3%83%89%E3%83%A9%E3%83%B3%E3%83%88\n\nコンテンツのデオドラント\n- 炎上しそうな要素を消す\n- ポリコレ配慮\n- [[NSFW]] を避ける\n- 子どもに見せても問題なくする\n- 雑な部分をなるべく減らす？\n  - これは単にクオリティを上げてるだけな気も\n\n心理的なクリーンさの担保\n\nなんのため？\n数値最大化のためには[[最大多数の最大幸福]]を目指す必要がありそう\n\nhttps://kai-you.net/article/93374\n>「原作ではひとりちゃん（※主人公の後藤ひとり）が水風呂に入るシーンで裸になっているんですが、アニメでは水着にしてもらいました。ぼざろがそういう描写が売りの作品ならいいと思いますが、そうではないと思いますし、覇権を狙う上ではそうした描写はノイズになると思ったんです」\n>⋮\n>「現実的に考えても、ギターを弾きながら胸が不自然に揺れ続けるみたいなことはないわけですし、そういう描写があったら私は幼い息子にその作品を見せるのを躊躇する。自分の子どもに見せられるかどうか、というのは大事にしている基準です」\n商品である以上売上は大きい方が良いと思うので理解は出来る\nが、気持ち良さがあるかと言われるとなんとも\n[[メディアの違いを理解せよ。]]なんですかね\n",
+      "preview": "[img https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20-06-18-Deodorants_RRK6884.jpg/250px-20-06-18-Deodorants_RRK6884.jpg]\nhttps://ja.wikipedia.org/wiki/%E3%83%87%E3%82%AA%E3%83%89%E3%83%A9%E3%83%B3%E3%83%88\nコンテンツのデオドラント",
+      "modifiedAt": 1770555728000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20-06-18-Deodorants_RRK6884.jpg/250px-20-06-18-Deodorants_RRK6884.jpg"
+    },
+    {
+      "name": "デカいという面白さ.md",
+      "slug": "デカいという面白さ",
+      "title": "デカいという面白さ",
+      "content": "<!-- updated: 2026-02-08T22:59:50 -->\n#public\n[img https://gyazo.com/8c3cfc3c480974d95c2925d7397ca79c/max_size/1000]\n\n面白さ？なのかな\n\nAnyma のライブ演出とか\n\n非現実みがあるから？\n\n効率もいい\n多数の鑑賞者が同時に鑑賞出来る\n\nミニチュアとかは逆の方向の面白さなのかも？\n効率に関しても逆\n[[良さは多元的]]",
+      "preview": "[img https://gyazo.com/8c3cfc3c480974d95c2925d7397ca79c/max_size/1000]\n面白さ？なのかな\nAnyma のライブ演出とか",
+      "modifiedAt": 1770559190000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://gyazo.com/8c3cfc3c480974d95c2925d7397ca79c/max_size/1000"
+    },
+    {
+      "name": "デュレエ.md",
+      "slug": "デュレエ",
+      "title": " デュレエ",
+      "content": "<!-- updated: 2026-02-08T18:14:52 -->\n<!-- title:  デュレエ -->\n#public\n[yt https://www.youtube.com/watch?v=dpT-ZAPVvyI]\n\n[[StudioGnu]] ( [[melonade]] , [[ながい]] )",
+      "preview": "[yt https://www.youtube.com/watch?v=dpT-ZAPVvyI]\n[[StudioGnu]] ( [[melonade]] , [[ながい]] )",
+      "modifiedAt": 1770542092000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/dpT-ZAPVvyI/hqdefault.jpg"
     },
     {
       "name": "トラックバック.md",
@@ -1991,6 +2441,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/GZjZRN9ap-Y/hqdefault.jpg"
     },
     {
+      "name": "パンコレ ～voice actresses' legendary punk songs collection～.md",
+      "slug": "パンコレ ～voice actresses' legendary punk songs collection～",
+      "title": "パンコレ ～voice actresses' legendary punk songs collection～",
+      "content": "<!-- updated: 2026-02-08T16:39:16 -->\n#public\n[img https://img.hmv.co.jp/image/jacket/400/28/1/3/841.jpg]\n\n再評価路線あると思います\n\n無断転載に付いてたいいコメント\n>当時から注目してました。その時はまだまだアニメだとかオタクに厳しい世の中でした。体感では、そうした文化と、世の中がまだまだ触れ合いはじめたばかりの頃でした。\n>当時、好き好んで洋楽のパンクやロックを嗜なまれていた方々は尖った部類でした。にも関わらず『邦ロックとアニメオタク文化』という初手、段階をすっ飛ばして、このコンピレーションを出したというわけです。伝わりますか？\n\n門脇舞以の [[Pretty Fly (For A White Guy)]] 神杉\n後藤邑子の [[Smells Like Teen Spirit]] もやばい",
+      "preview": "[img https://img.hmv.co.jp/image/jacket/400/28/1/3/841.jpg]\n再評価路線あると思います\n無断転載に付いてたいいコメント",
+      "modifiedAt": 1770536356000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.hmv.co.jp/image/jacket/400/28/1/3/841.jpg"
+    },
+    {
       "name": "ファイルが大事.md",
       "slug": "ファイルが大事",
       "title": "ファイルが大事",
@@ -2024,10 +2484,10 @@
       "name": "メディアの違いを理解せよ。.md",
       "slug": "メディアの違いを理解せよ。",
       "title": "メディアの違いを理解せよ。",
-      "content": "<!-- updated: 2026-01-17T18:05:57 -->\n#public\n[img https://i.gyazo.com/75ecb9aebf5ec0655f8aaccbf3527754.jpg]\n[[meme]]\n",
-      "preview": "[img https://i.gyazo.com/75ecb9aebf5ec0655f8aaccbf3527754.jpg]\n[[meme]]",
-      "modifiedAt": 1768640757000,
-      "linkCount": 0,
+      "content": "<!-- updated: 2026-02-08T21:53:56 -->\n#public\n[img https://i.gyazo.com/75ecb9aebf5ec0655f8aaccbf3527754.jpg]\n[[meme]]\n\nhttps://dic.nicovideo.jp/a/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E9%81%95%E3%81%84%E3%82%92%E7%90%86%E8%A7%A3%E3%81%9B%E3%82%88%21\n\n",
+      "preview": "[img https://i.gyazo.com/75ecb9aebf5ec0655f8aaccbf3527754.jpg]\n[[meme]]\nhttps://dic.nicovideo.jp/a/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E9%81%95%E3%81%84%E3%82%92%E7%90%86%E8%A7%A3%E3%81%9B%E3%82%88%21",
+      "modifiedAt": 1770555236000,
+      "linkCount": 1,
       "thumbnailUrl": "https://i.gyazo.com/75ecb9aebf5ec0655f8aaccbf3527754.jpg"
     },
     {
@@ -2041,12 +2501,32 @@
       "thumbnailUrl": "https://img.youtube.com/vi/PB6qZQNteQY/hqdefault.jpg"
     },
     {
+      "name": "モーション周期表.md",
+      "slug": "モーション周期表",
+      "title": "モーション周期表",
+      "content": "<!-- updated: 2026-02-08T18:11:03 -->\n#public\nhttps://web.archive.org/web/20250124210748/http://foxcodex.html.xdomain.jp/\n\n[[モーショングラフィックス]]における基本要素を抽出し、元素記号表のようにルールをもとに並べたもの\n\nhttps://shampagne.hatenablog.com/entry/20210401/1617275896\n[[Shampagne]] さんによる [[TouchDesigner]] での再現",
+      "preview": "https://web.archive.org/web/20250124210748/http://foxcodex.html.xdomain.jp/\n[[モーショングラフィックス]]における基本要素を抽出し、元素記号表のようにルールをもとに並べたもの\nhttps://shampagne.hatenablog.com/entry/20210401/1617275896",
+      "modifiedAt": 1770541863000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "リムライティング.md",
       "slug": "リムライティング",
       "title": "リムライティング",
       "content": "<!-- updated: 2026-02-03T00:28:17 -->\n#public\nhttps://wgld.org/d/webgl/w064.html\n\n[[法線]] となにかしらの向きとの[[内積]]を取ってクランプして -1 を足す\nカメラの向きとかいいんじゃないですかね",
       "preview": "https://wgld.org/d/webgl/w064.html\n[[法線]] となにかしらの向きとの[[内積]]を取ってクランプして -1 を足す\nカメラの向きとかいいんじゃないですかね",
       "modifiedAt": 1770046097000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "レターボックス.md",
+      "slug": "レターボックス",
+      "title": "レターボックス",
+      "content": "<!-- updated: 2026-02-08T17:09:17 -->\n#public\nアスペクト比の維持するために端に黒帯を追加するやつ\n\nhttps://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9_(%E6%98%A0%E5%83%8F%E6%8A%80%E8%A1%93)",
+      "preview": "アスペクト比の維持するために端に黒帯を追加するやつ\nhttps://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9_(%E6%98%A0%E5%83%8F%E6%8A%80%E8%A1%93)",
+      "modifiedAt": 1770538157000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -2059,6 +2539,16 @@
       "modifiedAt": 1768642648000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/KK014WfP-ug/hqdefault.jpg"
+    },
+    {
+      "name": "一龠.md",
+      "slug": "一龠",
+      "title": "一龠",
+      "content": "<!-- updated: 2026-02-08T17:50:13 -->\n#public\n[yt https://youtu.be/iWzUxFQQAKY?si=9YAn-eZDSWZY1WXA]\n\n[[melonade]]",
+      "preview": "[yt https://youtu.be/iWzUxFQQAKY?si=9YAn-eZDSWZY1WXA]\n[[melonade]]",
+      "modifiedAt": 1770540613000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/iWzUxFQQAKY/hqdefault.jpg"
     },
     {
       "name": "与えることを拒み、招待することを怠ることは、受け取ることを拒むのと同様に、戦いを宣言するのに等しい.md",
@@ -2141,6 +2631,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "完璧主義.md",
+      "slug": "完璧主義",
+      "title": "完璧主義",
+      "content": "<!-- updated: 2026-02-08T21:22:06 -->\n#public\n[[脳の針]]として刺さっていますねぇ\n\n- steam で発売されてるゲームの全実績解除\n- 本を全ページ読む ( ≒ めくる )\n- アニメを全話視聴\n- 提供された料理を全部食す",
+      "preview": "[[脳の針]]として刺さっていますねぇ\n- steam で発売されてるゲームの全実績解除\n- 本を全ページ読む ( ≒ めくる )",
+      "modifiedAt": 1770553326000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "実際にそれをする.md",
       "slug": "実際にそれをする",
       "title": "実際にそれをする",
@@ -2184,9 +2684,9 @@
       "name": "庭整備.md",
       "slug": "庭整備",
       "title": "庭整備",
-      "content": "<!-- updated: 2026-02-07T13:13:51 -->\n#public\n[[2ホップリンク]]欲しくね\n\nページ飛んだらスクロールリセットされるべきだな\n",
-      "preview": "[[2ホップリンク]]欲しくね\nページ飛んだらスクロールリセットされるべきだな",
-      "modifiedAt": 1770437631000,
+      "content": "<!-- updated: 2026-02-08T21:41:33 -->\n#public\n[[2ホップリンク]]欲しくね\n\nページ飛んだらスクロールリセットされるべきだな\n\nそん時の思考をアーカイブする事と[[ナレッジベース]]は同じ場で満たさない方がいいのかな\nfix という概念をあえて持つ意味\n後で見返した時に恥ずかしくなって消したくなると思ったりするんだろうけどそん時に気軽に消せちゃっていいのか\n各ページをバージョン管理する？？？\n",
+      "preview": "[[2ホップリンク]]欲しくね\nページ飛んだらスクロールリセットされるべきだな\nそん時の思考をアーカイブする事と[[ナレッジベース]]は同じ場で満たさない方がいいのかな",
+      "modifiedAt": 1770554493000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -2197,6 +2697,16 @@
       "content": "<!-- updated: 2026-01-28T21:21:49 -->\n#public\nまじで\n\n火の鳥の弁太...\n\n柴関ラーメンの大将...",
       "preview": "まじで\n火の鳥の弁太...\n柴関ラーメンの大将...",
       "modifiedAt": 1769602909000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "思考の深度.md",
+      "slug": "思考の深度",
+      "title": "思考の深度",
+      "content": "<!-- updated: 2026-02-08T21:41:54 -->\n#public\n[[これ描いて死ね]]で出てきた\n\nなぜなぜをどこまで繰り返すか\n\n連想ゲームを手前で止める止めない的な\n\n安直に真似ないために深度を上げる",
+      "preview": "[[これ描いて死ね]]で出てきた\nなぜなぜをどこまで繰り返すか\n連想ゲームを手前で止める止めない的な",
+      "modifiedAt": 1770554514000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -2334,9 +2844,9 @@
       "name": "福祉としてのコンテンツ.md",
       "slug": "福祉としてのコンテンツ",
       "title": "福祉としてのコンテンツ",
-      "content": "<!-- updated: 2026-01-30T22:54:38 -->\n#public\nコンテンツって言葉ナンセンスじゃないか、なんかいい言葉欲しい\n\n[tw https://x.com/masshutake5/status/2015073242126688372?s=20]\n\nhttps://www.trekkie-trax.com/ep/guchon-six-horns/\n>lilbesh ramko - それこそ気が狂いそうになる時に、ポップスから元気もらうことが多くて。マッキー（槇原敬之）とか[[星野源]]さんとか、無条件で元気が出るというか。ポップスのよさって無条件な愛というか、寄り添ってもらえる感覚にあると思うんで。だから、最近は自分を元気づけるために制作してる部分もある。そうやって自分自身の頭を整理して、現状出せる音楽を作ってる、という感じですね。",
+      "content": "<!-- updated: 2026-02-08T22:35:38 -->\n#public\nコンテンツって言葉ナンセンスじゃないか、なんかいい言葉欲しい\n\n[tw https://x.com/masshutake5/status/2015073242126688372?s=20]\n\nhttps://www.trekkie-trax.com/ep/guchon-six-horns/\n>lilbesh ramko - それこそ気が狂いそうになる時に、ポップスから元気もらうことが多くて。マッキー（槇原敬之）とか[[星野源]]さんとか、無条件で元気が出るというか。ポップスのよさって無条件な愛というか、寄り添ってもらえる感覚にあると思うんで。だから、最近は自分を元気づけるために制作してる部分もある。そうやって自分自身の頭を整理して、現状出せる音楽を作ってる、という感じですね。\n\n観客が都合よくキャラ萌えできるコンテンツってかなり福祉か？",
       "preview": "コンテンツって言葉ナンセンスじゃないか、なんかいい言葉欲しい\n[tw https://x.com/masshutake5/status/2015073242126688372?s=20]\nhttps://www.trekkie-trax.com/ep/guchon-six-horns/",
-      "modifiedAt": 1769781278000,
+      "modifiedAt": 1770557738000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -2351,13 +2861,33 @@
       "thumbnailUrl": null
     },
     {
+      "name": "脳の針.md",
+      "slug": "脳の針",
+      "title": "脳の針",
+      "content": "<!-- updated: 2026-02-08T21:25:26 -->\n#public\n[https://scrapbox.io/yozba/%E8%84%B3%E3%81%AE%E9%87%9D /yozba/脳の針]\n\n[tw https://x.com/Natsu_main/status/1952342595956621779?s=20]\n\n読み手によっては脳に刺さっている針を抜く本\n- 嫌われる勇気\n- [[中田考]]\n  -  13歳からの世界征服\n  - みんなちがって、みんなダメ",
+      "preview": "[https://scrapbox.io/yozba/%E8%84%B3%E3%81%AE%E9%87%9D /yozba/脳の針]\n[tw https://x.com/Natsu_main/status/1952342595956621779?s=20]\n読み手によっては脳に刺さっている針を抜く本",
+      "modifiedAt": 1770553526000,
+      "linkCount": 1,
+      "thumbnailUrl": null
+    },
+    {
       "name": "自他の境界.md",
       "slug": "自他の境界",
       "title": "自他の境界",
-      "content": "<!-- updated: 2026-01-17T17:58:39 -->\n#public\n自分の好きなものや、住んでる所を貶されて嫌な気持ちになるのは自他の境界の自側にあるから？\n\n自分の意見、作品を自分と切り分ける\n難しいね～～",
+      "content": "<!-- updated: 2026-02-08T19:54:07 -->\n#public\n自分の好きなものや、住んでる所を貶されて嫌な気持ちになるのは自他の境界の自側にあるから？\n\n自分の意見、作品を自分と切り分ける\n難しいね～～\n\nhttps://ja.wikipedia.org/wiki/%E5%80%8B%E4%BA%BA%E3%81%AE%E5%A2%83%E7%95%8C%E7%B7%9A",
       "preview": "自分の好きなものや、住んでる所を貶されて嫌な気持ちになるのは自他の境界の自側にあるから？\n自分の意見、作品を自分と切り分ける\n難しいね～～",
-      "modifiedAt": 1768640319000,
+      "modifiedAt": 1770548047000,
       "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "良さは多元的.md",
+      "slug": "良さは多元的",
+      "title": "良さは多元的",
+      "content": "<!-- updated: 2026-02-08T23:01:17 -->\n#public\nマジ\n\nいろんな良さがあっていいじゃない\n\nhttps://baku89.com/dotfes_yugop_%C3%97_Qanta%E5%AF%BE%E8%AB%87\n>yugopのような72dpiでカリッと乾いた気持ちよさだけではなく、例えばWebGL界隈はHiDPIのヌルっとした心地よさという別の強度を打ち出せている。Demosceneの16msでバキバキしてアシッドな気持ちよさも、あるいは、JODIのようなノイズミュージック的精度の世界もある。「気持ちよさ」もまた多元的",
+      "preview": "マジ\nいろんな良さがあっていいじゃない\nhttps://baku89.com/dotfes_yugop_%C3%97_Qanta%E5%AF%BE%E8%AB%87",
+      "modifiedAt": 1770559277000,
+      "linkCount": 1,
       "thumbnailUrl": null
     },
     {
@@ -2377,7 +2907,7 @@
       "content": "<!-- updated: 2026-01-17T17:59:23 -->\n#public\nこのフレーズをどこで聞いたか忘れてしまったけど、同意\n本はなにか別のものに置き換えてもおｋ\n\n読み手の経験によって本が面白くなったり面白くなくなったりする\n面白いと思えるタイミングが存在する気がする\n\nラーメンの食い手の技量が試される一杯っていうやつ\n\n今面白いと思えなくてもどっかで面白いと思えるタイミングが来るかもしれないと思っておこう\nその反対も\n\n2025/09/14 11:45\n歳を重ねるごとに[[とらドラ!]]が鋭利になってる\n歳ではなく経験",
       "preview": "このフレーズをどこで聞いたか忘れてしまったけど、同意\n本はなにか別のものに置き換えてもおｋ\n読み手の経験によって本が面白くなったり面白くなくなったりする",
       "modifiedAt": 1768640363000,
-      "linkCount": 0,
+      "linkCount": 1,
       "thumbnailUrl": null
     },
     {
@@ -2401,6 +2931,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "足首ぐねり 攻略.md",
+      "slug": "足首ぐねり 攻略",
+      "title": "足首ぐねり 攻略",
+      "content": "<!-- updated: 2026-02-08T23:18:56 -->\n#public\n結論：テーピングを持ち歩きましょう\n\n中学生にぐねってからクセが付いている\n- 2年に1回忘れたころにぐねる\n- 少しの段差でもまじで痛い\n\n事前に出来る事\n- 段差に気を付ける\n- 調子に乗らない\n  - 小学生がやりがちな段差がある歩道でカイジごっこしない\n\n事後に出来る事\n- テーピングする\n  - 薬局で300円くらい\n  - [https://www.battlewin.com/beginners_taping/base_technique.html テーピングの巻き方 基礎 | テーピング基礎講座 | バトルウィン™]\n    - ホースシューとスターアップだけじゃちょっと弱い気がする\n      - フィギュアエイトもやれたら良い",
+      "preview": "結論：テーピングを持ち歩きましょう\n中学生にぐねってからクセが付いている\n- 2年に1回忘れたころにぐねる",
+      "modifiedAt": 1770560336000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "非同期テキストベースターン制コミュニケーション.md",
       "slug": "非同期テキストベースターン制コミュニケーション",
       "title": "非同期テキストベースターン制コミュニケーション",
@@ -2419,16 +2959,42 @@
       "modifiedAt": 1768876856000,
       "linkCount": 0,
       "thumbnailUrl": null
+    },
+    {
+      "name": "高速で頑健なシェーダー乱数の比較と提案.md",
+      "slug": "高速で頑健なシェーダー乱数の比較と提案",
+      "title": "高速で頑健なシェーダー乱数の比較と提案",
+      "content": "<!-- updated: 2026-02-08T18:58:49 -->\n#public\nhttps://andantesoft.hatenablog.com/entry/2024/12/19/193517\n\n[[Andante]] によるシェーダーで使える[[疑似乱数]]比較記事\n\n[[PCG3D]] で一旦良さそう",
+      "preview": "https://andantesoft.hatenablog.com/entry/2024/12/19/193517\n[[Andante]] によるシェーダーで使える[[疑似乱数]]比較記事\n[[PCG3D]] で一旦良さそう",
+      "modifiedAt": 1770544729000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     }
   ],
   "backlinks": {
     "0b5vr x ukonpower x Renard @ draw(tokyo)_ _2": [],
     "100 fragments": [],
+    "12 o'clocks": [],
     "4k intro": [
       {
         "slug": "4klang",
         "title": "4klang",
         "preview": "https://github.com/gopher-atz/4klang\n[[4k intro]] 用シンセ\n[[VSTプラグイン]]として提供されてるのでお好きな [[DAW]] でどうぞ"
+      },
+      {
+        "slug": "Absolute Territory",
+        "title": "Absolute Territory",
+        "preview": "[yt https://www.youtube.com/watch?v=9r8pxIogxZ0]\n[[4k intro]]\n[[Prismbeings]]"
+      },
+      {
+        "slug": "Atrium",
+        "title": "Atrium",
+        "preview": "[yt https://www.youtube.com/watch?v=jlRoOqRs0bs]\n[[4k intro]]\n[[TBC]] , [[Loonies]]"
+      },
+      {
+        "slug": "Balance",
+        "title": "Balance",
+        "preview": "[yt https://www.youtube.com/watch?v=CA1H7vFCiS0]\n[[4k intro]]\n🔗"
       },
       {
         "slug": "cdak",
@@ -2441,9 +3007,29 @@
         "preview": "[img https://i.gyazo.com/4fe82fd140825a4f5e6cff7f36b0469d.jpg]\nhttp://www.kameli.net/compofillerstudio/http://www.kameli.net/compofillerstudio/\n[[4klang]] music + [[GLSL]] shader = [[4k intro]]"
       },
       {
+        "slug": "Cycle of nature",
+        "title": "Cycle of nature",
+        "preview": "[yt https://www.youtube.com/watch?v=oPTykC_BYNM]\n[[4k intro]]\n[[Loonies]]"
+      },
+      {
+        "slug": "End of time",
+        "title": "End of time",
+        "preview": "[yt https://www.youtube.com/watch?v=5lR76o9lWB0]\n[[4k intro]]\n[[Alcatraz]] , [[Altair]]"
+      },
+      {
         "slug": "franz",
         "title": "franz",
         "preview": "[yt https://www.youtube.com/watch?v=ouV_h7zoo1w]\n[[4k intro]]\n[[4klang]]"
+      },
+      {
+        "slug": "Hydrokinetics",
+        "title": "Hydrokinetics",
+        "preview": "[yt https://www.youtube.com/watch?v=7wLA0IVj7sA]\n[[4k intro]]\n[[Prismbeings]]"
+      },
+      {
+        "slug": "No Release, Sherlock!",
+        "title": "No Release, Sherlock!",
+        "preview": "[yt https://www.youtube.com/watch?v=nVif180p7B8]\n[[4k intro]]\n🔗"
       },
       {
         "slug": "Rudebox",
@@ -2451,11 +3037,17 @@
         "preview": "[yt https://www.youtube.com/watch?v=itqUd8nxxfc]\n[[4k intro]]\n[[Alcatraz]]"
       },
       {
+        "slug": "Striped",
+        "title": "Striped",
+        "preview": "[yt https://www.youtube.com/watch?v=wkk0bW-opUA]\n[[4k intro]]\n🔗"
+      },
+      {
         "slug": "Wackelkontakt",
         "title": "Wackelkontakt",
-        "preview": "[yt https://www.youtube.com/watch?v=jl4GlfZBCSs]\n[[4k intro]]\n[[Alcatraz]], [[Prismbeings]]"
+        "preview": "[yt https://www.youtube.com/watch?v=jl4GlfZBCSs]\n[[4k intro]]\n[[Alcatraz]] ([[slerpy]]), [[Prismbeings]]"
       }
     ],
+    "4klang _ 4klang_VSTi_basedrum.4ki": [],
     "4klang": [
       {
         "slug": "Compofiller Studio",
@@ -2480,12 +3072,18 @@
     ],
     "64k intro": [
       {
+        "slug": "Candy -TokyoDemoFest2013 Invitation",
+        "title": "Candy -TokyoDemoFest2013 Invitation",
+        "preview": "[yt https://www.youtube.com/watch?v=pGFOmKvA2l8]\n[[64k intro]]\n🔗"
+      },
+      {
         "slug": "Domain",
         "title": "Domain",
         "preview": "[yt https://www.youtube.com/watch?v=D2COWeeEqTs]\n[[64k intro]]\n[[0b5vr]]"
       }
     ],
     "A Sense Of Getting Closer": [],
+    "Absolute Territory": [],
     "Alberto Balsalm (Super Mario 64 Remix)": [],
     "Aleph-0": [],
     "Alfie Dwyer": [
@@ -2556,12 +3154,14 @@
     "Apollo": [],
     "Arachnids": [],
     "ATA": [],
+    "Atrium": [],
     "Automatic": [],
     "azumanga click house": [],
     "B.B.K.K.B.K.K": [],
     "Back to Body": [],
     "Bad Apple but it's a 3Blue1Brown video": [],
     "Bad Application": [],
+    "Balance": [],
     "BenchmarkDotNet": [],
     "biimシステム": [],
     "BITE ME MORE PLS": [],
@@ -2576,6 +3176,7 @@
         "preview": "[img https://gyazo.com/ce3164e02c0df5c55169b9873647a2e7/max_size/1000]\n主催：[[HIP LAND MUSIC CORPORATION]]\n企画：HIP LAND MUSIC CORPORATION / [[BRDG]]"
       }
     ],
+    "Candy -TokyoDemoFest2013 Invitation": [],
     "Cat Can't Handle Flower": [],
     "CBCNET": [
       {
@@ -2588,6 +3189,8 @@
     "Chase No Face": [],
     "Claude Code": [],
     "Compofiller Studio": [],
+    "Compofiller": [],
+    "Computer Graphics Demonstration Tape": [],
     "Conventional Commits": [],
     "Corporate Memphis": [],
     "Cosense": [
@@ -2618,6 +3221,7 @@
       }
     ],
     "CSharp _ Performance Improvements シリーズ": [],
+    "Cycle of nature": [],
     "Daito Manabe": [
       {
         "slug": "Chase No Face",
@@ -2628,6 +3232,16 @@
         "slug": "Terminal Slam",
         "title": "Terminal Slam",
         "preview": "[yt https://www.youtube.com/watch?v=GlhV-OKHecI]\n[[Squarepusher]]\nDirector, Glitch Effects and Interaction Designer：[[Daito Manabe]]"
+      },
+      {
+        "slug": "Tripon",
+        "title": "Tripon",
+        "preview": "https://scrapbox.io/artresearch/Tripon\n[[vokoi]] + [[Daito Manabe]] + [[Satoshi Horii]]\n[yt https://www.youtube.com/watch?v=dGqdx7FufQ0]"
+      },
+      {
+        "slug": "してる感",
+        "title": "してる感",
+        "preview": "やってる感 / ○○っぽさ\n本当にそれをしてるかは重要ではなくて、それをしてる感じが出ることが鑑賞者にとっては重要？\n- [[伝わらないと意味がない]] ？"
       }
     ],
     "Daniel Shiffman": [
@@ -2637,11 +3251,12 @@
         "preview": "[img https://natureofcode.com/static/18df89731f3e9900d7f93faf5febcb7e/e9d78/0.webp]\nhttps://natureofcode.com/\n[[Daniel Shiffman]] 先生による [[Creative coding]] 書籍"
       }
     ],
+    "deities": [],
     "Demo": [
       {
         "slug": "4k intro",
         "title": "4k intro",
-        "preview": "[[Demo]] のサブカテゴリ"
+        "preview": "[[Demo]] のサブカテゴリ\nhttps://in4k.github.io/wiki/aulds-4kb-introduction\nhttps://yosshin4004.github.io/demoscene/overview/index.html#If_there_were_no_restrictions_at_all"
       },
       {
         "slug": "64k intro",
@@ -2661,6 +3276,14 @@
         "preview": "[yt https://www.youtube.com/watch?v=iRkZcTg1JWU]\n[[Demoscene]] のドキュメンタリー"
       }
     ],
+    "Digital garden": [
+      {
+        "slug": "wiki 兼 ブログ 兼 メモ 兼 ポートフォリオ",
+        "title": "wiki 兼 ブログ 兼 メモ 兼 ポートフォリオ",
+        "preview": "ここの方針\nオールインワンを目指していきたいですね\n[[Digital garden]] であり、 [[ナレッジベース]]でもあるのかも"
+      }
+    ],
+    "dj newtown - silky heart": [],
     "Domain": [],
     "draw()_ について言及のある記事": [],
     "draw()_": [
@@ -2676,8 +3299,12 @@
       }
     ],
     "DRUG": [],
+    "EMIX": [],
+    "End of time": [],
     "Enter the Void - Opening Title Sequence": [],
     "EON BREAK": [],
+    "EXC3_CM3": [],
+    "Extra": [],
     "Eyecandy": [],
     "Fibonacci Sequence": [],
     "Flexoki": [],
@@ -2690,8 +3317,10 @@
         "preview": "[img https://pbs.twimg.com/media/GuNfwfLakAAz0MB?format=jpg&name=4096x4096]\n[[Flow]] の7回目\nAct"
       }
     ],
+    "Fly and Fly": [],
     "franz": [],
     "FREELY TOMORROW": [],
+    "FRENZ": [],
     "Frutiger Metro": [
       {
         "slug": "Testing",
@@ -2730,12 +3359,22 @@
         "preview": "[img https://hexler.net/site/images/app_icons/png_white/KodeLife-icon.png]\nhttps://hexler.net/kodelife\n[[Hexler]] による Real-time GPU shader editor"
       }
     ],
+    "Hydrokinetics": [],
+    "Hypnosis": [],
     "in perspective": [],
     "InfiniteRave _1 - 2018-09-15": [],
     "Jeff Mills": [],
     "Jesus on E's": [],
+    "Jitter": [
+      {
+        "slug": "ジェネ系VJの語源",
+        "title": "ジェネ系VJの語源",
+        "preview": "未整理気味\n[tw https://x.com/Kezzardrix/status/1927027064223248666?s=20]\n- https://www.ameet.jp/digital-imaging/485/"
+      }
+    ],
     "JSONPlaceholder": [],
     "Jujutsu": [],
+    "Jupiter 666 Video Computer System": [],
     "KaTeX": [],
     "KBC 2018 ED - Upgrades (Keyboard Crasher Otomad)": [],
     "Keijiro Takahashi 神です": [],
@@ -2768,12 +3407,15 @@
     "Learning Synths": [],
     "Level playing field": [],
     "Limen": [],
+    "Line jumps": [],
     "live coding youtube": [],
     "Log-polar coordinates": [],
+    "lost found melody": [],
     "Lumen": [],
     "LÖVE": [],
     "Mad Hope": [],
     "Matrix Color formula": [],
+    "McGuire Computer Graphics Archive": [],
     "Measuring Ruins": [],
     "meow mix": [],
     "Mine or Yours (Bella Boo Remix)": [],
@@ -2791,14 +3433,29 @@
         "preview": "https://siusiu.hatenablog.jp/entry/2018/10/08/220207\nhttps://x.com/neuecc/status/1107350738953355264\n>まぁ素晴らしい。読み方が。文章が。 / “飯島ゆんのようにしか生きられない - 当たり判定ゼロ” http://htn.to/iih9ibgPZwX"
       }
     ],
+    "No Release, Sherlock!": [],
     "nobody here": [],
+    "noby": [
+      {
+        "slug": "Prismbeings",
+        "title": "Prismbeings",
+        "preview": "https://www.pouet.net/groups.php?which=12646\n[[noby]] さんの intro 作るときに使ってる名義"
+      }
+    ],
+    "NullPointerException": [],
     "Number One _ Another One": [],
     "nvidia-smi": [],
+    "NxPC.Lab Vol.12 - 2012-03-24": [],
     "NxPC.Lab": [
       {
         "slug": "Algorave x NxPC.Lab at Tokyo (IAMAS) - 2018-11-18",
         "title": "Algorave x NxPC.Lab at Tokyo (IAMAS) - 2018-11-18",
         "preview": "[img https://web.archive.org/web/20191116160050im_/http://algorave.tokyo/images/title-image.png]\n[[Algorave]] と [[NxPC.Lab]] のコラボイベント\nAct"
+      },
+      {
+        "slug": "NxPC.Lab Vol.12 - 2012-03-24",
+        "title": "NxPC.Lab Vol.12 - 2012-03-24",
+        "preview": "[img https://nxpclab.info/vol.12/img/flyer_front_shadow.png]\n[[NxPC.Lab]] のイベント\nAct"
       }
     ],
     "Obsidian": [
@@ -2831,6 +3488,11 @@
     "OpenProcessing": [],
     "p5.js": [
       {
+        "slug": "12 o'clocks",
+        "title": "12 o'clocks",
+        "preview": "https://tokyotypedirectorsclub.org/award/1997-98_interactive/\n[[John Maeda]] による作品\n有志による [[p5.js]] ポート版がある"
+      },
+      {
         "slug": "Daniel Shiffman",
         "title": "Daniel Shiffman",
         "preview": "https://www.youtube.com/@TheCodingTrain\nhttps://thecodingtrain.com/\n[[Processing]] , [[p5.js]] での [[Creative coding]] 関連の動画をいっぱいアップロードしてる"
@@ -2856,7 +3518,36 @@
     "Platonic": [],
     "plyPhon": [],
     "Poolsuite": [],
+    "Pretty Fly (For A White Guy)": [
+      {
+        "slug": "パンコレ ～voice actresses' legendary punk songs collection～",
+        "title": "パンコレ ～voice actresses' legendary punk songs collection～",
+        "preview": "[img https://img.hmv.co.jp/image/jacket/400/28/1/3/841.jpg]\n再評価路線あると思います\n無断転載に付いてたいいコメント"
+      }
+    ],
     "Prism.js": [],
+    "Prismbeings": [
+      {
+        "slug": "Absolute Territory",
+        "title": "Absolute Territory",
+        "preview": "[yt https://www.youtube.com/watch?v=9r8pxIogxZ0]\n[[4k intro]]\n[[Prismbeings]]"
+      },
+      {
+        "slug": "Hydrokinetics",
+        "title": "Hydrokinetics",
+        "preview": "[yt https://www.youtube.com/watch?v=7wLA0IVj7sA]\n[[4k intro]]\n[[Prismbeings]]"
+      },
+      {
+        "slug": "noby",
+        "title": "noby",
+        "preview": "https://noby.untergrund.net/\n[[Prismbeings]] , [[Epoch]] 所属\nhttps://6octaves.com/2023/08/nobyepochprismbeings.html"
+      },
+      {
+        "slug": "Wackelkontakt",
+        "title": "Wackelkontakt",
+        "preview": "[yt https://www.youtube.com/watch?v=jl4GlfZBCSs]\n[[4k intro]]\n[[Alcatraz]] ([[slerpy]]), [[Prismbeings]]"
+      }
+    ],
     "Q. つまらない本を買ってしまったらどうする？ A. 最後まで読んで罵倒する": [],
     "Quartz": [],
     "QuomodocunquizE": [],
@@ -2893,9 +3584,17 @@
     "Scum": [],
     "Seven layers": [],
     "Shelter": [],
+    "SHIROBAKO": [
+      {
+        "slug": "数年単位で見返しがちなアニメ",
+        "title": "数年単位で見返しがちなアニメ",
+        "preview": "つまり好きってこと\n- [[SHIROBAKO]]\n- [[小林さんちのメイドラゴン]]"
+      }
+    ],
     "Simple Web Server": [],
     "SmoothCSV": [],
     "Soda City Funk": [],
+    "Someday": [],
     "ssh-keygen": [],
     "Star Guitar": [],
     "Starlight": [],
@@ -2911,6 +3610,8 @@
         "preview": "[[Steph Ango]] 先生のありがたい記事\nhttps://stephango.com/file-over-app\n> The ancient temples of Egypt contain hieroglyphs that were chiseled in stone thousands of years ago. The ideas hieroglyphs convey are more important than the type of chisel that was used to carve them."
       }
     ],
+    "Striped": [],
+    "studious": [],
     "SUSHIBOYS": [
       {
         "slug": "DRUG",
@@ -2928,6 +3629,18 @@
     "TOKIDOKI": [],
     "TOPLAP": [],
     "touch_waves": [],
+    "Tripon": [
+      {
+        "slug": "NxPC.Lab Vol.12 - 2012-03-24",
+        "title": "NxPC.Lab Vol.12 - 2012-03-24",
+        "preview": "[img https://nxpclab.info/vol.12/img/flyer_front_shadow.png]\n[[NxPC.Lab]] のイベント\nAct"
+      },
+      {
+        "slug": "ジェネ系VJの語源",
+        "title": "ジェネ系VJの語源",
+        "preview": "未整理気味\n[tw https://x.com/Kezzardrix/status/1927027064223248666?s=20]\n- https://www.ameet.jp/digital-imaging/485/"
+      }
+    ],
     "Unity _ シェーダに渡すテクスチャのデフォルト値": [],
     "Vanitas vanitatum, et omnia vanitas.": [],
     "VRCALOGRAVE - 2020-12-29": [],
@@ -2976,6 +3689,7 @@
       }
     ],
     "Yee": [],
+    "YIQ で Hue shift": [],
     "Yoshi Sodeoka": [
       {
         "slug": "Fibonacci Sequence",
@@ -2997,14 +3711,21 @@
     ],
     "Zettelkasten": [],
     "Ziphead": [],
+    "『チェンソーマン』9 巻発売記念スペシャルPV": [],
     "【東方】Bad Apple!! K-D Tree Regenerated!!": [],
     "あたらしいたましい": [],
     "あのチューン": [],
     "え～～～とつまりVJは・・・曲に合わせてリアルタイムで映像を編集する・・・・・・・・・人？": [],
     "かなしばりに遭ったら": [],
     "きらめく絆創膏": [],
+    "してる感": [],
     "ときにはジャンクの極致に触れ、 自らの高潔さを知る。": [],
     "とらドラ!": [
+      {
+        "slug": "dj newtown - silky heart",
+        "title": "dj newtown - silky heart",
+        "preview": "[yt https://www.youtube.com/watch?v=wgvNLbfSbPE]\n[[dj newtown]]\n[[とらドラ!]]の[[AMV]]"
+      },
       {
         "slug": "数年単位で見返しがちなアニメ",
         "title": "数年単位で見返しがちなアニメ",
@@ -3016,6 +3737,8 @@
         "preview": "このフレーズをどこで聞いたか忘れてしまったけど、同意\n本はなにか別のものに置き換えてもおｋ\n読み手の経験によって本が面白くなったり面白くなくなったりする"
       }
     ],
+    "にゆにゆ3": [],
+    "にゆにゆ（ガキ）": [],
     "まあまあまあまあまあ": [],
     "やってみる価値はありますぜ": [],
     "よりよく消費するために生産する": [],
@@ -3030,19 +3753,33 @@
     "シェル": [],
     "シニフィアン _ シニフィエ": [],
     "シャープネルかけたい……": [],
+    "ジェネ系VJの語源": [],
     "ジャムいね": [],
     "スーパーに閉じ込められたぼくら": [],
+    "デオドラント": [],
+    "デカいという面白さ": [],
+    "デュレエ": [],
     "トラックバック": [],
     "ニンテンドーダイレクト 2008.3.2 FM Slideshow (Sparkle)": [],
     "ネオンライト構文": [],
     "パラノとスキゾ": [],
+    "パンコレ ～voice actresses' legendary punk songs collection～": [],
     "ファイルが大事": [],
     "フレンドコード": [],
     "メタマウンティング・ゲーム": [],
-    "メディアの違いを理解せよ。": [],
+    "メディアの違いを理解せよ。": [
+      {
+        "slug": "デオドラント",
+        "title": "デオドラント",
+        "preview": "[img https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20-06-18-Deodorants_RRK6884.jpg/250px-20-06-18-Deodorants_RRK6884.jpg]\nhttps://ja.wikipedia.org/wiki/%E3%83%87%E3%82%AA%E3%83%89%E3%83%A9%E3%83%B3%E3%83%88\nコンテンツのデオドラント"
+      }
+    ],
     "モノクロ∞ブルースカイ": [],
+    "モーション周期表": [],
     "リムライティング": [],
+    "レターボックス": [],
     "ローゼンメイデン": [],
+    "一龠": [],
     "与えることを拒み、招待することを怠ることは、受け取ることを拒むのと同様に、戦いを宣言するのに等しい": [],
     "主役を降りる": [],
     "人生ビスマルク": [
@@ -3063,6 +3800,7 @@
       }
     ],
     "太宰メソッド": [],
+    "完璧主義": [],
     "実際にそれをする": [
       {
         "slug": "よりよく消費するために生産する",
@@ -3091,6 +3829,7 @@
     "岩波Web目録": [],
     "庭整備": [],
     "心やさしい人は理不尽なひどい目にあわないでほしい": [],
+    "思考の深度": [],
     "恋をするとテクノなんて聞いてられない": [],
     "恋愛サーキュレーションbyレゾナンツ児童合唱団_＠EXPO2025": [],
     "数年単位で見返しがちなアニメ": [],
@@ -3139,12 +3878,34 @@
     ],
     "福祉としてのコンテンツ": [],
     "紙皿、割りばし、プラコップ": [],
+    "脳の針": [
+      {
+        "slug": "完璧主義",
+        "title": "完璧主義",
+        "preview": "[[脳の針]]として刺さっていますねぇ\n- steam で発売されてるゲームの全実績解除\n- 本を全ページ読む ( ≒ めくる )"
+      }
+    ],
     "自他の境界": [],
+    "良さは多元的": [
+      {
+        "slug": "デカいという面白さ",
+        "title": "デカいという面白さ",
+        "preview": "[img https://gyazo.com/8c3cfc3c480974d95c2925d7397ca79c/max_size/1000]\n面白さ？なのかな\nAnyma のライブ演出とか"
+      }
+    ],
     "若おかみは小学生!": [],
-    "読み手が本を面白くする": [],
+    "読み手が本を面白くする": [
+      {
+        "slug": "よりよく消費するために生産する",
+        "title": "よりよく消費するために生産する",
+        "preview": "プロコンシューマーというない単語を最近頭に思い浮かべがち\nすでに似たような言葉があるっぽい\nhttps://ja.wikipedia.org/wiki/%E7%94%9F%E7%94%A3%E6%B6%88%E8%B2%BB%E8%80%85"
+      }
+    ],
     "赤い薬と青い薬": [],
     "超越論的なんちゃってビリティ": [],
+    "足首ぐねり 攻略": [],
     "非同期テキストベースターン制コミュニケーション": [],
-    "飯島ゆんのようにしか生きられない": []
+    "飯島ゆんのようにしか生きられない": [],
+    "高速で頑健なシェーダー乱数の比較と提案": []
   }
 }
