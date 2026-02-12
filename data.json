@@ -1447,7 +1447,7 @@
       "content": "<!-- updated: 2026-02-02T23:05:47 -->\n#public\n[img https://p5js.jp/assets/img/p5js.svg]\nhttps://p5js.org/\n\n[[JavaScript]]",
       "preview": "[img https://p5js.jp/assets/img/p5js.svg]\nhttps://p5js.org/\n[[JavaScript]]",
       "modifiedAt": 1770041147000,
-      "linkCount": 5,
+      "linkCount": 6,
       "thumbnailUrl": "https://p5js.jp/assets/img/p5js.svg"
     },
     {
@@ -1539,6 +1539,16 @@
       "modifiedAt": 1769244759000,
       "linkCount": 0,
       "thumbnailUrl": "https://pbs.twimg.com/media/GtdOOUQbsAAhsRC?format=jpg&name=small"
+    },
+    {
+      "name": "q5.js.md",
+      "slug": "q5.js",
+      "title": "q5.js",
+      "content": "<!-- updated: 2026-02-12T23:44:05 -->\n#public\n[img https://q5js.org/assets/q5js_brand-light.avif]\nhttps://q5js.org/home/\n\nhttps://github.com/q5js/q5.js\n\n[[WebGPU]] 2D Graphics ライブラリ\nかなり [[p5.js]] を意識しているなと感じてたら p5.js でゲーム作ったりするためのライブラリとか作ってる人が作ってるらしい\nhttps://github.com/quinton-ashley\n\nhttps://q5js.org/learn/?webgpu#coreSection\nリファレンスに not by ai 印が付いてる",
+      "preview": "[img https://q5js.org/assets/q5js_brand-light.avif]\nhttps://q5js.org/home/\nhttps://github.com/q5js/q5.js",
+      "modifiedAt": 1770907445000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://q5js.org/assets/q5js_brand-light.avif"
     },
     {
       "name": "Quartz.md",
@@ -1997,6 +2007,16 @@
       "content": "<!-- updated: 2026-01-24T23:53:21 -->\n#public\n[tw https://x.com/cannorin3/status/1342469583395934215?s=20]\n\n[[VRChat]] 上で行われた [[Algorave]] のイベント\n\nAct\n- [[cannorin]]\n- [[myxy]]\n- [[Niko_14]]\n- [[nerumae]]\n- [[らくとあいす]]\n\nVenue\n- [[The Underground]]",
       "preview": "[tw https://x.com/cannorin3/status/1342469583395934215?s=20]\n[[VRChat]] 上で行われた [[Algorave]] のイベント\nAct",
       "modifiedAt": 1769266401000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "VRChat Creator Companion.md",
+      "slug": "VRChat Creator Companion",
+      "title": "VRChat Creator Companion",
+      "content": "<!-- updated: 2026-02-13T00:39:02 -->\n#public\nhttps://vcc.docs.vrchat.com/\n\n[[VCC]]\n\n[[VRChat]] にワールドやアバターをアップロードするときに使うやつ",
+      "preview": "https://vcc.docs.vrchat.com/\n[[VCC]]\n[[VRChat]] にワールドやアバターをアップロードするときに使うやつ",
+      "modifiedAt": 1770910742000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -3754,6 +3774,11 @@
         "preview": "[img https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY6OWG3sbvrx8HArPDQQrXvFimvePww80YEw&s]\nhttps://openprocessing.org/\n[[p5.js]] 製の作品投稿プラットフォーム"
       },
       {
+        "slug": "q5.js",
+        "title": "q5.js",
+        "preview": "[img https://q5js.org/assets/q5js_brand-light.avif]\nhttps://q5js.org/home/\nhttps://github.com/q5js/q5.js"
+      },
+      {
         "slug": "The Useless Web",
         "title": "The Useless Web",
         "preview": "https://theuselessweb.com/\n好きなサイト\n高3~大1くらいの時に [[YouTube]] で知って [[p5.js]] で真似できないかと考えてた"
@@ -3795,6 +3820,7 @@
       }
     ],
     "Q. つまらない本を買ってしまったらどうする？ A. 最後まで読んで罵倒する": [],
+    "q5.js": [],
     "Quartz": [],
     "QuomodocunquizE": [],
     "ray": [],
@@ -3893,6 +3919,7 @@
     "Unity _ シェーダに渡すテクスチャのデフォルト値": [],
     "Vanitas vanitatum, et omnia vanitas.": [],
     "VRCALOGRAVE - 2020-12-29": [],
+    "VRChat Creator Companion": [],
     "VRDG+H _1 - 2016-03-26": [],
     "Wackelkontakt": [],
     "Waifu Jam": [],
