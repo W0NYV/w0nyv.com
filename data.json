@@ -87,7 +87,7 @@
       "content": "<!-- updated: 2026-01-17T19:50:20 -->\n#public\n[[Demo]] のサブカテゴリの一つ\n\n魂",
       "preview": "[[Demo]] のサブカテゴリの一つ\n魂",
       "modifiedAt": 1768647020000,
-      "linkCount": 3,
+      "linkCount": 4,
       "thumbnailUrl": null
     },
     {
@@ -119,6 +119,16 @@
       "modifiedAt": 1769881277000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/tBVGv9-bfKI/hqdefault.jpg"
+    },
+    {
+      "name": "ALCOM.md",
+      "slug": "ALCOM",
+      "title": "ALCOM",
+      "content": "<!-- updated: 2026-02-18T22:41:05 -->\n#public\n[img https://vrc-get.anatawa12.com/resources/alcom.svg]\nhttps://vrc-get.anatawa12.com/ja/alcom/\n\n[[ymg]] に教わった\n[[vrc-get]] クライアント\n[[VCC|VRChat Creator Companion]] の対抗馬\n\nhttps://github.com/vrc-get/vrc-get/tree/master/vrc-get-gui\nvrc-get と同じリポジトリ、　Monorepo だ",
+      "preview": "[img https://vrc-get.anatawa12.com/resources/alcom.svg]\nhttps://vrc-get.anatawa12.com/ja/alcom/\n[[ymg]] に教わった",
+      "modifiedAt": 1771422065000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://vrc-get.anatawa12.com/resources/alcom.svg"
     },
     {
       "name": "Aleph-0.md",
@@ -251,6 +261,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/-9DxpPiE458/hqdefault.jpg"
     },
     {
+      "name": "Avalonia.md",
+      "slug": "Avalonia",
+      "title": "Avalonia",
+      "content": "<!-- updated: 2026-02-18T22:49:41 -->\n#public\n[img https://upload.wikimedia.org/wikipedia/commons/b/bc/Avalonia_logo.svg]\nhttps://avaloniaui.net/\n\n[[Open source]] な [[Cross-platform]] [[.NET]] UI フレームワーク\n[[Skia]] を使用",
+      "preview": "[img https://upload.wikimedia.org/wikipedia/commons/b/bc/Avalonia_logo.svg]\nhttps://avaloniaui.net/\n[[Open source]] な [[Cross-platform]] [[.NET]] UI フレームワーク",
+      "modifiedAt": 1771422581000,
+      "linkCount": 1,
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Avalonia_logo.svg"
+    },
+    {
       "name": "azumanga click house.md",
       "slug": "azumanga click house",
       "title": "azumanga click house",
@@ -351,6 +371,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/e_Ue_P7vcRE/hqdefault.jpg"
     },
     {
+      "name": "blackle's perfect pistons.md",
+      "slug": "blackle's perfect pistons",
+      "title": "blackle's perfect pistons",
+      "content": "<!-- updated: 2026-02-19T00:29:22 -->\n#public\n[yt https://www.youtube.com/watch?v=I8fmkLK1OKg]\n\n[[blackle]] による [[Ray marching]] の ray の overshoot 問題を解決する方法の 1 つ\n最悪のシナリオを想定した近傍と min を取る\n\n1D repetition : https://www.shadertoy.com/view/3t3BD2\n2D repetition : https://www.shadertoy.com/view/3lcBD2\n3D repetition : https://www.shadertoy.com/view/Wl3fD2\n",
+      "preview": "[yt https://www.youtube.com/watch?v=I8fmkLK1OKg]\n[[blackle]] による [[Ray marching]] の ray の overshoot 問題を解決する方法の 1 つ\n最悪のシナリオを想定した近傍と min を取る",
+      "modifiedAt": 1771428562000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/I8fmkLK1OKg/hqdefault.jpg"
+    },
+    {
       "name": "Blogtrottr.md",
       "slug": "Blogtrottr",
       "title": "Blogtrottr",
@@ -377,7 +407,7 @@
       "content": "<!-- updated: 2026-01-28T23:30:29 -->\n#public\n[img https://github.com/Gargaj/Bonzomatic/blob/master/data/unix/icon.png?raw=true]\nhttps://github.com/Gargaj/Bonzomatic\n\n[[GLSL]] [[Live coding]] tool\n\n[[Gargaj]] による",
       "preview": "[img https://github.com/Gargaj/Bonzomatic/blob/master/data/unix/icon.png?raw=true]\nhttps://github.com/Gargaj/Bonzomatic\n[[GLSL]] [[Live coding]] tool",
       "modifiedAt": 1769610629000,
-      "linkCount": 0,
+      "linkCount": 1,
       "thumbnailUrl": "https://github.com/Gargaj/Bonzomatic/blob/master/data/unix/icon.png?raw=true"
     },
     {
@@ -451,6 +481,16 @@
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/2560px-Claude_AI_logo.svg.png"
     },
     {
+      "name": "Clean Slate.md",
+      "slug": "Clean Slate",
+      "title": "Clean Slate",
+      "content": "<!-- updated: 2026-02-18T22:28:47 -->\n#public\n[yt https://www.youtube.com/watch?v=O3T1-nadehU]\n\n[[64k intro]]\n[[Conspiracy]]\n\n🔗\n- https://www.pouet.net/prod.php?which=88524\n- https://demozoo.org/productions/292282/",
+      "preview": "[yt https://www.youtube.com/watch?v=O3T1-nadehU]\n[[64k intro]]\n[[Conspiracy]]",
+      "modifiedAt": 1771421327000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/O3T1-nadehU/hqdefault.jpg"
+    },
+    {
       "name": "Compofiller Studio.md",
       "slug": "Compofiller Studio",
       "title": "Compofiller Studio",
@@ -468,6 +508,16 @@
       "preview": "[tw https://x.com/Rui8bit/status/1895031708824785086?s=20]",
       "modifiedAt": 1770559567000,
       "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "Component Object Model.md",
+      "slug": "Component Object Model",
+      "title": "Component Object Model",
+      "content": "<!-- updated: 2026-02-18T23:25:44 -->\n#public\nhttps://ja.wikipedia.org/wiki/Component_Object_Model\n\nCOM\n\nhttps://ichigopack.net/win32com/com_base_1.html\n\nアプリ間や OS とアプリのやり取りの仕組みを定めた仕様",
+      "preview": "https://ja.wikipedia.org/wiki/Component_Object_Model\nCOM\nhttps://ichigopack.net/win32com/com_base_1.html",
+      "modifiedAt": 1771424744000,
+      "linkCount": 1,
       "thumbnailUrl": null
     },
     {
@@ -519,6 +569,16 @@
       "modifiedAt": 1768641252000,
       "linkCount": 5,
       "thumbnailUrl": "https://gyazo.com/e3c1d0218d873b4802b37a75f65ad45f/max_size/1000"
+    },
+    {
+      "name": "CSharp _ Delegates.md",
+      "slug": "CSharp _ Delegates",
+      "title": "CSharp : Delegates",
+      "content": "<!-- updated: 2026-02-18T23:47:56 -->\n<!-- title: CSharp : Delegates -->\n#public\n関数を変数につっこめるみてえな型\n`delegate` キーワードを使ってデリゲート型を定義すると `System.Delegate` クラスを継承することになる\nつまり結局クラス型ではある\n\n`+=` で複数登録でき、複数登録してるデリゲートをマルチキャストデリゲートと言ったりする\n登録されたものは逐次実行される\n\n🔗\n- https://ufcpp.net/study/csharp/sp_delegate.html\n- https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/System.Private.CoreLib/src/System/Delegate.cs",
+      "preview": "関数を変数につっこめるみてえな型\n`delegate` キーワードを使ってデリゲート型を定義すると `System.Delegate` クラスを継承することになる\nつまり結局クラス型ではある",
+      "modifiedAt": 1771426076000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "CSharp _ Performance Improvements シリーズ.md",
@@ -577,7 +637,7 @@
       "content": "<!-- updated: 2026-01-17T18:26:43 -->\n#public\n[[Demoscene]] においては作品のこと\n容量制限がある Demo は [[Intro]] と呼ぶ",
       "preview": "[[Demoscene]] においては作品のこと\n容量制限がある Demo は [[Intro]] と呼ぶ",
       "modifiedAt": 1768642003000,
-      "linkCount": 2,
+      "linkCount": 3,
       "thumbnailUrl": null
     },
     {
@@ -619,6 +679,16 @@
       "modifiedAt": 1770543858000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/D2COWeeEqTs/hqdefault.jpg"
+    },
+    {
+      "name": "draw()_ _7 VJ 振り返り - 2026-02-15.md",
+      "slug": "draw()_ _7 VJ 振り返り - 2026-02-15",
+      "title": "draw(); #7 VJ 振り返り - 2026-02-15",
+      "content": "<!-- updated: 2026-02-16T01:11:27 -->\n<!-- title: draw(); #7 VJ 振り返り - 2026-02-15 -->\n#public\n[img https://i.gyazo.com/e66117e90e23da65b3d8b6f1825ed1b5.png]\n[[Bonzomatic]] で [[Live coding]] した ZOY\n\nhttps://www.shadertoy.com/view/w33fDl\n\n- 直前に寿司打やったらアップしすぎたのか、時間余ってちょっと困っちゃった\n  - 5秒で出来る技 `p = abs(p)` とかパラメタ調整などで誤魔化した\n- [[Log-spherical coordinates]] 自体がかなりいい味してるので、もうちょっと素材の味で勝負するべきだったか？\n  - 背景、前景、ポストエフェクトこてこてすぎた？、まあでもブコア手前のジャンルだったしいいのでは\n- 練習しまくったのはまじでよかった\n  - 本番も no cheating で出したい絵出ました\n  - 2 週間前からなにも見ないで書くchallenge を毎日 1 , 2 回やった成果は確実に出てたはず\n    - 最初の 1 週間は関数覚える week で次の 1 週間は出したい絵をひたすら書きまくる week だった\n  - 今回覚えたやつ、 `pcg3d` , `easeOutExpo` , `sdBox` , `Log-spherical coordinates`\n  - 原理を知っておくと覚えやすくなるからそれはやっていきたい → [[sdBox]]\n- 手札増やそう\n  - カメラワークをここ 2 年くらいこういう感じのやつ擦ってる気がする\n  - グリッドもいい加減卒業したい、情報量増やすフィラーとして機能するものはもっといっぱいあるはず\n- いつもよりそわそわしちゃった\n  - Unity とかで VJ するときはコードだったり、そこにスタッキングされていくから仕込んでるなぁという気持ちになるけど LC はひたすら練習って感じだったので積み上がりが分かりやすくない\n  - まあ時間測りながらやったらどんどん早くかけてそこは成長を感じました\n- rec 忘れた\n  - あかんよ\n- 忘れない程度の不定期具合でなにも見ないで 1h シェーダ書くやつやりたい\n  - 機会がなくてもやっていいんですよ？本当は",
+      "preview": "[img https://i.gyazo.com/e66117e90e23da65b3d8b6f1825ed1b5.png]\n[[Bonzomatic]] で [[Live coding]] した ZOY\nhttps://www.shadertoy.com/view/w33fDl",
+      "modifiedAt": 1771171887000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://i.gyazo.com/e66117e90e23da65b3d8b6f1825ed1b5.png"
     },
     {
       "name": "draw()_ について言及のある記事.md",
@@ -894,9 +964,9 @@
       "name": "healthy spread.md",
       "slug": "healthy spread",
       "title": "healthy spread",
-      "content": "<!-- updated: 2026-02-08T20:06:17 -->\n#public\n[img https://i.gyazo.com/1d1945cd1cd7822b710f31d72064cd56.jpg]\n豆腐をベースにどんぶりに食材を入れて混ぜて食う\n\n最安 50 円 (豆腐と醤油だけでも成立するため) だけど大体 150 ~ 300 円に落ちつく気がする\n\n結構なに入れてもいいはず\n最強のレシピ見つけてえな\n\n入れたことあるもの\n- ラー油\n- ごま油\n- めかぶ\n- 納豆\n- 卵\n- [https://item.rakuten.co.jp/chinmiya/030513/#030513 かつを酒盗 マイルド]\n  - not too bad\n- キムチ鍋の素\n\nhttps://en.wikipedia.org/wiki/Spread_(prison_food)\n[yt https://www.youtube.com/watch?v=KtmkrmHC-4M]",
+      "content": "<!-- updated: 2026-02-15T19:01:49 -->\n#public\n[img https://i.gyazo.com/1d1945cd1cd7822b710f31d72064cd56.jpg]\n豆腐をベースにどんぶりに食材を入れて混ぜて食う\n\n最安 50 円 (豆腐と醤油だけでも成立するため) だけど大体 150 ~ 300 円に落ちつく気がする\n\n結構なに入れてもいいはず\n最強のレシピ見つけてえな\n\n入れたことあるもの\n- ラー油\n- ごま油\n- めかぶ\n- 納豆\n- 卵\n- [https://item.rakuten.co.jp/chinmiya/030513/#030513 かつを酒盗 マイルド]\n  - not too bad\n- キムチ鍋の素\n- いか明太\n- [https://www.rikenvitamin.jp/products/other/zakuzaku/zakuzaku_ra-yu.html ふりかけるザクザクわかめ 食べるラー油味]\n\nhttps://en.wikipedia.org/wiki/Spread_(prison_food)\n[yt https://www.youtube.com/watch?v=KtmkrmHC-4M]",
       "preview": "[img https://i.gyazo.com/1d1945cd1cd7822b710f31d72064cd56.jpg]\n豆腐をベースにどんぶりに食材を入れて混ぜて食う\n最安 50 円 (豆腐と醤油だけでも成立するため) だけど大体 150 ~ 300 円に落ちつく気がする",
-      "modifiedAt": 1770548777000,
+      "modifiedAt": 1771149709000,
       "linkCount": 0,
       "thumbnailUrl": "https://i.gyazo.com/1d1945cd1cd7822b710f31d72064cd56.jpg"
     },
@@ -1194,9 +1264,9 @@
       "name": "LÖVE.md",
       "slug": "LÖVE",
       "title": "LÖVE",
-      "content": "<!-- updated: 2026-01-19T21:57:56 -->\n#public\n[img https://raw.githubusercontent.com/love2d/love/60278b0532036d404c0b7b011c7b63ab58a5ddaf/platform/unix/love.svg]\nhttps://love2d.org/\n\n[[オープンソース]] な 2D ゲーム用のフレームワーク\n言語は [[Lua]]\n\nhttps://gamemakers.jp/article/2026_01_08_112338/\n[[Balatro]] は LÖVE 製らしい",
-      "preview": "[img https://raw.githubusercontent.com/love2d/love/60278b0532036d404c0b7b011c7b63ab58a5ddaf/platform/unix/love.svg]\nhttps://love2d.org/\n[[オープンソース]] な 2D ゲーム用のフレームワーク",
-      "modifiedAt": 1768827476000,
+      "content": "<!-- updated: 2026-02-18T22:46:15 -->\n#public\n[img https://raw.githubusercontent.com/love2d/love/60278b0532036d404c0b7b011c7b63ab58a5ddaf/platform/unix/love.svg]\nhttps://love2d.org/\n\n[[Open source]] な 2D ゲーム用のフレームワーク\n言語は [[Lua]]\n\nhttps://gamemakers.jp/article/2026_01_08_112338/\n[[Balatro]] は LÖVE 製らしい",
+      "preview": "[img https://raw.githubusercontent.com/love2d/love/60278b0532036d404c0b7b011c7b63ab58a5ddaf/platform/unix/love.svg]\nhttps://love2d.org/\n[[Open source]] な 2D ゲーム用のフレームワーク",
+      "modifiedAt": 1771422375000,
       "linkCount": 0,
       "thumbnailUrl": "https://raw.githubusercontent.com/love2d/love/60278b0532036d404c0b7b011c7b63ab58a5ddaf/platform/unix/love.svg"
     },
@@ -1219,6 +1289,16 @@
       "modifiedAt": 1770046185000,
       "linkCount": 0,
       "thumbnailUrl": "https://gyazo.com/05c701310f8b63d268027ec9f32e4c74/max_size/1000"
+    },
+    {
+      "name": "May 16 2020 _Music Unity 2020_ in the blue shirt live set.md",
+      "slug": "May 16 2020 _Music Unity 2020_ in the blue shirt live set",
+      "title": "May 16 2020 \"Music Unity 2020\" in the blue shirt live set",
+      "content": "<!-- updated: 2026-02-19T00:05:55 -->\n<!-- title: May 16 2020 \"Music Unity 2020\" in the blue shirt live set -->\n#public\n[yt https://www.youtube.com/watch?v=R0XP5jV1sfQ]\n\n救い\n\n[[in the blue shirt]]\n[[トマソンスタジオ]]\n[[Music Unity]]\n\n[yt https://www.youtube.com/watch?v=5RLoPQf5Lx0]",
+      "preview": "[yt https://www.youtube.com/watch?v=R0XP5jV1sfQ]\n救い\n[[in the blue shirt]]",
+      "modifiedAt": 1771427155000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/R0XP5jV1sfQ/hqdefault.jpg"
     },
     {
       "name": "McGuire Computer Graphics Archive.md",
@@ -1381,6 +1461,26 @@
       "thumbnailUrl": "https://nxpclab.info/shared/img/public/logo.png"
     },
     {
+      "name": "NXUI.md",
+      "slug": "NXUI",
+      "title": "NXUI",
+      "content": "<!-- updated: 2026-02-18T22:43:04 -->\n#public\nhttps://github.com/wieslawsoltes/NXUI\n\n[[XAML]] を書かずに UI を構築できちゃう [[Avalonia]] のライブラリ",
+      "preview": "https://github.com/wieslawsoltes/NXUI\n[[XAML]] を書かずに UI を構築できちゃう [[Avalonia]] のライブラリ",
+      "modifiedAt": 1771422184000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "Object Linking and Embedding.md",
+      "slug": "Object Linking and Embedding",
+      "title": "Object Linking and Embedding",
+      "content": "<!-- updated: 2026-02-18T23:41:14 -->\n#public\nhttps://ja.wikipedia.org/wiki/Object_Linking_and_Embedding\n\nOLE\n\nオブジェクトをリンクしたり埋め込んだりするための仕組みを定めた仕様\nWord 内 Excel を埋め込んで Word 上で編集できたりするのはこれ使ってるかららしい\n\n[[COM|Component Object Model]] の前身\nOLE を汎用化させたのが COM で OLE 2.0 からは COM を使って OLE が実装しなおされたらしい\n\n[[Windows]] のクリップボードに使われている\nhttps://learn.microsoft.com/ja-jp/cpp/mfc/clipboard-using-the-ole-clipboard-mechanism?view=msvc-170",
+      "preview": "https://ja.wikipedia.org/wiki/Object_Linking_and_Embedding\nOLE\nオブジェクトをリンクしたり埋め込んだりするための仕組みを定めた仕様",
+      "modifiedAt": 1771425674000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "Obsidian.md",
       "slug": "Obsidian",
       "title": "Obsidian",
@@ -1424,9 +1524,9 @@
       "name": "openFrameworks.md",
       "slug": "openFrameworks",
       "title": "openFrameworks",
-      "content": "<!-- updated: 2026-01-30T23:08:12 -->\n#public\n[img https://openframeworks.cc/assets/images/of-logo.svg]\nhttps://openframeworks.cc/\n\n[[Creative coding]] のための [[オープンソース]] [[C++]] ツールキット",
-      "preview": "[img https://openframeworks.cc/assets/images/of-logo.svg]\nhttps://openframeworks.cc/\n[[Creative coding]] のための [[オープンソース]] [[C++]] ツールキット",
-      "modifiedAt": 1769782092000,
+      "content": "<!-- updated: 2026-02-18T22:46:28 -->\n#public\n[img https://openframeworks.cc/assets/images/of-logo.svg]\nhttps://openframeworks.cc/\n\n[[Creative coding]] のための [[Open source]] [[C++]] ツールキット",
+      "preview": "[img https://openframeworks.cc/assets/images/of-logo.svg]\nhttps://openframeworks.cc/\n[[Creative coding]] のための [[Open source]] [[C++]] ツールキット",
+      "modifiedAt": 1771422388000,
       "linkCount": 1,
       "thumbnailUrl": "https://openframeworks.cc/assets/images/of-logo.svg"
     },
@@ -1531,6 +1631,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "Pure Data.md",
+      "slug": "Pure Data",
+      "title": "Pure Data",
+      "content": "<!-- updated: 2026-02-18T23:14:59 -->\n#public\n[img https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pure_Data_logo.svg/960px-Pure_Data_logo.svg.png]\nhttps://puredata.info/\n\n音声、ビデオ、映像処理のためのリアルタイムなグラフィカルプログラミング環境\n\nhttps://puredatajapan.info/\n",
+      "preview": "[img https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pure_Data_logo.svg/960px-Pure_Data_logo.svg.png]\nhttps://puredata.info/\n音声、ビデオ、映像処理のためのリアルタイムなグラフィカルプログラミング環境",
+      "modifiedAt": 1771424099000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pure_Data_logo.svg/960px-Pure_Data_logo.svg.png"
+    },
+    {
       "name": "Q. つまらない本を買ってしまったらどうする？ A. 最後まで読んで罵倒する.md",
       "slug": "Q. つまらない本を買ってしまったらどうする？ A. 最後まで読んで罵倒する",
       "title": "Q. つまらない本を買ってしまったらどうする？ A. 最後まで読んで罵倒する",
@@ -1604,9 +1714,9 @@
       "name": "RenderDoc.md",
       "slug": "RenderDoc",
       "title": "RenderDoc",
-      "content": "<!-- updated: 2026-01-25T00:13:42 -->\n#public\n[img https://renderdoc.org/fp/logo.svg]\n\nhttps://renderdoc.org/\n\n[[オープンソース]]なグラフィックスデバッガー",
-      "preview": "[img https://renderdoc.org/fp/logo.svg]\nhttps://renderdoc.org/\n[[オープンソース]]なグラフィックスデバッガー",
-      "modifiedAt": 1769267622000,
+      "content": "<!-- updated: 2026-02-18T22:46:51 -->\n#public\n[img https://renderdoc.org/fp/logo.svg]\n\nhttps://renderdoc.org/\n\n[[Open source]] なグラフィックスデバッガー",
+      "preview": "[img https://renderdoc.org/fp/logo.svg]\nhttps://renderdoc.org/\n[[Open source]] なグラフィックスデバッガー",
+      "modifiedAt": 1771422411000,
       "linkCount": 1,
       "thumbnailUrl": "https://renderdoc.org/fp/logo.svg"
     },
@@ -1717,7 +1827,7 @@
       "content": "<!-- updated: 2026-02-09T15:53:55 -->\n#public\n箱の [[SDF]]\n\n```glsl\nfloat sdBox(vec3 p, vec3 b)\n{\n  vec3 q = abs(p) - b;\n  return length(max(vec3(0.0), q)) + min(max(q.x,max(q.y,q.z)),0.0);\n}\n```\n\n[[iq]] 神による解説\n[yt https://youtu.be/62-pRVZuS5c?si=9fITu-onRWDXByHh]\n\nhttps://www.desmos.com/calculator/l3vslq2to1?lang=ja\n2次元の場合3つの領域を考える\n- 0 < p.x かつ 0 < p.y の時は頂点との距離\n- 0 < p.x かつ p.y < 0 の時は x 軸の面との距離\n- 0 < p.y かつ p.x < 0 の時は y 軸の面との距離\n`length(max(0, abs(p) - r))` で四角形のすべての頂点の3つの領域の距離の計算を一気にできる\n内側にいるときに負の値を返すようにしたければ 0 と `min` を取った後に一番デカい軸の値を足す\n`min(max(q.x, q.y),0.0)` みたいな具合に\n3次元の時も次元が増えるだけですね\n",
       "preview": "箱の [[SDF]]\n```glsl\nfloat sdBox(vec3 p, vec3 b)",
       "modifiedAt": 1770620035000,
-      "linkCount": 0,
+      "linkCount": 1,
       "thumbnailUrl": "https://img.youtube.com/vi/62-pRVZuS5c/hqdefault.jpg"
     },
     {
@@ -1759,6 +1869,16 @@
       "modifiedAt": 1768721669000,
       "linkCount": 0,
       "thumbnailUrl": "https://raw.githubusercontent.com/terreng/simple-web-server/main/images/icon.png"
+    },
+    {
+      "name": "Skia.md",
+      "slug": "Skia",
+      "title": "Skia",
+      "content": "<!-- updated: 2026-02-18T22:52:04 -->\n#public\n[img https://upload.wikimedia.org/wikipedia/en/3/33/Skia_Project_Logo.svg]\nhttps://skia.org/\n\n2D Graphics Library\n- [[Open source]]\n- [[Cross-platform]]\n- [[Google]] によって買収された",
+      "preview": "[img https://upload.wikimedia.org/wikipedia/en/3/33/Skia_Project_Logo.svg]\nhttps://skia.org/\n2D Graphics Library",
+      "modifiedAt": 1771422724000,
+      "linkCount": 1,
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/3/33/Skia_Project_Logo.svg"
     },
     {
       "name": "SmoothCSV.md",
@@ -1911,6 +2031,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/vRL8kf-N_S8/hqdefault.jpg"
     },
     {
+      "name": "The Law of Leaky Abstractions.md",
+      "slug": "The Law of Leaky Abstractions",
+      "title": "The Law of Leaky Abstractions",
+      "content": "<!-- updated: 2026-02-18T23:01:30 -->\n#public\nhttps://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/\n[[Joel Spolsky]] の記事\n\n漏れのある抽象化の法則\n\nなにかを抽象化させたソリューションは抽象元を意識せざるを得ない例外が大小問わず発生するので、抽象元もちゃんと理解しておこうな的な話と捉えています\n\nTCP は確実にメッセージを届ける魔法のように見えるけどネットに繋ぐためのケーブルがヘビに齧られたらどうしようもない\n\n> So the abstractions save us time working, but they don’t save us time learning.\n了解いたしました\n\nこれを思い出した\nhttps://phi16.hatenablog.com/entry/2022/10/02/145339#%E3%81%8A%E3%81%BE%E3%81%91%E3%81%AE%E3%81%8A%E3%81%BE%E3%81%91-UnrealEngine-%E3%81%AE%E5%9B%9E%E8%BB%A2\n漏れが発生した時にユーザが対処できるように裏側を見せてくれるソリューションは誠実\nと Gemini に投げたら[[段階的開示]]しないとユーザーがしんどくなっちゃうよとおっしゃられていた\n",
+      "preview": "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/\n[[Joel Spolsky]] の記事\n漏れのある抽象化の法則",
+      "modifiedAt": 1771423290000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "The ten rules of techno.md",
       "slug": "The ten rules of techno",
       "title": "The ten rules of techno",
@@ -2014,10 +2144,10 @@
       "name": "VRChat Creator Companion.md",
       "slug": "VRChat Creator Companion",
       "title": "VRChat Creator Companion",
-      "content": "<!-- updated: 2026-02-13T00:39:02 -->\n#public\nhttps://vcc.docs.vrchat.com/\n\n[[VCC]]\n\n[[VRChat]] にワールドやアバターをアップロードするときに使うやつ",
-      "preview": "https://vcc.docs.vrchat.com/\n[[VCC]]\n[[VRChat]] にワールドやアバターをアップロードするときに使うやつ",
-      "modifiedAt": 1770910742000,
-      "linkCount": 0,
+      "content": "<!-- updated: 2026-02-18T22:38:22 -->\n#public\nhttps://vcc.docs.vrchat.com/\n\n通称 VCC\n\n[[VRChat]] にワールドやアバターをアップロードするときに使うやつ",
+      "preview": "https://vcc.docs.vrchat.com/\n通称 VCC\n[[VRChat]] にワールドやアバターをアップロードするときに使うやつ",
+      "modifiedAt": 1771421902000,
+      "linkCount": 1,
       "thumbnailUrl": null
     },
     {
@@ -2394,9 +2524,9 @@
       "name": "イベントループ.md",
       "slug": "イベントループ",
       "title": "イベントループ",
-      "content": "<!-- updated: 2026-02-10T22:10:40 -->\n#public\nhttps://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AB%E3%83%BC%E3%83%97\n\nユーザーとやり取りするアプリケーションが大抵実装してるやつ",
-      "preview": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AB%E3%83%BC%E3%83%97\nユーザーとやり取りするアプリケーションが大抵実装してるやつ",
-      "modifiedAt": 1770729040000,
+      "content": "<!-- updated: 2026-02-18T23:19:32 -->\n#public\nhttps://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AB%E3%83%BC%E3%83%97\n\nユーザーとやり取りするアプリケーションが大抵実装してるやつ\n\n[[Windows]] ではスレッドのアパートメントが [[Single-Threaded Apartments]] であれば、イベントループを持つという約束になってるっぽい？\n",
+      "preview": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AB%E3%83%BC%E3%83%97\nユーザーとやり取りするアプリケーションが大抵実装してるやつ\n[[Windows]] ではスレッドのアパートメントが [[Single-Threaded Apartments]] であれば、イベントループを持つという約束になってるっぽい？",
+      "modifiedAt": 1771424372000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -2561,6 +2691,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/dpT-ZAPVvyI/hqdefault.jpg"
     },
     {
+      "name": "トマソンスタジオ.md",
+      "slug": "トマソンスタジオ",
+      "title": "トマソンスタジオ",
+      "content": "<!-- updated: 2026-02-19T00:09:04 -->\n#public\nhttps://www.youtube.com/@%E3%83%88%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA\n\n大 1 の時めっちゃあこがれてた\nこういう場所ほんとに欲しかった\n\nhttps://blog.intheblueshirt.com/entry/2020/06/10/165411",
+      "preview": "https://www.youtube.com/@%E3%83%88%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA\n大 1 の時めっちゃあこがれてた\nこういう場所ほんとに欲しかった",
+      "modifiedAt": 1771427344000,
+      "linkCount": 1,
+      "thumbnailUrl": null
+    },
+    {
       "name": "トラックバック.md",
       "slug": "トラックバック",
       "title": "トラックバック",
@@ -2589,6 +2729,16 @@
       "modifiedAt": 1768728431000,
       "linkCount": 0,
       "thumbnailUrl": null
+    },
+    {
+      "name": "ハウトゥー世界征服.md",
+      "slug": "ハウトゥー世界征服",
+      "title": "ハウトゥー世界征服",
+      "content": "<!-- updated: 2026-02-18T22:27:54 -->\n#public\n[yt https://www.youtube.com/watch?v=HdC2cB_DZok]\n\n[[Neru]]\n[[しづ]]",
+      "preview": "[yt https://www.youtube.com/watch?v=HdC2cB_DZok]\n[[Neru]]\n[[しづ]]",
+      "modifiedAt": 1771421274000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/HdC2cB_DZok/hqdefault.jpg"
     },
     {
       "name": "パラノとスキゾ.md",
@@ -2741,6 +2891,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "人間の作為が施された仕組みを今まさにコンピュータが処理して出力され続けている映像.md",
+      "slug": "人間の作為が施された仕組みを今まさにコンピュータが処理して出力され続けている映像",
+      "title": "人間の作為が施された仕組みを今まさにコンピュータが処理して出力され続けている映像",
+      "content": "<!-- updated: 2026-02-19T00:20:14 -->\n#public\nリアルタイム CG という言葉以外がなぜか欲しかった時期がある\n\nゲームや [[Demo]]\n[[VJ]] , デジタルアートにもみられることがある",
+      "preview": "リアルタイム CG という言葉以外がなぜか欲しかった時期がある\nゲームや [[Demo]]\n[[VJ]] , デジタルアートにもみられることがある",
+      "modifiedAt": 1771428014000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "健常者エミュレータ事例集.md",
       "slug": "健常者エミュレータ事例集",
       "title": "健常者エミュレータ事例集",
@@ -2769,6 +2929,16 @@
       "modifiedAt": 1768647764000,
       "linkCount": 0,
       "thumbnailUrl": null
+    },
+    {
+      "name": "夕景イエスタデイ.md",
+      "slug": "夕景イエスタデイ",
+      "title": "夕景イエスタデイ",
+      "content": "<!-- updated: 2026-02-19T00:12:00 -->\n#public\n[yt https://www.youtube.com/watch?v=YgnuJLo9S-Y]\n\n[[じん]]\n[[しづ]]",
+      "preview": "[yt https://www.youtube.com/watch?v=YgnuJLo9S-Y]\n[[じん]]\n[[しづ]]",
+      "modifiedAt": 1771427520000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/YgnuJLo9S-Y/hqdefault.jpg"
     },
     {
       "name": "大合奏！バンドブラザーズＰ.md",
@@ -2857,6 +3027,16 @@
       "content": "<!-- updated: 2026-01-28T21:21:49 -->\n#public\nまじで\n\n火の鳥の弁太...\n\n柴関ラーメンの大将...",
       "preview": "まじで\n火の鳥の弁太...\n柴関ラーメンの大将...",
       "modifiedAt": 1769602909000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "心理的所有.md",
+      "slug": "心理的所有",
+      "title": "心理的所有",
+      "content": "<!-- updated: 2026-02-18T23:12:27 -->\n#public\nhttps://en.wikipedia.org/wiki/Ownership_(psychology)\n当事者意識よりなんかいい言葉あるでしょと探してたら見つかった\n\n>In consumer research, the following scale[14] or scales adapted from it[31][32][33] are used to measure psychological ownership of products that are the target of ownership:\n>1. I feel like this is MY (target).\n>2. I feel a very high degree of personal ownership for this (target).\n>3. I feel like I own this (target).\n[[自他の境界]]は分かりやすく境目があるのではなくてファジィなものってわけですね\n\nオタクのコレクション仕草\n[[Snob]]\n\nhttps://onlinelibrary.wiley.com/doi/10.1002/job.249\n[[ToDo]]\n気になる\n会社をアイデンティティに思ったり、自他の境界の自の側に持っていかなくても貢献は可能だろうけどパフォーマンス差ってどれだけあるんだろうか",
+      "preview": "https://en.wikipedia.org/wiki/Ownership_(psychology)\n当事者意識よりなんかいい言葉あるでしょと探してたら見つかった\n>In consumer research, the following scale[14] or scales adapted from it[31][32][33] are used to measure psychological ownership of products that are the target of ownership:",
+      "modifiedAt": 1771423947000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -3057,7 +3237,7 @@
       "content": "<!-- updated: 2026-02-08T19:54:07 -->\n#public\n自分の好きなものや、住んでる所を貶されて嫌な気持ちになるのは自他の境界の自側にあるから？\n\n自分の意見、作品を自分と切り分ける\n難しいね～～\n\nhttps://ja.wikipedia.org/wiki/%E5%80%8B%E4%BA%BA%E3%81%AE%E5%A2%83%E7%95%8C%E7%B7%9A",
       "preview": "自分の好きなものや、住んでる所を貶されて嫌な気持ちになるのは自他の境界の自側にあるから？\n自分の意見、作品を自分と切り分ける\n難しいね～～",
       "modifiedAt": 1770548047000,
-      "linkCount": 0,
+      "linkCount": 1,
       "thumbnailUrl": null
     },
     {
@@ -3290,6 +3470,11 @@
         "preview": "[yt https://www.youtube.com/watch?v=pGFOmKvA2l8]\n[[64k intro]]\n🔗"
       },
       {
+        "slug": "Clean Slate",
+        "title": "Clean Slate",
+        "preview": "[yt https://www.youtube.com/watch?v=O3T1-nadehU]\n[[64k intro]]\n[[Conspiracy]]"
+      },
+      {
         "slug": "Condition",
         "title": " Condition",
         "preview": "[yt https://www.youtube.com/watch?v=eZjd4aLmfus]\n[[64k intro]]\n🔗"
@@ -3303,6 +3488,7 @@
     "A Sense Of Getting Closer": [],
     "Absolute Territory": [],
     "Alberto Balsalm (Super Mario 64 Remix)": [],
+    "ALCOM": [],
     "Aleph-0": [],
     "Alfie Dwyer": [
       {
@@ -3374,6 +3560,13 @@
     "ATA": [],
     "Atrium": [],
     "Automatic": [],
+    "Avalonia": [
+      {
+        "slug": "NXUI",
+        "title": "NXUI",
+        "preview": "https://github.com/wieslawsoltes/NXUI\n[[XAML]] を書かずに UI を構築できちゃう [[Avalonia]] のライブラリ"
+      }
+    ],
     "azumanga click house": [],
     "B.B.K.K.B.K.K": [],
     "Back to Body": [],
@@ -3384,9 +3577,16 @@
     "biimシステム": [],
     "BITE ME MORE PLS": [],
     "Blackbox Life Recorder 21f": [],
+    "blackle's perfect pistons": [],
     "Blogtrottr": [],
     "Bokeh": [],
-    "Bonzomatic": [],
+    "Bonzomatic": [
+      {
+        "slug": "draw()_ _7 VJ 振り返り - 2026-02-15",
+        "title": "draw(); #7 VJ 振り返り - 2026-02-15",
+        "preview": "[img https://i.gyazo.com/e66117e90e23da65b3d8b6f1825ed1b5.png]\n[[Bonzomatic]] で [[Live coding]] した ZOY\nhttps://www.shadertoy.com/view/w33fDl"
+      }
+    ],
     "BRDG": [
       {
         "slug": "VRDG+H _1 - 2016-03-26",
@@ -3406,8 +3606,16 @@
     "cdak": [],
     "Chase No Face": [],
     "Claude Code": [],
+    "Clean Slate": [],
     "Compofiller Studio": [],
     "Compofiller": [],
+    "Component Object Model": [
+      {
+        "slug": "Object Linking and Embedding",
+        "title": "Object Linking and Embedding",
+        "preview": "https://ja.wikipedia.org/wiki/Object_Linking_and_Embedding\nOLE\nオブジェクトをリンクしたり埋め込んだりするための仕組みを定めた仕様"
+      }
+    ],
     "Computer Graphics Demonstration Tape": [],
     "Condition": [],
     "Conventional Commits": [],
@@ -3439,6 +3647,7 @@
         "preview": "[https://scrapbox.io/shokai/%E6%9C%80%E7%B5%82%E7%9A%84%E3%81%AB%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8C%E3%81%B0%E3%82%88%E3%81%84 /shokai/最終的に見つかればよい]\nせやね\n例えば `Hoge : huga` みたいなタイトルは Hoge の huga のことを述べているわけだけどこのページと Hoge というタイトルのページをリンクさせたければ、わざとらしく本文に `[[Hoge]]` を仕込まないといけない"
       }
     ],
+    "CSharp _ Delegates": [],
     "CSharp _ Performance Improvements シリーズ": [],
     "Cycle of nature": [],
     "Daito Manabe": [
@@ -3481,6 +3690,11 @@
         "slug": "64k intro",
         "title": "64k intro",
         "preview": "[[Demo]] のサブカテゴリの一つ\n魂"
+      },
+      {
+        "slug": "人間の作為が施された仕組みを今まさにコンピュータが処理して出力され続けている映像",
+        "title": "人間の作為が施された仕組みを今まさにコンピュータが処理して出力され続けている映像",
+        "preview": "リアルタイム CG という言葉以外がなぜか欲しかった時期がある\nゲームや [[Demo]]\n[[VJ]] , デジタルアートにもみられることがある"
       }
     ],
     "Demoscene": [
@@ -3504,6 +3718,7 @@
     ],
     "dj newtown - silky heart": [],
     "Domain": [],
+    "draw()_ _7 VJ 振り返り - 2026-02-15": [],
     "draw()_ について言及のある記事": [],
     "draw()_": [
       {
@@ -3647,6 +3862,7 @@
     "LÖVE": [],
     "Mad Hope": [],
     "Matrix Color formula": [],
+    "May 16 2020 _Music Unity 2020_ in the blue shirt live set": [],
     "McGuire Computer Graphics Archive": [],
     "Measuring Ruins": [],
     "melonade": [
@@ -3712,6 +3928,8 @@
         "preview": "[img https://nxpclab.info/vol.12/img/flyer_front_shadow.png]\n[[NxPC.Lab]] のイベント\nAct"
       }
     ],
+    "NXUI": [],
+    "Object Linking and Embedding": [],
     "Obsidian": [
       {
         "slug": "Quartz",
@@ -3819,6 +4037,7 @@
         "preview": "[yt https://www.youtube.com/watch?v=jl4GlfZBCSs]\n[[4k intro]]\n[[Alcatraz]] ([[slerpy]]), [[Prismbeings]]"
       }
     ],
+    "Pure Data": [],
     "Q. つまらない本を買ってしまったらどうする？ A. 最後まで読んで罵倒する": [],
     "q5.js": [],
     "Quartz": [],
@@ -3855,7 +4074,13 @@
     "ScrapboxでVJするためのChrome拡張を作った": [],
     "SCRATCHIN": [],
     "Scum": [],
-    "sdBox": [],
+    "sdBox": [
+      {
+        "slug": "draw()_ _7 VJ 振り返り - 2026-02-15",
+        "title": "draw(); #7 VJ 振り返り - 2026-02-15",
+        "preview": "[img https://i.gyazo.com/e66117e90e23da65b3d8b6f1825ed1b5.png]\n[[Bonzomatic]] で [[Live coding]] した ZOY\nhttps://www.shadertoy.com/view/w33fDl"
+      }
+    ],
     "Seven layers": [],
     "Shelter": [],
     "SHIROBAKO": [
@@ -3866,6 +4091,13 @@
       }
     ],
     "Simple Web Server": [],
+    "Skia": [
+      {
+        "slug": "Avalonia",
+        "title": "Avalonia",
+        "preview": "[img https://upload.wikimedia.org/wikipedia/commons/b/bc/Avalonia_logo.svg]\nhttps://avaloniaui.net/\n[[Open source]] な [[Cross-platform]] [[.NET]] UI フレームワーク"
+      }
+    ],
     "SmoothCSV": [],
     "Soda City Funk": [],
     "Someday": [],
@@ -3898,6 +4130,7 @@
     "Terminal Slam": [],
     "Testing": [],
     "Texas": [],
+    "The Law of Leaky Abstractions": [],
     "The ten rules of techno": [],
     "The Useless Web": [],
     "TiddlyWiki": [],
@@ -3919,7 +4152,13 @@
     "Unity _ シェーダに渡すテクスチャのデフォルト値": [],
     "Vanitas vanitatum, et omnia vanitas.": [],
     "VRCALOGRAVE - 2020-12-29": [],
-    "VRChat Creator Companion": [],
+    "VRChat Creator Companion": [
+      {
+        "slug": "ALCOM",
+        "title": "ALCOM",
+        "preview": "[img https://vrc-get.anatawa12.com/resources/alcom.svg]\nhttps://vrc-get.anatawa12.com/ja/alcom/\n[[ymg]] に教わった"
+      }
+    ],
     "VRDG+H _1 - 2016-03-26": [],
     "Wackelkontakt": [],
     "Waifu Jam": [],
@@ -4050,9 +4289,17 @@
     "デオドラント": [],
     "デカいという面白さ": [],
     "デュレエ": [],
+    "トマソンスタジオ": [
+      {
+        "slug": "May 16 2020 _Music Unity 2020_ in the blue shirt live set",
+        "title": "May 16 2020 \"Music Unity 2020\" in the blue shirt live set",
+        "preview": "[yt https://www.youtube.com/watch?v=R0XP5jV1sfQ]\n救い\n[[in the blue shirt]]"
+      }
+    ],
     "トラックバック": [],
     "ニンテンドーダイレクト 2008.3.2 FM Slideshow (Sparkle)": [],
     "ネオンライト構文": [],
+    "ハウトゥー世界征服": [],
     "パラノとスキゾ": [],
     "パンコレ ～voice actresses' legendary punk songs collection～": [],
     "ファイルが大事": [],
@@ -4080,9 +4327,11 @@
         "preview": "やんわりメモ\n自らの身体でそれの一次情報を取りに行く？\nそれは神聖化されることもある？"
       }
     ],
+    "人間の作為が施された仕組みを今まさにコンピュータが処理して出力され続けている映像": [],
     "健常者エミュレータ事例集": [],
     "地図投影法の一覧": [],
     "壁に跳ね返る": [],
+    "夕景イエスタデイ": [],
     "大合奏！バンドブラザーズＰ": [
       {
         "slug": "Starlight",
@@ -4120,6 +4369,7 @@
     "岩波Web目録": [],
     "庭整備": [],
     "心やさしい人は理不尽なひどい目にあわないでほしい": [],
+    "心理的所有": [],
     "思考の深度": [],
     "恋をするとテクノなんて聞いてられない": [],
     "恋愛サーキュレーションbyレゾナンツ児童合唱団_＠EXPO2025": [],
@@ -4178,7 +4428,13 @@
         "preview": "[[脳の針]]として刺さっていますねぇ\n- steam で発売されてるゲームの全実績解除\n- 本を全ページ読む ( ≒ めくる )"
       }
     ],
-    "自他の境界": [],
+    "自他の境界": [
+      {
+        "slug": "心理的所有",
+        "title": "心理的所有",
+        "preview": "https://en.wikipedia.org/wiki/Ownership_(psychology)\n当事者意識よりなんかいい言葉あるでしょと探してたら見つかった\n>In consumer research, the following scale[14] or scales adapted from it[31][32][33] are used to measure psychological ownership of products that are the target of ownership:"
+      }
+    ],
     "良さは多元的": [
       {
         "slug": "デカいという面白さ",
