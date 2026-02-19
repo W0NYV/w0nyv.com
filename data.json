@@ -87,7 +87,7 @@
       "content": "<!-- updated: 2026-01-17T19:50:20 -->\n#public\n[[Demo]] のサブカテゴリの一つ\n\n魂",
       "preview": "[[Demo]] のサブカテゴリの一つ\n魂",
       "modifiedAt": 1768647020000,
-      "linkCount": 4,
+      "linkCount": 5,
       "thumbnailUrl": null
     },
     {
@@ -461,6 +461,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/RCh3Q08HMfs/mqdefault.jpg"
     },
     {
+      "name": "Chaos Theory.md",
+      "slug": "Chaos Theory",
+      "title": "Chaos Theory",
+      "content": "<!-- updated: 2026-02-19T00:44:25 -->\n#public\n[yt https://www.youtube.com/watch?v=gfk5Mqy3gpA]\n\n[[64k intro]]\n[[Conspiracy]]\n\n[[Metalheart]] なノリ\n\n🔗\n- https://www.pouet.net/prod.php?which=25774\n- https://demozoo.org/productions/10096/",
+      "preview": "[yt https://www.youtube.com/watch?v=gfk5Mqy3gpA]\n[[64k intro]]\n[[Conspiracy]]",
+      "modifiedAt": 1771429465000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/gfk5Mqy3gpA/mqdefault.jpg"
+    },
+    {
       "name": "Chase No Face.md",
       "slug": "Chase No Face",
       "title": "Chase No Face",
@@ -539,6 +549,16 @@
       "modifiedAt": 1770611012000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/eZjd4aLmfus/mqdefault.jpg"
+    },
+    {
+      "name": "Conspiracy.md",
+      "slug": "Conspiracy",
+      "title": "Conspiracy",
+      "content": "<!-- updated: 2026-02-19T00:48:44 -->\n#public\nhttps://conspiracy.hu/\n\nハンガリーのデモグループ\n[[BoyC]] , [[Gargaj]] , [[ZooM]]",
+      "preview": "https://conspiracy.hu/\nハンガリーのデモグループ\n[[BoyC]] , [[Gargaj]] , [[ZooM]]",
+      "modifiedAt": 1771429724000,
+      "linkCount": 2,
+      "thumbnailUrl": null
     },
     {
       "name": "Conventional Commits.md",
@@ -719,6 +739,16 @@
       "modifiedAt": 1770037564000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/kYBrHZ0lKVM/mqdefault.jpg"
+    },
+    {
+      "name": "EditorConfig.md",
+      "slug": "EditorConfig",
+      "title": "EditorConfig",
+      "content": "<!-- updated: 2026-02-19T22:44:58 -->\n#public\nhttps://editorconfig.org/\n\n`.editorconfig` ファイルを置くだけで大体の [[IDE]] でコードの整形ができる",
+      "preview": "https://editorconfig.org/\n`.editorconfig` ファイルを置くだけで大体の [[IDE]] でコードの整形ができる",
+      "modifiedAt": 1771508698000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "EMIX.md",
@@ -921,6 +951,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/HPc8QMycGno/mqdefault.jpg"
     },
     {
+      "name": "Git _ .gitignore.md",
+      "slug": "Git _ .gitignore",
+      "title": "Git : .gitignore",
+      "content": "<!-- updated: 2026-02-19T22:20:44 -->\n<!-- title: Git : .gitignore -->\n#public\n監視対象から外すよ\n\n公式の色んなプロジェクトでテンプレ\nhttps://github.com/github/gitignore",
+      "preview": "監視対象から外すよ\n公式の色んなプロジェクトでテンプレ\nhttps://github.com/github/gitignore",
+      "modifiedAt": 1771507244000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "GitHub _ Artifacts.md",
       "slug": "GitHub _ Artifacts",
       "title": "GitHub : Artifacts",
@@ -1029,6 +1069,16 @@
       "modifiedAt": 1769267733000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/LVYW3JQz5Rs/mqdefault.jpg"
+    },
+    {
+      "name": "In Too Deep.md",
+      "slug": "In Too Deep",
+      "title": "In Too Deep",
+      "content": "<!-- updated: 2026-02-19T23:15:39 -->\n#public\n[yt https://www.youtube.com/watch?v=emGri7i8Y2Y]\n\n[[Sum 41]]",
+      "preview": "[yt https://www.youtube.com/watch?v=emGri7i8Y2Y]\n[[Sum 41]]",
+      "modifiedAt": 1771510539000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/emGri7i8Y2Y/mqdefault.jpg"
     },
     {
       "name": "InfiniteRave _1 - 2018-09-15.md",
@@ -1484,9 +1534,9 @@
       "name": "Obsidian.md",
       "slug": "Obsidian",
       "title": "Obsidian",
-      "content": "<!-- updated: 2026-01-30T00:20:29 -->\n#public\n[img https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png]\nhttps://obsidian.md/\n\n[[Markdown]] Editor / Viewer",
+      "content": "<!-- updated: 2026-02-19T22:43:03 -->\n#public\n[img https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png]\nhttps://obsidian.md/\n\n[[Markdown]] Editor / Viewer\n\nhttps://honeshabri.hatenablog.com/entry/Evernote_to_Obsidian\nこれは[[骨しゃぶり]]の記事",
       "preview": "[img https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png]\nhttps://obsidian.md/\n[[Markdown]] Editor / Viewer",
-      "modifiedAt": 1769700029000,
+      "modifiedAt": 1771508583000,
       "linkCount": 2,
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png"
     },
@@ -2241,6 +2291,26 @@
       "thumbnailUrl": null
     },
     {
+      "name": "Windows _ Session 0 Isolation.md",
+      "slug": "Windows _ Session 0 Isolation",
+      "title": "Windows : Session 0 Isolation",
+      "content": "<!-- updated: 2026-02-19T22:53:34 -->\n<!-- title: Windows : Session 0 Isolation -->\n#public\nhttps://learn.microsoft.com/en-us/previous-versions/bb756986(v=msdn.10)?redirectedfrom=MSDN\n\nhttps://zentoo.hatenablog.com/entry/2016/04/26/234908\n\n[[WinRM]] とかで GUI アプリケーションを起動できないのはセッション 0 でユーザーセッションじゃないからという話がある\n解決策として [[タスク スケジューラ]] を使う手がある\n\n",
+      "preview": "https://learn.microsoft.com/en-us/previous-versions/bb756986(v=msdn.10)?redirectedfrom=MSDN\nhttps://zentoo.hatenablog.com/entry/2016/04/26/234908\n[[WinRM]] とかで GUI アプリケーションを起動できないのはセッション 0 でユーザーセッションじゃないからという話がある",
+      "modifiedAt": 1771509214000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "Windows _ イベント ビューアー.md",
+      "slug": "Windows _ イベント ビューアー",
+      "title": "Windows : イベント ビューアー",
+      "content": "<!-- updated: 2026-02-19T22:48:14 -->\n<!-- title: Windows : イベント ビューアー -->\n#public\nhttps://learn.microsoft.com/ja-jp/shows/inside/event-viewer\n\nApplication Hang とか確認できる",
+      "preview": "https://learn.microsoft.com/ja-jp/shows/inside/event-viewer\nApplication Hang とか確認できる",
+      "modifiedAt": 1771508894000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "WING IT!!!.md",
       "slug": "WING IT!!!",
       "title": "WING IT!!!",
@@ -2594,9 +2664,9 @@
       "name": "シェル.md",
       "slug": "シェル",
       "title": "シェル",
-      "content": "<!-- updated: 2026-01-14T23:15:43 -->\n#public\n\nhttps://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%AB\nユーザが OS を操作するためのインターフェースを提供するプログラム\nと理解している\n普段何気なく画面を見て PC を操作してるけど、それもシェルを介しているはず\n\n[[Windows]] のシェル\nhttps://learn.microsoft.com/ja-jp/windows/win32/shell/shell-entry\nhttps://learn.microsoft.com/ja-jp/windows/win32/shell/explorer-concepts\nシェルから [[Win32 API]] を叩きにいってそう",
+      "content": "<!-- updated: 2026-02-19T22:49:21 -->\n#public\nhttps://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%AB\nユーザが OS を操作するためのインターフェースを提供するプログラム\nと理解している\n普段何気なく画面を見て PC を操作してるけど、それもシェルを介しているはず\n\n[[Windows]] のシェル\nhttps://learn.microsoft.com/ja-jp/windows/win32/shell/shell-entry\nhttps://learn.microsoft.com/ja-jp/windows/win32/shell/explorer-concepts\nシェルから [[Win32 API]] を叩きにいってそう\nCLI シェルが使いたいなら [[PowerShell]] を使おう",
       "preview": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%AB\nユーザが OS を操作するためのインターフェースを提供するプログラム\nと理解している",
-      "modifiedAt": 1768400143000,
+      "modifiedAt": 1771508961000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -2754,9 +2824,9 @@
       "name": "パンコレ ～voice actresses' legendary punk songs collection～.md",
       "slug": "パンコレ ～voice actresses' legendary punk songs collection～",
       "title": "パンコレ ～voice actresses' legendary punk songs collection～",
-      "content": "<!-- updated: 2026-02-08T16:39:16 -->\n#public\n[img https://img.hmv.co.jp/image/jacket/400/28/1/3/841.jpg]\n\n再評価路線あると思います\n\n無断転載に付いてたいいコメント\n>当時から注目してました。その時はまだまだアニメだとかオタクに厳しい世の中でした。体感では、そうした文化と、世の中がまだまだ触れ合いはじめたばかりの頃でした。\n>当時、好き好んで洋楽のパンクやロックを嗜なまれていた方々は尖った部類でした。にも関わらず『邦ロックとアニメオタク文化』という初手、段階をすっ飛ばして、このコンピレーションを出したというわけです。伝わりますか？\n\n門脇舞以の [[Pretty Fly (For A White Guy)]] 神杉\n後藤邑子の [[Smells Like Teen Spirit]] もやばい",
-      "preview": "[img https://img.hmv.co.jp/image/jacket/400/28/1/3/841.jpg]\n再評価路線あると思います\n無断転載に付いてたいいコメント",
-      "modifiedAt": 1770536356000,
+      "content": "<!-- updated: 2026-02-19T00:53:34 -->\n#public\n[img https://img.hmv.co.jp/image/jacket/400/28/1/3/841.jpg]\nhttps://www.amazon.co.jp/%E3%83%91%E3%83%B3%E3%82%B3%E3%83%AC-voice-actresses%E2%80%99legendary-punk-songs-collection/dp/B001JI47N8\n\n2009/2/25 リリース\n[[けいおん！]]は2009年春アニメなのでこっちが先か \n\n再評価路線あると思います\n\n無断転載に付いてたいいコメント\n>当時から注目してました。その時はまだまだアニメだとかオタクに厳しい世の中でした。体感では、そうした文化と、世の中がまだまだ触れ合いはじめたばかりの頃でした。\n>当時、好き好んで洋楽のパンクやロックを嗜なまれていた方々は尖った部類でした。にも関わらず『邦ロックとアニメオタク文化』という初手、段階をすっ飛ばして、このコンピレーションを出したというわけです。伝わりますか？\n\n門脇舞以の [[Pretty Fly (For A White Guy)]] 神杉\n後藤邑子の [[Smells Like Teen Spirit]] もやばい",
+      "preview": "[img https://img.hmv.co.jp/image/jacket/400/28/1/3/841.jpg]\nhttps://www.amazon.co.jp/%E3%83%91%E3%83%B3%E3%82%B3%E3%83%AC-voice-actresses%E2%80%99legendary-punk-songs-collection/dp/B001JI47N8\n2009/2/25 リリース",
+      "modifiedAt": 1771430014000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.hmv.co.jp/image/jacket/400/28/1/3/841.jpg"
     },
@@ -3084,9 +3154,9 @@
       "name": "数年単位で見返しがちなアニメ.md",
       "slug": "数年単位で見返しがちなアニメ",
       "title": "数年単位で見返しがちなアニメ",
-      "content": "<!-- updated: 2026-01-17T20:38:04 -->\n#public\n\nつまり好きってこと\n\n- [[SHIROBAKO]]\n- [[小林さんちのメイドラゴン]]\n- [[Wake Up, Girls!]]\n  - 新章除く\n- [[旦那が何を言っているかわからない件]]\n- [[響け！ユーフォニアム]]\n- [[じょしらく]]\n- [[とらドラ!]]\n- [[男子高校生の日常]]\n- [[ディーふらぐ!]]\n- [[バカとテストと召喚獣]]\n- [[宇宙よりも遠い場所]]",
+      "content": "<!-- updated: 2026-02-19T23:06:53 -->\n#public\nつまり好きってこと\n\n- [[SHIROBAKO]]\n- [[小林さんちのメイドラゴン]]\n- [[Wake Up, Girls!]]\n  - 新章除く\n- [[旦那が何を言っているかわからない件]]\n- [[響け！ユーフォニアム]]\n- [[じょしらく]]\n- [[とらドラ!]]\n- [[男子高校生の日常]]\n- [[ディーふらぐ!]]\n- [[バカとテストと召喚獣]]\n- [[宇宙よりも遠い場所]]\n- [[たまこまーけっと]]",
       "preview": "つまり好きってこと\n- [[SHIROBAKO]]\n- [[小林さんちのメイドラゴン]]",
-      "modifiedAt": 1768649884000,
+      "modifiedAt": 1771510013000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -3470,6 +3540,11 @@
         "preview": "[yt https://www.youtube.com/watch?v=pGFOmKvA2l8]\n[[64k intro]]\n🔗"
       },
       {
+        "slug": "Chaos Theory",
+        "title": "Chaos Theory",
+        "preview": "[yt https://www.youtube.com/watch?v=gfk5Mqy3gpA]\n[[64k intro]]\n[[Conspiracy]]"
+      },
+      {
         "slug": "Clean Slate",
         "title": "Clean Slate",
         "preview": "[yt https://www.youtube.com/watch?v=O3T1-nadehU]\n[[64k intro]]\n[[Conspiracy]]"
@@ -3604,6 +3679,7 @@
       }
     ],
     "cdak": [],
+    "Chaos Theory": [],
     "Chase No Face": [],
     "Claude Code": [],
     "Clean Slate": [],
@@ -3618,6 +3694,18 @@
     ],
     "Computer Graphics Demonstration Tape": [],
     "Condition": [],
+    "Conspiracy": [
+      {
+        "slug": "Chaos Theory",
+        "title": "Chaos Theory",
+        "preview": "[yt https://www.youtube.com/watch?v=gfk5Mqy3gpA]\n[[64k intro]]\n[[Conspiracy]]"
+      },
+      {
+        "slug": "Clean Slate",
+        "title": "Clean Slate",
+        "preview": "[yt https://www.youtube.com/watch?v=O3T1-nadehU]\n[[64k intro]]\n[[Conspiracy]]"
+      }
+    ],
     "Conventional Commits": [],
     "Corporate Memphis": [],
     "Cosense": [
@@ -3733,6 +3821,7 @@
       }
     ],
     "DRUG": [],
+    "EditorConfig": [],
     "EMIX": [],
     "End of time": [],
     "Enter the Void - Opening Title Sequence": [],
@@ -3770,6 +3859,7 @@
     "Gantz Graf": [],
     "Generative Art Timeline": [],
     "Ghost Voices": [],
+    "Git _ .gitignore": [],
     "GitHub _ Artifacts": [],
     "Glitch": [],
     "GOTCHA！": [],
@@ -3797,6 +3887,7 @@
     "Hydrokinetics": [],
     "Hypnosis": [],
     "in perspective": [],
+    "In Too Deep": [],
     "InfiniteRave _1 - 2018-09-15": [],
     "iq": [
       {
@@ -4011,7 +4102,7 @@
       {
         "slug": "パンコレ ～voice actresses' legendary punk songs collection～",
         "title": "パンコレ ～voice actresses' legendary punk songs collection～",
-        "preview": "[img https://img.hmv.co.jp/image/jacket/400/28/1/3/841.jpg]\n再評価路線あると思います\n無断転載に付いてたいいコメント"
+        "preview": "[img https://img.hmv.co.jp/image/jacket/400/28/1/3/841.jpg]\nhttps://www.amazon.co.jp/%E3%83%91%E3%83%B3%E3%82%B3%E3%83%AC-voice-actresses%E2%80%99legendary-punk-songs-collection/dp/B001JI47N8\n2009/2/25 リリース"
       }
     ],
     "Prism.js": [],
@@ -4184,6 +4275,8 @@
     "Wiki の私物化": [],
     "wiki 兼 ブログ 兼 メモ 兼 ポートフォリオ": [],
     "Wikilinks": [],
+    "Windows _ Session 0 Isolation": [],
+    "Windows _ イベント ビューアー": [],
     "WING IT!!!": [],
     "WYSIWYG": [],
     "xoyozo": [
