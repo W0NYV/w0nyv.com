@@ -1001,6 +1001,16 @@
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Gyazo_logo.png"
     },
     {
+      "name": "Hazelight Studios.md",
+      "slug": "Hazelight Studios",
+      "title": "Hazelight Studios",
+      "content": "<!-- updated: 2026-02-23T23:56:27 -->\n#public\nhttps://www.hazelight.se/\n\nスウェーデンのビデオゲーム会社\n\n[[It Takes Two]] , [[Split Fiction]] など\n",
+      "preview": "https://www.hazelight.se/\nスウェーデンのビデオゲーム会社\n[[It Takes Two]] , [[Split Fiction]] など",
+      "modifiedAt": 1771858587000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "healthy spread.md",
       "slug": "healthy spread",
       "title": "healthy spread",
@@ -2841,6 +2851,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "フリーライド.md",
+      "slug": "フリーライド",
+      "title": "フリーライド",
+      "content": "<!-- updated: 2026-02-23T23:52:20 -->\n#public\nタダ乗りでも肩代わりでもなんでもいいんだけど、色んな人や事にフリーライドしてないかみたいなことが気になる\n迷惑にかけてるのだとしたらそれに自覚的になりたいというのもあるけど、どちらかというと研究テーマ？として気になるみたいな感じ\n\n仲間内で怒りの感情を露わにしてくれるやつがいるから自分は引っ込めるとか\n\n元気ないやつが元気あるやつに引っ張ってもらうとか？\n[[マニック・ピクシー・ドリーム・ガール]]ですか？\n\n仮にフリーライドしていることに気づいたとしてその返礼をすべきなのか\nフリーライドされてることに無自覚な人に余計な気付きを与えてる？\nかといって言及しないで乗り続けるのもどうなんですかね\n\n倫理かもね\n",
+      "preview": "タダ乗りでも肩代わりでもなんでもいいんだけど、色んな人や事にフリーライドしてないかみたいなことが気になる\n迷惑にかけてるのだとしたらそれに自覚的になりたいというのもあるけど、どちらかというと研究テーマ？として気になるみたいな感じ\n仲間内で怒りの感情を露わにしてくれるやつがいるから自分は引っ込めるとか",
+      "modifiedAt": 1771858340000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "フレンドコード.md",
       "slug": "フレンドコード",
       "title": "フレンドコード",
@@ -3077,6 +3097,16 @@
       "content": "<!-- updated: 2026-01-24T13:01:30 -->\n#public\nhttps://catalog.iwanami.co.jp/\n\n[[岩波文庫]]、[[岩波新書]]、[[岩波ジュニア新書]]、[[岩波現代文庫]]の既刊全点の書誌情報を閲覧できるサイト\n本棚っぽい [[UI]] でなんだか楽しい感じ",
       "preview": "https://catalog.iwanami.co.jp/\n[[岩波文庫]]、[[岩波新書]]、[[岩波ジュニア新書]]、[[岩波現代文庫]]の既刊全点の書誌情報を閲覧できるサイト\n本棚っぽい [[UI]] でなんだか楽しい感じ",
       "modifiedAt": 1769227290000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "帰納と演繹.md",
+      "slug": "帰納と演繹",
+      "title": "帰納と演繹",
+      "content": "<!-- updated: 2026-02-23T21:22:24 -->\n#public\ninduction / deduction\nhttps://www2.rikkyo.ac.jp/web/kobayasi/kiwameru/kinou3.html\n\n帰納\nデータから法則や仮定を導く方\n\n演繹\n法則や仮定を用いて判断する方\n[[三段論法]]\n",
+      "preview": "induction / deduction\nhttps://www2.rikkyo.ac.jp/web/kobayasi/kiwameru/kinou3.html\n帰納",
+      "modifiedAt": 1771849344000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -3864,6 +3894,7 @@
     "Glitch": [],
     "GOTCHA！": [],
     "Gyazo": [],
+    "Hazelight Studios": [],
     "healthy spread": [],
     "Height Map to Normal Map": [],
     "Hexler": [
@@ -4396,6 +4427,7 @@
     "パラノとスキゾ": [],
     "パンコレ ～voice actresses' legendary punk songs collection～": [],
     "ファイルが大事": [],
+    "フリーライド": [],
     "フレンドコード": [],
     "メタマウンティング・ゲーム": [],
     "メディアの違いを理解せよ。": [
@@ -4460,6 +4492,7 @@
       }
     ],
     "岩波Web目録": [],
+    "帰納と演繹": [],
     "庭整備": [],
     "心やさしい人は理不尽なひどい目にあわないでほしい": [],
     "心理的所有": [],
