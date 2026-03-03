@@ -87,7 +87,7 @@
       "content": "<!-- updated: 2026-01-17T19:50:20 -->\n#public\n[[Demo]] のサブカテゴリの一つ\n\n魂",
       "preview": "[[Demo]] のサブカテゴリの一つ\n魂",
       "modifiedAt": 1768647020000,
-      "linkCount": 5,
+      "linkCount": 6,
       "thumbnailUrl": null
     },
     {
@@ -577,7 +577,7 @@
       "content": "<!-- updated: 2026-02-19T00:48:44 -->\n#public\nhttps://conspiracy.hu/\n\nハンガリーのデモグループ\n[[BoyC]] , [[Gargaj]] , [[ZooM]]",
       "preview": "https://conspiracy.hu/\nハンガリーのデモグループ\n[[BoyC]] , [[Gargaj]] , [[ZooM]]",
       "modifiedAt": 1771429724000,
-      "linkCount": 2,
+      "linkCount": 3,
       "thumbnailUrl": null
     },
     {
@@ -799,6 +799,16 @@
       "modifiedAt": 1770537401000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/SYG9zU_bd6U/mqdefault.jpg"
+    },
+    {
+      "name": "Empires.md",
+      "slug": "Empires",
+      "title": "Empires",
+      "content": "<!-- updated: 2026-03-03T22:43:45 -->\n#public\n[yt https://www.youtube.com/watch?v=R-4wHUw_OdE]\n\n[[Conspiracy]]\n[[64k intro]]\n\n🔗\n- https://www.pouet.net/prod.php?which=96589\n- https://demozoo.org/productions/342435/",
+      "preview": "[yt https://www.youtube.com/watch?v=R-4wHUw_OdE]\n[[Conspiracy]]\n[[64k intro]]",
+      "modifiedAt": 1772545425000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/R-4wHUw_OdE/mqdefault.jpg"
     },
     {
       "name": "End of time.md",
@@ -1307,7 +1317,7 @@
       "content": "<!-- updated: 2026-01-25T15:55:42 -->\n#public\nhttps://www.keijiro.tokyo/\n\n[[Unity]] で [[Audiovisual]] パフォーマンスやるための便利なパッケージをいっぱい作っている",
       "preview": "https://www.keijiro.tokyo/\n[[Unity]] で [[Audiovisual]] パフォーマンスやるための便利なパッケージをいっぱい作っている",
       "modifiedAt": 1769324142000,
-      "linkCount": 3,
+      "linkCount": 4,
       "thumbnailUrl": null
     },
     {
@@ -2301,6 +2311,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/dGqdx7FufQ0/mqdefault.jpg"
     },
     {
+      "name": "Unity Object 原論.md",
+      "slug": "Unity Object 原論",
+      "title": "Unity Object 原論",
+      "content": "<!-- updated: 2026-03-03T21:25:43 -->\n#public\n[yt https://www.youtube.com/watch?v=wtp0zHe-Opc]\n\n[[Keijiro Takahashi]]\n\n[[ToDo]] みる\n\nhttps://learning.unity3d.jp/10964/\n[[Unity Learning Materials]] の方にスライド上がってると思ったら上がってなかった\n\n",
+      "preview": "[yt https://www.youtube.com/watch?v=wtp0zHe-Opc]\n[[Keijiro Takahashi]]\n[[ToDo]] みる",
+      "modifiedAt": 1772540743000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/wtp0zHe-Opc/mqdefault.jpg"
+    },
+    {
       "name": "Unity _ シェーダに渡すテクスチャのデフォルト値.md",
       "slug": "Unity _ シェーダに渡すテクスチャのデフォルト値",
       "title": "Unity : シェーダに渡すテクスチャのデフォルト値",
@@ -2781,6 +2801,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "オッカムの剃刀.md",
+      "slug": "オッカムの剃刀",
+      "title": "オッカムの剃刀",
+      "content": "<!-- updated: 2026-03-03T22:17:37 -->\n#public\nhttps://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%82%AB%E3%83%A0%E3%81%AE%E5%89%83%E5%88%80\n\n>必要が無いなら多くのものを定立してはならない。少数の論理でよい場合は多数の論理を定立してはならない。\n\n原文を読むに、妥当じゃない仮定をあんますんなって話であって、例え話をするなという意味ではない気がする\n例え話は例え話以外で説明がなされた事柄をより分かりやすくするために存在する？\n逆に例え話だけで説明される事柄ってあるのか？\nそれはまだ科学的に解明されていないということなのかも\n学術論文では例え話ってあんましない方がいいのかな？\nまあ長ったらしい例え話を添えられた説明もそれはそれでいかがなものかとという別話題はありますが\n\nアカデミックな場で生まれた剃刀\n\n[[逆オッカムの剃刀]]\nhttps://ja.wikipedia.org/wiki/%E9%80%86%E3%82%AA%E3%83%83%E3%82%AB%E3%83%A0%E3%81%AE%E5%89%83%E5%88%80\n> 「ある事柄を説明するのに、シンプルな説明より複雑でエキゾチックな解釈が好まれる」という近年の学術界の傾向である\nhttps://www.nature.com/articles/s41567-022-01575-2\n警鐘としての？\n[[Narrative bias]] ？",
+      "preview": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%82%AB%E3%83%A0%E3%81%AE%E5%89%83%E5%88%80\n>必要が無いなら多くのものを定立してはならない。少数の論理でよい場合は多数の論理を定立してはならない。\n原文を読むに、妥当じゃない仮定をあんますんなって話であって、例え話をするなという意味ではない気がする",
+      "modifiedAt": 1772543857000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "キャレット.md",
       "slug": "キャレット",
       "title": "キャレット",
@@ -2864,9 +2894,9 @@
       "name": "ジーンとミーム.md",
       "slug": "ジーンとミーム",
       "title": "ジーンとミーム",
-      "content": "<!-- updated: 2026-02-25T01:06:53 -->\n#public\nhttps://note.com/2r96/n/n2160858758e7\n[[フロクロ]]の記事\nジーンを残したい ← 生物的な欲動\nミームを残したい ← 反生物的な欲動\n文明と文化、遺伝子と言語\n\n自己主張が得意ではない人間のミーム保存戦略としての [[Digital garden]] はちょっとあるのでは\nてか俺がそう\n\nミームが指してる範囲大分広いな\n大体全部ミームじゃん\nとりあえずおもしろ情報に `meme` のリンク貼ってたけど消した\nまあミームでないわけではないので外す必要もないんだけど\nほとんどのミームもジーン保存目的なんじゃないの\n\nまあともあれ[[利己的遺伝子]]読みたい\n\nジーンでもミームでも残すことを諦める / 執着してない層が存在しているとうっすら思っている\nジーンかミームを残すための欲動を行わなくても、生理的あるいは心理的に幸福な日々を送ることは可能という命題は真？\nミームを残さなければならないというミームの解呪\n→ [[脳の針]]\nジーン保存への反逆という代償行為",
+      "content": "<!-- updated: 2026-03-03T21:35:21 -->\n#public\nhttps://note.com/2r96/n/n2160858758e7\n[[フロクロ]]の記事\nジーンを残したい ← 生物的な欲動\nミームを残したい ← 反生物的な欲動\n文明と文化、遺伝子と言語\n\n自己主張が得意ではない人間のミーム保存戦略としての [[Digital garden]] はちょっとあるのでは\nてか俺がそう\n\nミームが指してる範囲大分広いな\n大体全部ミームじゃん\nとりあえずおもしろ情報に `meme` のリンク貼ってたけど消した\nまあミームでないわけではないので外す必要もないんだけど\nほとんどのミームもジーン保存目的なんじゃないの\n\nまあともあれ[[利己的な遺伝子]]読みたい\n\nジーンでもミームでも残すことを諦める / 執着してない層が存在しているとうっすら思っている\nジーンかミームを残すための欲動を行わなくても、生理的あるいは心理的に幸福な日々を送ることは可能という命題は真？\nミームを残さなければならないというミームの解呪\n→ [[脳の針]]\nジーン保存への反逆という代償行為",
       "preview": "https://note.com/2r96/n/n2160858758e7\n[[フロクロ]]の記事\nジーンを残したい ← 生物的な欲動",
-      "modifiedAt": 1771949213000,
+      "modifiedAt": 1772541321000,
       "linkCount": 1,
       "thumbnailUrl": null
     },
@@ -3769,6 +3799,11 @@
         "slug": "Domain",
         "title": "Domain",
         "preview": "[yt https://www.youtube.com/watch?v=D2COWeeEqTs]\n[[64k intro]]\n[[0b5vr]]"
+      },
+      {
+        "slug": "Empires",
+        "title": "Empires",
+        "preview": "[yt https://www.youtube.com/watch?v=R-4wHUw_OdE]\n[[Conspiracy]]\n[[64k intro]]"
       }
     ],
     "A Sense Of Getting Closer": [],
@@ -3917,6 +3952,11 @@
         "slug": "Clean Slate",
         "title": "Clean Slate",
         "preview": "[yt https://www.youtube.com/watch?v=O3T1-nadehU]\n[[64k intro]]\n[[Conspiracy]]"
+      },
+      {
+        "slug": "Empires",
+        "title": "Empires",
+        "preview": "[yt https://www.youtube.com/watch?v=R-4wHUw_OdE]\n[[Conspiracy]]\n[[64k intro]]"
       }
     ],
     "Conventional Commits": [],
@@ -4059,6 +4099,7 @@
     "DRUG": [],
     "EditorConfig": [],
     "EMIX": [],
+    "Empires": [],
     "End of time": [],
     "Enter the Void - Opening Title Sequence": [],
     "EON BREAK": [],
@@ -4175,6 +4216,11 @@
         "slug": "KodeLife",
         "title": "KodeLife",
         "preview": "[img https://hexler.net/site/images/app_icons/png_white/KodeLife-icon.png]\nhttps://hexler.net/kodelife\n[[Hexler]] による Real-time GPU shader editor"
+      },
+      {
+        "slug": "Unity Object 原論",
+        "title": "Unity Object 原論",
+        "preview": "[yt https://www.youtube.com/watch?v=wtp0zHe-Opc]\n[[Keijiro Takahashi]]\n[[ToDo]] みる"
       },
       {
         "slug": "VRDG+H _1 - 2016-03-26",
@@ -4498,6 +4544,7 @@
         "preview": "未整理気味\n[tw https://x.com/Kezzardrix/status/1927027064223248666?s=20]\n- https://www.ameet.jp/digital-imaging/485/"
       }
     ],
+    "Unity Object 原論": [],
     "Unity _ シェーダに渡すテクスチャのデフォルト値": [],
     "Vanitas vanitatum, et omnia vanitas.": [],
     "VRCALOGRAVE - 2020-12-29": [],
@@ -4646,6 +4693,7 @@
     "イージング関数チートシート": [],
     "エンゼルフィッシュ": [],
     "エントロピー (情報理論)": [],
+    "オッカムの剃刀": [],
     "キャレット": [],
     "キリトリセン": [],
     "サンフェーデッド": [],
