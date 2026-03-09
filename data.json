@@ -581,6 +581,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "Context collapse.md",
+      "slug": "Context collapse",
+      "title": "Context collapse",
+      "content": "<!-- updated: 2026-03-09T22:16:20 -->\n#public\nhttps://ja.wikipedia.org/wiki/%E6%96%87%E8%84%88%E5%B4%A9%E5%A3%8A\n\n>この現象により、特定のグループ向けに意図された情報が、想定外の別のグループに届いてしまうことで、自己呈示の困難やプライバシーの境界の曖昧化、時には炎上などの社会的摩擦を引き起こす要因となる。\n\n別のグループに届くこと自体は悪いことではない気がするけど、文脈が共有されてないと文意が伝わらないこともあるよね",
+      "preview": "https://ja.wikipedia.org/wiki/%E6%96%87%E8%84%88%E5%B4%A9%E5%A3%8A\n>この現象により、特定のグループ向けに意図された情報が、想定外の別のグループに届いてしまうことで、自己呈示の困難やプライバシーの境界の曖昧化、時には炎上などの社会的摩擦を引き起こす要因となる。\n別のグループに届くこと自体は悪いことではない気がするけど、文脈が共有されてないと文意が伝わらないこともあるよね",
+      "modifiedAt": 1773062180000,
+      "linkCount": 1,
+      "thumbnailUrl": null
+    },
+    {
       "name": "Conventional Commits.md",
       "slug": "Conventional Commits",
       "title": "Conventional Commits",
@@ -819,6 +829,16 @@
       "modifiedAt": 1770532039000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/5lR76o9lWB0/mqdefault.jpg"
+    },
+    {
+      "name": "Enshittification.md",
+      "slug": "Enshittification",
+      "title": "Enshittification",
+      "content": "<!-- updated: 2026-03-09T22:03:34 -->\n#public\nhttps://p2ptk.org/monopoly/4366\n\nhttps://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B7%E3%83%83%E3%83%88%E5%8C%96\n\nメタクソ化",
+      "preview": "https://p2ptk.org/monopoly/4366\nhttps://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B7%E3%83%83%E3%83%88%E5%8C%96\nメタクソ化",
+      "modifiedAt": 1773061414000,
+      "linkCount": 2,
+      "thumbnailUrl": null
     },
     {
       "name": "Enter the Void - Opening Title Sequence.md",
@@ -1079,6 +1099,16 @@
       "modifiedAt": 1769876843000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/BoZ0Zwab6Oc/mqdefault.jpg"
+    },
+    {
+      "name": "Graffiti_ Enabling an Ecosystem of Personalized and Interoperable Social Applications.md",
+      "slug": "Graffiti_ Enabling an Ecosystem of Personalized and Interoperable Social Applications",
+      "title": "Graffiti: Enabling an Ecosystem of Personalized and Interoperable Social Applications",
+      "content": "<!-- updated: 2026-03-09T22:12:57 -->\n<!-- title: Graffiti: Enabling an Ecosystem of Personalized and Interoperable Social Applications -->\n#public\nhttps://dl.acm.org/doi/full/10.1145/3746059.3747627\n\n以下は NotebookLM を使って雑読みしたメモ\n\n脱プラットフォーム的\nデータ中心でそれぞれのクライアントが上手いこと抽出する\nモデレーションもクライアントごとに自由に\n\n全部がオブジェクト\nある投稿に対するいいねも削除も\n\nオブジェクトにチャネルを紐づける\nチャネルはタグみたいなテンションで [[Context collapse]] を防ぐために活用する\nビジネスアカウントで出会い目的の投稿はしないしみたくないでしょ\nチャネルで区切られてるとは言え、見ようと思えば見られちゃうんじゃないのと思ったけど許可リストがあるらしい\nついでにプライベートグループも表現できますね\n\n[[Wiki]] は言及したいこと、ものの名称のチャネル作ってそこにみんなが書き込んでクライアントでいい感じにフィルタリングすることで健全性を保つ感じ\n\n投稿は本人しか消せない\nフィルタリングはあるけど BAN はない\n追いやることがないので [[Harm reduction]] 的な効果も\n\nプラットフォーム中心の [[SNS]] は [[Enshittification]] が起きるので別の仕組みが必要だよね的な\nええな\n\n文脈崩壊を恐れないすべてのチャネルを観覧できるクライアントが出来そうな気配は少しあるな\nデータ自体は誰にも人質として取られてないしまあいいのかも",
+      "preview": "https://dl.acm.org/doi/full/10.1145/3746059.3747627\n以下は NotebookLM を使って雑読みしたメモ\n脱プラットフォーム的",
+      "modifiedAt": 1773061977000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "Gyazo.md",
@@ -1904,9 +1934,9 @@
       "name": "Reflex.md",
       "slug": "Reflex",
       "title": "Reflex",
-      "content": "<!-- updated: 2026-03-05T00:33:25 -->\n#public\n[img https://github.com/gustavopsantos/Reflex/raw/main/.github/graphics/logo.png]\n\nhttps://github.com/gustavopsantos/Reflex\n\nFast: up to 414% faster than [[VContainer]], up to 800% faster than [[Zenject]].\nGC Friendly: up to 28% less allocations than VContainer, up to 921% less allocations than Zenject.\n\n[[Unity]] 向け [[DI]] コンテナライブラリ\n",
+      "content": "<!-- updated: 2026-03-05T00:40:25 -->\n#public\n[img https://github.com/gustavopsantos/Reflex/raw/main/.github/graphics/logo.png]\n\nhttps://github.com/gustavopsantos/Reflex\n\nFast: up to 414% faster than [[VContainer]], up to 800% faster than [[Zenject]].\nGC Friendly: up to 28% less allocations than VContainer, up to 921% less allocations than Zenject.\n\n[[Unity]] 向け [[DI]] コンテナライブラリ\n\nSelective Resolution はないので、ラッパーしてくれなという感じ",
       "preview": "[img https://github.com/gustavopsantos/Reflex/raw/main/.github/graphics/logo.png]\nhttps://github.com/gustavopsantos/Reflex\nFast: up to 414% faster than [[VContainer]], up to 800% faster than [[Zenject]].",
-      "modifiedAt": 1772638405000,
+      "modifiedAt": 1772638825000,
       "linkCount": 0,
       "thumbnailUrl": "https://github.com/gustavopsantos/Reflex/raw/main/.github/graphics/logo.png"
     },
@@ -2791,6 +2821,16 @@
       "thumbnailUrl": "https://pbs.twimg.com/media/HAx9Z-faAAQ1kAG.jpg?name=orig"
     },
     {
+      "name": "イアンノット.md",
+      "slug": "イアンノット",
+      "title": "イアンノット",
+      "content": "<!-- updated: 2026-03-09T21:51:57 -->\n#public\n[yt https://www.youtube.com/watch?v=JgguudEQk68]\n\nhttps://mond-shoelace.com/blogs/tying/839_ianknot?srsltid=AfmBOopLSsYtWLvPWL8in0cAJk4rKyWd0PQk-_uWH2UXdA48xz8NEKMm\n\nまじでほどけなくてすごい",
+      "preview": "[yt https://www.youtube.com/watch?v=JgguudEQk68]\nhttps://mond-shoelace.com/blogs/tying/839_ianknot?srsltid=AfmBOopLSsYtWLvPWL8in0cAJk4rKyWd0PQk-_uWH2UXdA48xz8NEKMm\nまじでほどけなくてすごい",
+      "modifiedAt": 1773060717000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/JgguudEQk68/mqdefault.jpg"
+    },
+    {
       "name": "イベントループ.md",
       "slug": "イベントループ",
       "title": "イベントループ",
@@ -2808,6 +2848,16 @@
       "preview": "https://easings.net/ja\nいつもありがとうございますシート",
       "modifiedAt": 1769261474000,
       "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
+      "name": "エッセイ.md",
+      "slug": "エッセイ",
+      "title": "エッセイ",
+      "content": "<!-- updated: 2026-03-09T22:21:46 -->\n#public\n[tw https://x.com/miyazakid/status/1973398380106621123?s=20]\nまあわかる\n自覚しているとか、と一旦捉えているとか記述すべきなのかもだが冗長",
+      "preview": "[tw https://x.com/miyazakid/status/1973398380106621123?s=20]\nまあわかる\n自覚しているとか、と一旦捉えているとか記述すべきなのかもだが冗長",
+      "modifiedAt": 1773062506000,
+      "linkCount": 1,
       "thumbnailUrl": null
     },
     {
@@ -3079,16 +3129,6 @@
       "modifiedAt": 1770486734000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/IRsXLmj92-o/mqdefault.jpg"
-    },
-    {
-      "name": "メタクソ化.md",
-      "slug": "メタクソ化",
-      "title": "メタクソ化",
-      "content": "<!-- updated: 2026-02-28T11:50:41 -->\n#public\nhttps://p2ptk.org/monopoly/4366\n\nenshittification",
-      "preview": "https://p2ptk.org/monopoly/4366\nenshittification",
-      "modifiedAt": 1772247041000,
-      "linkCount": 1,
-      "thumbnailUrl": null
     },
     {
       "name": "メタマウンティング・ゲーム.md",
@@ -3424,9 +3464,9 @@
       "name": "明かすこと - 20260228.md",
       "slug": "明かすこと - 20260228",
       "title": "明かすこと - 20260228",
-      "content": "<!-- updated: 2026-02-28T13:05:37 -->\n#public #pass:kanidayo\n　最近自分のサイトにチマチマとメモのようなものを記述している。メモの単位は [[Zettelkasten]] や[[京大式カード]]に倣ってなるべく 1 つの物や事象に区切りたい気持ちがある。そしてメモらを [[Wikilinks]] 構文によりリンクし合える機能を作っている。これには 2 ついいことがあって、階層構造から脱せれる事と思わぬ繋がりによる発見がある事だ。まず階層構造というのはすぐ破綻するというのは[[こうもり問題]]でよく説明される通り言及したいものが 〇〇 でもあり △△ でもあるというケースがかなりあるからだ。カレーは飲み物フォルダに入れるべきなのか、食べ物フォルダに入れるべきなのかとかで悩みたくないし、そもそもどっちでもあるので対処法としては食べ物タグと飲み物タグの両方付けるというのが一番しっくり来ている。発見に関しては色々ある。何気なくリンクしてく中でこことここ繋がっちゃうんだとか、いろんなメモからリンクされてるということは重要なことなのかもな（まあ単に区切りが適切じゃないケースもあるけど）とか。まあこんな話は私が思いついた話でもなんでもなくて [[Cosense]] というサービスの根底にある考えを私語で適当に述べているだけなので、もし知的生産の技術について気になるなら[https://scrapbox.io/shokai/Cosense%E3%81%AE%E5%93%B2%E5%AD%A6 Cosenseの哲学]のページ群を読んでみてほしい。多分なんでもメモしたくなるから。まあなら Cosense を使えばいいでしょとはなるんですが、大 1 から愛用していたのに結局自分のサイトに乗り換えたのは自分だけが欲しい機能を盛り込みまくれるからだ。今 Agentic coding でとりあえず機能するところまではすぐたどり付ける気がするのでやってみてはいかがでしょう。主にメモ単位の公開設定をしたくてオールインワンツールが欲しかったんだよな、色んなとこを行き来するのは面倒なので。\n　なんで個人サイトでメモを他人が観覧できるようにしているのかについてなんだけど、まあ色々ありますよ。積極的に自己主張できないおれたちのミーム生存戦略だったり、 [[Digital garden]] が流行する前にアーリーアダプターになっておきたいだったり、大抵のプラットフォームの[[メタクソ化]]は免れないから仕方なくだったり、みんなが考えてることが知りたい（感化された誰が同じように置いといてくれないかな～）だったりする。最後に関しては私も感化された側で特に橋本麦という映像作家の影響をまあまあ強く受けている。彼のサイトも個人のメモが大量にあるのでメモからメモへとリンクをたどりながらつい夢中に読んでしまう。しかも中々手の内を明かしていてここまでは出来ないなぁといつも思っている。 [https://scrapbox.io/yozba/ yozba さんの Cosense] についても同様に思っている。まあ最近は彼らの態度を安い模倣をしてるだけなのかもしれない。内容まで模倣してるわけじゃないしまあいいのかも。\n\n[img https://i.gyazo.com/1ff6f2bad26192099e12f4d4aa1babef.jpg]\n( out of context ペンギン )\n\n　なんかここまで書いて結構普通の事しか言ってねえなと思うけど、まあプラクティスっすね、最近全然文章とか書いてないし。某村の学校の広報紙のエッセイのコーナーが好きだったのを思い出した。まあ最近思ってることとかを固めて置いておくことに価値があると信じて、恥ずかしくなって消しちゃうかもだけど今度こそ踏みとどまれるといいなぁ。",
+      "content": "<!-- updated: 2026-03-09T22:19:12 -->\n#public #pass:kanidayo\n#エッセイ\n　最近自分のサイトにチマチマとメモのようなものを記述している。メモの単位は [[Zettelkasten]] や[[京大式カード]]に倣ってなるべく 1 つの物や事象に区切りたい気持ちがある。そしてメモらを [[Wikilinks]] 構文によりリンクし合える機能を作っている。これには 2 ついいことがあって、階層構造から脱せれる事と思わぬ繋がりによる発見がある事だ。まず階層構造というのはすぐ破綻するというのは[[こうもり問題]]でよく説明される通り言及したいものが 〇〇 でもあり △△ でもあるというケースがかなりあるからだ。カレーは飲み物フォルダに入れるべきなのか、食べ物フォルダに入れるべきなのかとかで悩みたくないし、そもそもどっちでもあるので対処法としては食べ物タグと飲み物タグの両方付けるというのが一番しっくり来ている。発見に関しては色々ある。何気なくリンクしてく中でこことここ繋がっちゃうんだとか、いろんなメモからリンクされてるということは重要なことなのかもな（まあ単に区切りが適切じゃないケースもあるけど）とか。まあこんな話は私が思いついた話でもなんでもなくて [[Cosense]] というサービスの根底にある考えを私語で適当に述べているだけなので、もし知的生産の技術について気になるなら[https://scrapbox.io/shokai/Cosense%E3%81%AE%E5%93%B2%E5%AD%A6 Cosenseの哲学]のページ群を読んでみてほしい。多分なんでもメモしたくなるから。まあなら Cosense を使えばいいでしょとはなるんですが、大 1 から愛用していたのに結局自分のサイトに乗り換えたのは自分だけが欲しい機能を盛り込みまくれるからだ。今 Agentic coding でとりあえず機能するところまではすぐたどり付ける気がするのでやってみてはいかがでしょう。主にメモ単位の公開設定をしたくてオールインワンツールが欲しかったんだよな、色んなとこを行き来するのは面倒なので。\n　なんで個人サイトでメモを他人が観覧できるようにしているのかについてなんだけど、まあ色々ありますよ。積極的に自己主張できないおれたちのミーム生存戦略だったり、 [[Digital garden]] が流行する前にアーリーアダプターになっておきたいだったり、大抵のプラットフォームの [[Enshittification]] は免れないから仕方なくだったり、みんなが考えてることが知りたい（感化された誰が同じように置いといてくれないかな～）だったりする。最後に関しては私も感化された側で特に橋本麦という映像作家の影響をまあまあ強く受けている。彼のサイトも個人のメモが大量にあるのでメモからメモへとリンクをたどりながらつい夢中に読んでしまう。しかも中々手の内を明かしていてここまでは出来ないなぁといつも思っている。 [https://scrapbox.io/yozba/ yozba さんの Cosense] についても同様に思っている。まあ最近は彼らの態度を安い模倣をしてるだけなのかもしれない。内容まで模倣してるわけじゃないしまあいいのかも。\n\n[img https://i.gyazo.com/1ff6f2bad26192099e12f4d4aa1babef.jpg]\n( out of context ペンギン )\n\n　なんかここまで書いて結構普通の事しか言ってねえなと思うけど、まあプラクティスっすね、最近全然文章とか書いてないし。某村の学校の広報紙のエッセイのコーナーが好きだったのを思い出した。まあ最近思ってることとかを固めて置いておくことに価値があると信じて、恥ずかしくなって消しちゃうかもだけど今度こそ踏みとどまれるといいなぁ。",
       "preview": "",
-      "modifiedAt": 1772251537000,
+      "modifiedAt": 1773062352000,
       "password": "kanidayo",
       "linkCount": 0,
       "thumbnailUrl": "https://i.gyazo.com/1ff6f2bad26192099e12f4d4aa1babef.jpg"
@@ -3999,6 +4039,13 @@
         "preview": "[yt https://www.youtube.com/watch?v=R-4wHUw_OdE]\n[[Conspiracy]]\n[[64k intro]]"
       }
     ],
+    "Context collapse": [
+      {
+        "slug": "Graffiti_ Enabling an Ecosystem of Personalized and Interoperable Social Applications",
+        "title": "Graffiti: Enabling an Ecosystem of Personalized and Interoperable Social Applications",
+        "preview": "https://dl.acm.org/doi/full/10.1145/3746059.3747627\n以下は NotebookLM を使って雑読みしたメモ\n脱プラットフォーム的"
+      }
+    ],
     "Conventional Commits": [],
     "Corporate Memphis": [],
     "Cosense": [
@@ -4141,6 +4188,18 @@
     "EMIX": [],
     "Empires": [],
     "End of time": [],
+    "Enshittification": [
+      {
+        "slug": "Graffiti_ Enabling an Ecosystem of Personalized and Interoperable Social Applications",
+        "title": "Graffiti: Enabling an Ecosystem of Personalized and Interoperable Social Applications",
+        "preview": "https://dl.acm.org/doi/full/10.1145/3746059.3747627\n以下は NotebookLM を使って雑読みしたメモ\n脱プラットフォーム的"
+      },
+      {
+        "slug": "明かすこと - 20260228",
+        "title": "明かすこと - 20260228",
+        "preview": ""
+      }
+    ],
     "Enter the Void - Opening Title Sequence": [],
     "EON BREAK": [],
     "Everything is a Remix": [],
@@ -4184,6 +4243,7 @@
     "Glitch": [],
     "go to sleep!": [],
     "GOTCHA！": [],
+    "Graffiti_ Enabling an Ecosystem of Personalized and Interoperable Social Applications": [],
     "Gyazo": [],
     "Hazelight Studios": [],
     "healthy spread": [],
@@ -4732,8 +4792,16 @@
     "アウトライン編集": [],
     "アルバム単位で聴くという行為": [],
     "イアンのナードコア大百科": [],
+    "イアンノット": [],
     "イベントループ": [],
     "イージング関数チートシート": [],
+    "エッセイ": [
+      {
+        "slug": "明かすこと - 20260228",
+        "title": "明かすこと - 20260228",
+        "preview": ""
+      }
+    ],
     "エンゼルフィッシュ": [],
     "エントロピー (情報理論)": [],
     "オッカムの剃刀": [],
@@ -4773,13 +4841,6 @@
     "ファイルが大事": [],
     "フリーライド": [],
     "フレンドコード": [],
-    "メタクソ化": [
-      {
-        "slug": "明かすこと - 20260228",
-        "title": "明かすこと - 20260228",
-        "preview": ""
-      }
-    ],
     "メタマウンティング・ゲーム": [],
     "メディアの違いを理解せよ。": [
       {
