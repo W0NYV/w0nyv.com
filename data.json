@@ -1774,9 +1774,9 @@
       "name": "Optimistic nihilism.md",
       "slug": "Optimistic nihilism",
       "title": "Optimistic nihilism",
-      "content": "<!-- updated: 2026-03-10T21:51:11 -->\n#public\n[yt https://www.youtube.com/watch?v=MBRqu0YOH14]\n\n\nOptimistic , 楽観的\n\nまあ大体これなのかも\n\n人生に意味ないことは否定導入から真だと思うので、せめて毎日[[楽しかったらそれでいい|楽しいからやる]]んじゃないかとスキゾ的なあれに陥りがち\n\n",
-      "preview": "[yt https://www.youtube.com/watch?v=MBRqu0YOH14]\nOptimistic , 楽観的\nまあ大体これなのかも",
-      "modifiedAt": 1773147071000,
+      "content": "<!-- updated: 2026-03-14T17:31:23 -->\n#public\n[yt https://www.youtube.com/watch?v=MBRqu0YOH14]\n[[Kurzgesagt]] のビデオエッセイ、普通にちょっと怖かった\n\nOptimistic , 楽観的\n\nまあ大体これなのかも\n\n人生に意味ないことは否定導入から真だと思うので、せめて毎日[[楽しかったらそれでいい|楽しいからやる]]んじゃないかとスキゾ的なあれに陥りがち\n[[科学主義]]的にはこの命題事体ナンセンスかも",
+      "preview": "[yt https://www.youtube.com/watch?v=MBRqu0YOH14]\n[[Kurzgesagt]] のビデオエッセイ、普通にちょっと怖かった\nOptimistic , 楽観的",
+      "modifiedAt": 1773477083000,
       "linkCount": 1,
       "thumbnailUrl": "https://img.youtube.com/vi/MBRqu0YOH14/mqdefault.jpg"
     },
@@ -2129,6 +2129,16 @@
       "modifiedAt": 1771422724000,
       "linkCount": 1,
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/3/33/Skia_Project_Logo.svg"
+    },
+    {
+      "name": "Slidev.md",
+      "slug": "Slidev",
+      "title": "Slidev",
+      "content": "<!-- updated: 2026-03-11T23:46:07 -->\n#public\n[img https://i.gyazo.com/243673d5f56840b38eec194f6c8b7d5a.png]\n\nhttps://ja.sli.dev/\n\n[[Markdown]] でスライド作るくん\n[[Marp]] の対抗馬",
+      "preview": "[img https://i.gyazo.com/243673d5f56840b38eec194f6c8b7d5a.png]\nhttps://ja.sli.dev/\n[[Markdown]] でスライド作るくん",
+      "modifiedAt": 1773240367000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://i.gyazo.com/243673d5f56840b38eec194f6c8b7d5a.png"
     },
     {
       "name": "SmoothCSV.md",
@@ -2874,9 +2884,9 @@
       "name": "エッセイ.md",
       "slug": "エッセイ",
       "title": "エッセイ",
-      "content": "<!-- updated: 2026-03-09T22:21:46 -->\n#public\n[tw https://x.com/miyazakid/status/1973398380106621123?s=20]\nまあわかる\n自覚しているとか、と一旦捉えているとか記述すべきなのかもだが冗長",
+      "content": "<!-- updated: 2026-03-14T15:40:26 -->\n#public\n[tw https://x.com/miyazakid/status/1973398380106621123?s=20]\nまあわかる\n自覚しているとか、と一旦捉えているとか記述すべきなのかもだが冗長\n- [[行動心理学]]的な世界観を持ってそう捉える方が都合がいいんだろうなぁと思って読むべき？",
       "preview": "[tw https://x.com/miyazakid/status/1973398380106621123?s=20]\nまあわかる\n自覚しているとか、と一旦捉えているとか記述すべきなのかもだが冗長",
-      "modifiedAt": 1773062506000,
+      "modifiedAt": 1773470426000,
       "linkCount": 1,
       "thumbnailUrl": null
     },
@@ -3281,6 +3291,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "個人心理学.md",
+      "slug": "個人心理学",
+      "title": "個人心理学",
+      "content": "<!-- updated: 2026-03-14T18:08:53 -->\n#public\n一旦ここの連載でサラッと[[個人心理学]]が知れる\n- https://japan-adler.org/wp/wp-content/uploads/database/001_01_noda.pdf\n- https://japan-adler.org/wp/wp-content/uploads/database/001_02_noda.pdf\n- https://japan-adler.org/wp/wp-content/uploads/database/002_01_noda.pdf\n- https://japan-adler.org/wp/wp-content/uploads/database/002_02_noda.pdf\n高校生の頃に[[嫌われる勇気]]を読んだからか違和感なく読めるな\n\n全ての行動には原因 or 目的があるとして諸々考える\n前者が原因論で主にフロイトなどの精神分析学、行動主義心理学とか\n後者が目的論でアドラーとかの個人心理学\n\n目標追求性\n人間は終わらない目標めがけて小さな目的を達成する生き物らしい\nしかし脳をハック出来る唯一の生き物であるので目標自体もそこへの向かい方も修正できる\n\n対人関係論\nあらゆる行動は、対人関係上の問題の解決を目的としてデザインされ実行されるらしい\n某本を読んでからまあまあ経つけど全ての悩みは対人関係という文だけ妙に覚えていたな\n対人関係が変わると行動が変わる ← まあまあそうかも\n本というもの1つの対人関係として見なせそうだけどどうなんだろ\n共同体感覚ねぇ\n\nその目標が建てられた原因がある気がするんだけど、そこへの疑問はお門違いなのかな\nまあ多分[[重層決定]]的なもので単一の理由だけではない気がするけどね\n原因を探ることになにか目的があるならば目的が主体なのかもだけど ← ややこし\n[[The chicken or the egg]] 的な話だ\n- 目的には原因があるはずなので原因を追究したいという目的を建てたけどこの目的にも原因があるはずでと[[無限後退]]するやつ\n\n原因論は自然科学的アプローチ\n- 過去に A があったから今の B がある\n  - B という目的のために A という過去を原因として選んでいる ← 目的論的にはこう\n     - 使用の心理学と言うそうな\n- [[要素論]]的\n  - 行動心理学は[[全体論]]的で、意識と無意識を奇麗に二分できないでしょ的ななんなら個人と社会も\n- 客観主義的\n  - 行動心理学は主観主義的\n\n原因論も目的論もどっちも間違いではなさそうな気は\n証明できないので\nかといって目に見えるものだけでなんとかしようよという行動主義心理学もどうなんすかね\n>自然は説明され精神は了解される\nいい言葉\n人間学史おもろそうなのでちゃんと知りたさもあるな\n19世紀~20世紀は自然科学的なものは善であり、非自然科学的なものは悪であるというノリだったけどこのノリ自体非自然科学的じゃね ← おもろ\nhttps://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E4%B8%BB%E7%BE%A9\n了解心理学\nヨーロッパの精神医学史はいかに統合失調症を了解するかが中心っぽい？\nここまで[[反証可能性]]のことを考えるとこれは化学じゃないのかもとか思ったらちゃんとポパーがこれらについて触れてそうでワロタ\nhttps://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9D%E3%83%91%E3%83%BC\n>フッサールは、彼の現象学を、自然科学と対立する、もうひとつの科学であると考えていました。アドラーは、これに対して、自分の理論を科学だとは考えていません。アドラー心理学によれば、自然科学も現象学も、すべてが先入観の体系であり、人間のものの見かたであって、それらを用いて得られた結果は、ひとつの意見であり解釈であって、事実ないし真理ではないのです。よって立つ理論の枠組に応じて、世界は違って見えてきます。どの見かたが正しく、どの見かたが誤っているとは言えないのです。ただ言えるのは、ある見かたはある目的には適しているがある目的には適していないということがある、ということです。物理学は古池に飛び込むカエルの運動を記述し説明するには適しているが、その風景の美しさを観賞するには役に立たないのです。アドラー心理学の特徴は、ビンスヴァンガーの分析法が正しいかアドラーの分析法が正しいかを理念的に争うのではなくて、どちらの分析が治療により役立つかに分析の正当性の判断基準をおくところにあります。アドラー心理学は徹底したプラグマティズムに立つ実学なのです。\n[[Pragmatism]] ねぇ、主観主義者っぽい内容だ\nそう割り切られているならまあ了解なのかも\n\n当初こんなことを考えてたアドラーの身の回りの環境ってどんなんなのか気になるとまた原因論的に考えてしまうな\nお前らこんなもんじゃないやろ自分で枷作ってるだけじゃね？みたいな気持ちだったのかな\n劣等感についても常に目標に向かってるんだから感じて当然だろ的な感じっぽいし\n[[脳の針]]も目的があって刺さっているんだろうアドラーに言わせりゃ\nカウンセリングの方法論としてのそれなのかな\n人間の統一的不可分性の主張などで自然科学的なアプローチで何とかなる話じゃないしそもそも科学じゃないと述べて実用性を重視するに至るほど当時のカウンセリングはだめだめだったん？\n\nミーム伝染で目標が[[公共善]]に準じるものになれとまでは言わないが他者への危害がなるべく発生しない方向に向かわせるというのが社会に営ませるための教育なのかもふと\n[[愚行権]]的にはこれ以上望まない方が良さそう",
+      "preview": "一旦ここの連載でサラッと[[個人心理学]]が知れる\n- https://japan-adler.org/wp/wp-content/uploads/database/001_01_noda.pdf\n- https://japan-adler.org/wp/wp-content/uploads/database/001_02_noda.pdf",
+      "modifiedAt": 1773479333000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "健常者エミュレータ事例集.md",
       "slug": "健常者エミュレータ事例集",
       "title": "健常者エミュレータ事例集",
@@ -3477,7 +3497,7 @@
       "content": "<!-- updated: 2026-02-10T22:19:40 -->\n#public\nhttps://ja.wikipedia.org/wiki/%E6%84%9A%E8%A1%8C%E6%A8%A9\n\n光文社古典新訳文庫版の[[自由論]]を読んだけど、こんな感じの文意の話はあったけど直接この単語は出てこなかった気がする\n相手の行動への干渉が正当化されるのは自衛が理由の時だけみたいな\n",
       "preview": "https://ja.wikipedia.org/wiki/%E6%84%9A%E8%A1%8C%E6%A8%A9\n光文社古典新訳文庫版の[[自由論]]を読んだけど、こんな感じの文意の話はあったけど直接この単語は出てこなかった気がする\n相手の行動への干渉が正当化されるのは自衛が理由の時だけみたいな",
       "modifiedAt": 1770729580000,
-      "linkCount": 0,
+      "linkCount": 1,
       "thumbnailUrl": null
     },
     {
@@ -3598,7 +3618,7 @@
       "content": "<!-- updated: 2026-03-10T21:46:49 -->\n#public\nhttps://ja.wikipedia.org/wiki/%E7%84%A1%E9%99%90%E5%BE%8C%E9%80%80\n\n>ものごとの説明または正当化を行う際、終点が来ずに同一の形の説明や正当化が、連鎖して無限に続くこと\n\n結構後退していくとなんで生きてるのかとかに行き着きがちでこれは衛生的に良くない気がするので、どっかで止めるべきだよね～\n[[楽しいから|楽しいからやる]]にたどり着いたらそこで止めていい気がする",
       "preview": "https://ja.wikipedia.org/wiki/%E7%84%A1%E9%99%90%E5%BE%8C%E9%80%80\n>ものごとの説明または正当化を行う際、終点が来ずに同一の形の説明や正当化が、連鎖して無限に続くこと\n結構後退していくとなんで生きてるのかとかに行き着きがちでこれは衛生的に良くない気がするので、どっかで止めるべきだよね～",
       "modifiedAt": 1773146809000,
-      "linkCount": 0,
+      "linkCount": 1,
       "thumbnailUrl": null
     },
     {
@@ -3655,10 +3675,10 @@
       "name": "脳の針.md",
       "slug": "脳の針",
       "title": "脳の針",
-      "content": "<!-- updated: 2026-02-08T21:25:26 -->\n#public\n[https://scrapbox.io/yozba/%E8%84%B3%E3%81%AE%E9%87%9D /yozba/脳の針]\n\n[tw https://x.com/Natsu_main/status/1952342595956621779?s=20]\n\n読み手によっては脳に刺さっている針を抜く本\n- 嫌われる勇気\n- [[中田考]]\n  -  13歳からの世界征服\n  - みんなちがって、みんなダメ",
+      "content": "<!-- updated: 2026-03-14T15:27:00 -->\n#public\n[https://scrapbox.io/yozba/%E8%84%B3%E3%81%AE%E9%87%9D /yozba/脳の針]\n\n[tw https://x.com/Natsu_main/status/1952342595956621779?s=20]\n\n読み手によっては脳に刺さっている針を抜く本\n- [[嫌われる勇気]]\n- [[中田考]]\n  -  13歳からの世界征服\n  - みんなちがって、みんなダメ",
       "preview": "[https://scrapbox.io/yozba/%E8%84%B3%E3%81%AE%E9%87%9D /yozba/脳の針]\n[tw https://x.com/Natsu_main/status/1952342595956621779?s=20]\n読み手によっては脳に刺さっている針を抜く本",
-      "modifiedAt": 1770553526000,
-      "linkCount": 2,
+      "modifiedAt": 1773469620000,
+      "linkCount": 3,
       "thumbnailUrl": null
     },
     {
@@ -4635,6 +4655,7 @@
         "preview": "[img https://upload.wikimedia.org/wikipedia/commons/b/bc/Avalonia_logo.svg]\nhttps://avaloniaui.net/\n[[Open source]] な [[Cross-platform]] [[.NET]] UI フレームワーク"
       }
     ],
+    "Slidev": [],
     "SmoothCSV": [],
     "Soda City Funk": [],
     "Someday": [],
@@ -4920,6 +4941,7 @@
       }
     ],
     "人間の作為が施された仕組みを今まさにコンピュータが処理して出力され続けている映像": [],
+    "個人心理学": [],
     "健常者エミュレータ事例集": [],
     "地図投影法の一覧": [],
     "壁に跳ね返る": [],
@@ -4967,7 +4989,13 @@
     "思考の深度": [],
     "恋をするとテクノなんて聞いてられない": [],
     "恋愛サーキュレーションbyレゾナンツ児童合唱団_＠EXPO2025": [],
-    "愚行権": [],
+    "愚行権": [
+      {
+        "slug": "個人心理学",
+        "title": "個人心理学",
+        "preview": "一旦ここの連載でサラッと[[個人心理学]]が知れる\n- https://japan-adler.org/wp/wp-content/uploads/database/001_01_noda.pdf\n- https://japan-adler.org/wp/wp-content/uploads/database/001_02_noda.pdf"
+      }
+    ],
     "数年単位で見返しがちなアニメ": [],
     "明かすこと - 20260228": [],
     "書くことを楽しむ": [],
@@ -4977,7 +5005,7 @@
       {
         "slug": "Optimistic nihilism",
         "title": "Optimistic nihilism",
-        "preview": "[yt https://www.youtube.com/watch?v=MBRqu0YOH14]\nOptimistic , 楽観的\nまあ大体これなのかも"
+        "preview": "[yt https://www.youtube.com/watch?v=MBRqu0YOH14]\n[[Kurzgesagt]] のビデオエッセイ、普通にちょっと怖かった\nOptimistic , 楽観的"
       },
       {
         "slug": "シニフィアン _ シニフィエ",
@@ -5016,7 +5044,13 @@
     "決定木": [],
     "流転光速": [],
     "無知自慢": [],
-    "無限後退": [],
+    "無限後退": [
+      {
+        "slug": "個人心理学",
+        "title": "個人心理学",
+        "preview": "一旦ここの連載でサラッと[[個人心理学]]が知れる\n- https://japan-adler.org/wp/wp-content/uploads/database/001_01_noda.pdf\n- https://japan-adler.org/wp/wp-content/uploads/database/001_02_noda.pdf"
+      }
+    ],
     "生活core": [],
     "知識の呪い": [
       {
@@ -5038,6 +5072,11 @@
         "slug": "ジーンとミーム",
         "title": "ジーンとミーム",
         "preview": "https://note.com/2r96/n/n2160858758e7\n[[フロクロ]]の記事\nジーンを残したい ← 生物的な欲動"
+      },
+      {
+        "slug": "個人心理学",
+        "title": "個人心理学",
+        "preview": "一旦ここの連載でサラッと[[個人心理学]]が知れる\n- https://japan-adler.org/wp/wp-content/uploads/database/001_01_noda.pdf\n- https://japan-adler.org/wp/wp-content/uploads/database/001_02_noda.pdf"
       },
       {
         "slug": "完璧主義",
