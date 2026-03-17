@@ -207,7 +207,7 @@
       "content": "<!-- updated: 2026-01-17T18:51:50 -->\n#public\n[img https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Aphex_Twin_logo.svg/2048px-Aphex_Twin_logo.svg.png]\n\nhttps://www.furious.com/perfect/aphextwin.html\n> PSF: Another term that's been used to describe your work is 'intelligent dance music.'\n> I just think it's really funny to have terms like that. It's bascially saying 'this is intelligent and everything else is STUPID.' It's really nasty to everyone else's music. (laughs) It makes me laugh, things like that. I don't use names. I just say that I like something or I don't.",
       "preview": "[img https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Aphex_Twin_logo.svg/2048px-Aphex_Twin_logo.svg.png]\nhttps://www.furious.com/perfect/aphextwin.html\n> PSF: Another term that's been used to describe your work is 'intelligent dance music.'",
       "modifiedAt": 1768643510000,
-      "linkCount": 5,
+      "linkCount": 7,
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Aphex_Twin_logo.svg/2048px-Aphex_Twin_logo.svg.png"
     },
     {
@@ -751,6 +751,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/D2COWeeEqTs/mqdefault.jpg"
     },
     {
+      "name": "Donkey Rhubarb.md",
+      "slug": "Donkey Rhubarb",
+      "title": "Donkey Rhubarb",
+      "content": "<!-- updated: 2026-03-17T23:11:44 -->\n#public\n[yt https://www.youtube.com/watch?v=G0qV2t7JCAQ]\n\n[[Aphex Twin]]\n[[David Slade]]",
+      "preview": "[yt https://www.youtube.com/watch?v=G0qV2t7JCAQ]\n[[Aphex Twin]]\n[[David Slade]]",
+      "modifiedAt": 1773756704000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/G0qV2t7JCAQ/mqdefault.jpg"
+    },
+    {
       "name": "draw()_ _7 VJ 振り返り - 2026-02-15.md",
       "slug": "draw()_ _7 VJ 振り返り - 2026-02-15",
       "title": "draw(); #7 VJ 振り返り - 2026-02-15",
@@ -1151,6 +1161,16 @@
       "thumbnailUrl": "https://i.gyazo.com/e098ad72959ab3eb5ba91385699f51f3.jpg"
     },
     {
+      "name": "Hello Windows.md",
+      "slug": "Hello Windows",
+      "title": "Hello Windows",
+      "content": "<!-- updated: 2026-03-18T01:30:06 -->\n#public\n[img https://nicovideo.cdn.nimg.jp/thumbnails/2322242/2322242]\nhttps://www.nicovideo.jp/watch/sm2322242\n[[ヒゲドライバー]]\n",
+      "preview": "[img https://nicovideo.cdn.nimg.jp/thumbnails/2322242/2322242]\nhttps://www.nicovideo.jp/watch/sm2322242\n[[ヒゲドライバー]]",
+      "modifiedAt": 1773765006000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2322242/2322242"
+    },
+    {
       "name": "Hexler.md",
       "slug": "Hexler",
       "title": "Hexler",
@@ -1344,9 +1364,9 @@
       "name": "Keijiro Takahashi.md",
       "slug": "Keijiro Takahashi",
       "title": "Keijiro Takahashi",
-      "content": "<!-- updated: 2026-01-25T15:55:42 -->\n#public\nhttps://www.keijiro.tokyo/\n\n[[Unity]] で [[Audiovisual]] パフォーマンスやるための便利なパッケージをいっぱい作っている",
-      "preview": "https://www.keijiro.tokyo/\n[[Unity]] で [[Audiovisual]] パフォーマンスやるための便利なパッケージをいっぱい作っている",
-      "modifiedAt": 1769324142000,
+      "content": "<!-- updated: 2026-03-17T22:47:15 -->\n#public\nhttps://www.keijiro.tokyo/\n\n[[Unity]] で [[Audiovisual]] パフォーマンスやるための便利なパッケージをいっぱい作っている\n\nhttps://dic.nicovideo.jp/a/%E3%82%88%E3%82%88p\nおもれい\n[[M4TC: Derived]] どうにかして手に入れたい",
+      "preview": "https://www.keijiro.tokyo/\n[[Unity]] で [[Audiovisual]] パフォーマンスやるための便利なパッケージをいっぱい作っている\nhttps://dic.nicovideo.jp/a/%E3%82%88%E3%82%88p",
+      "modifiedAt": 1773755235000,
       "linkCount": 4,
       "thumbnailUrl": null
     },
@@ -1389,6 +1409,16 @@
       "modifiedAt": 1768646900000,
       "linkCount": 0,
       "thumbnailUrl": null
+    },
+    {
+      "name": "Let Forever Be.md",
+      "slug": "Let Forever Be",
+      "title": "Let Forever Be",
+      "content": "<!-- updated: 2026-03-17T22:54:13 -->\n#public\n[yt https://www.youtube.com/watch?v=s5FyfQDO5g0]\n\n[[The Chemical Brothers]]\n[[Michel Gondry]]",
+      "preview": "[yt https://www.youtube.com/watch?v=s5FyfQDO5g0]\n[[The Chemical Brothers]]\n[[Michel Gondry]]",
+      "modifiedAt": 1773755653000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/s5FyfQDO5g0/mqdefault.jpg"
     },
     {
       "name": "Level playing field.md",
@@ -1739,6 +1769,16 @@
       "modifiedAt": 1769880788000,
       "linkCount": 1,
       "thumbnailUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1150690/header.jpg?t=1671584768"
+    },
+    {
+      "name": "On.md",
+      "slug": "On",
+      "title": "On",
+      "content": "<!-- updated: 2026-03-17T23:01:46 -->\n#public\n[yt https://www.youtube.com/watch?v=38RMZ9H7Cg8]\n\n[[Aphex Twin]]\n[[Jarvis Cocker]]",
+      "preview": "[yt https://www.youtube.com/watch?v=38RMZ9H7Cg8]\n[[Aphex Twin]]\n[[Jarvis Cocker]]",
+      "modifiedAt": 1773756106000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/38RMZ9H7Cg8/mqdefault.jpg"
     },
     {
       "name": "Oneohtrix Point Never.md",
@@ -4011,6 +4051,16 @@
         "preview": "[yt https://www.youtube.com/watch?v=e_Ue_P7vcRE]\n[[Aphex Twin]]\n[[Weirdcore]] , [[Alfie Dwyer]]"
       },
       {
+        "slug": "Donkey Rhubarb",
+        "title": "Donkey Rhubarb",
+        "preview": "[yt https://www.youtube.com/watch?v=G0qV2t7JCAQ]\n[[Aphex Twin]]\n[[David Slade]]"
+      },
+      {
+        "slug": "On",
+        "title": "On",
+        "preview": "[yt https://www.youtube.com/watch?v=38RMZ9H7Cg8]\n[[Aphex Twin]]\n[[Jarvis Cocker]]"
+      },
+      {
         "slug": "Rubber Johnny",
         "title": "Rubber Johnny",
         "preview": "[yt https://www.youtube.com/watch?v=eRvfxWRi6qQ]\n[[Chris Cunningham]]\n[[Aphex Twin]]"
@@ -4239,6 +4289,7 @@
     ],
     "dj newtown - silky heart": [],
     "Domain": [],
+    "Donkey Rhubarb": [],
     "draw()_ _7 VJ 振り返り - 2026-02-15": [],
     "draw()_ について言及のある記事": [],
     "draw()_": [
@@ -4318,6 +4369,7 @@
     "Hazelight Studios": [],
     "healthy spread": [],
     "Height Map to Normal Map": [],
+    "Hello Windows": [],
     "Hexler": [
       {
         "slug": "Algorave Tokyo - 2017-12-22",
@@ -4408,6 +4460,7 @@
       }
     ],
     "Learning Synths": [],
+    "Let Forever Be": [],
     "Level playing field": [],
     "Limen": [],
     "Line jumps": [],
@@ -4509,6 +4562,7 @@
         "preview": "[yt https://www.youtube.com/watch?v=qHnyyAOwfd8]\n[[람다람]]\n[[OMORI]] のファンムービー"
       }
     ],
+    "On": [],
     "Oneohtrix Point Never": [
       {
         "slug": "Measuring Ruins",
