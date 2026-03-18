@@ -1164,9 +1164,9 @@
       "name": "Hello Windows.md",
       "slug": "Hello Windows",
       "title": "Hello Windows",
-      "content": "<!-- updated: 2026-03-18T01:30:06 -->\n#public\n[img https://nicovideo.cdn.nimg.jp/thumbnails/2322242/2322242]\nhttps://www.nicovideo.jp/watch/sm2322242\n[[ヒゲドライバー]]\n",
+      "content": "<!-- updated: 2026-03-18T22:58:08 -->\n#public\n[img https://nicovideo.cdn.nimg.jp/thumbnails/2322242/2322242]\nhttps://www.nicovideo.jp/watch/sm2322242\n[[ヒゲドライバー]]\n\n[[ohigeCat]] による Remix\nhttps://soundcloud.com/ohigecat-1/hello-windowsohigecat-bootleg\n[yt https://youtu.be/a9CezWTZFUk?si=XPAZaPJPcO70oCN8&t=2102]\n[[draw(tokyo);]] での [[Technoboo]] のパフォーマンスが神がかってる\n[[Sigria]] ニキの笑顔\n",
       "preview": "[img https://nicovideo.cdn.nimg.jp/thumbnails/2322242/2322242]\nhttps://www.nicovideo.jp/watch/sm2322242\n[[ヒゲドライバー]]",
-      "modifiedAt": 1773765006000,
+      "modifiedAt": 1773842288000,
       "linkCount": 0,
       "thumbnailUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/2322242/2322242"
     },
@@ -1579,6 +1579,16 @@
       "modifiedAt": 1768650915000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/GiaD7WSdb4M/mqdefault.jpg"
+    },
+    {
+      "name": "MIME type.md",
+      "slug": "MIME type",
+      "title": "MIME type",
+      "content": "<!-- updated: 2026-03-18T21:11:08 -->\n#public\nhttps://www.tohoho-web.com/wwwxx015.htm\n\nhttps://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%BF%E3%82%A4%E3%83%97\n\n[[HTTP]] のヘッダーに Content-Type があるのは URL だけじゃなんの情報か分かんないから",
+      "preview": "https://www.tohoho-web.com/wwwxx015.htm\nhttps://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%BF%E3%82%A4%E3%83%97\n[[HTTP]] のヘッダーに Content-Type があるのは URL だけじゃなんの情報か分かんないから",
+      "modifiedAt": 1773835868000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "Mine or Yours (Bella Boo Remix).md",
@@ -2329,6 +2339,16 @@
       "modifiedAt": 1770611424000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/vRL8kf-N_S8/mqdefault.jpg"
+    },
+    {
+      "name": "The Internet Archive.md",
+      "slug": "The Internet Archive",
+      "title": "The Internet Archive",
+      "content": "<!-- updated: 2026-03-18T22:20:27 -->\n#public\nhttps://archive.org/\n\nhttps://www.flickr.com/people/internetarchivebookimages/\n ここのやつは無料で商用利用可能らしい\n- https://www.flickr.com/photos/internetarchivebookimages/\n\nhttps://archive.org/details/vj_loops\n使えるやつはちゃんと書いてある\n[img https://i.gyazo.com/33a8411f1e49c51e64ebadba2996762e.png]\n使える（権利的に）やつ、使える（使用感的に）かは置いといて\n- https://archive.org/details/14_free_vj_clips_by_Mo_Selle/14_free_vj_clips_by_Mo_Selle/\n- https://archive.org/details/vjmorph_pack1/\n- https://archive.org/details/AdamJay_VJ_Clips/\n- https://archive.org/details/abstract_vj_clips/\n- https://archive.org/details/VJ_LoopsPack01/\n- https://archive.org/details/VjmorphVjLoops5\n- https://archive.org/details/TextureLoopsCreatedWithAxogonMutator_727\n- https://archive.org/details/davidthevjsfreeloops\n- https://archive.org/details/Architectsoftomorrowvjclipsnew\n- https://archive.org/details/VjmorphVjLoopsdecrecypack\n- https://archive.org/details/BerlinLoops2008/\n- https://archive.org/details/Glitchy_Colourspace_VJ_Clips\n- https://archive.org/details/hollowsphere_loop1/\n- https://archive.org/details/usloops/\n- https://archive.org/details/vjmorph_pack3\n- https://archive.org/details/delaymask_video_loops\n- https://archive.org/details/VJ_Lambency_Free_VJ_Loops/",
+      "preview": "https://archive.org/\nhttps://www.flickr.com/people/internetarchivebookimages/\n ここのやつは無料で商用利用可能らしい",
+      "modifiedAt": 1773840027000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://i.gyazo.com/33a8411f1e49c51e64ebadba2996762e.png"
     },
     {
       "name": "The Law of Leaky Abstractions.md",
@@ -4498,6 +4518,7 @@
       }
     ],
     "meow mix": [],
+    "MIME type": [],
     "Mine or Yours (Bella Boo Remix)": [],
     "Moleman 2 - Demoscene - The Art of the Algorithms": [],
     "my terminal": [],
@@ -4752,6 +4773,7 @@
     "Terminal Slam": [],
     "Testing": [],
     "Texas": [],
+    "The Internet Archive": [],
     "The Law of Leaky Abstractions": [],
     "The Offspring": [
       {
