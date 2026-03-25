@@ -1562,6 +1562,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "Cognitive miser.md",
+      "slug": "Cognitive miser",
+      "title": "Cognitive miser",
+      "content": "<!-- updated: 2026-03-25T21:44:07 -->\n#public\n認知的けち\n\nhttps://en.wikipedia.org/wiki/Cognitive_miser\n\nhttps://www.mlit.go.jp/koku/content/001726154.pdf\n> 人間は負荷が小さく、スピーディな認知を選好する(認知のデフォルト)\n\nかといって全てを正しく意識するのは疲れるのでどっかで間引く必要がある\n疲れる以前に不可能",
+      "preview": "認知的けち\nhttps://en.wikipedia.org/wiki/Cognitive_miser\nhttps://www.mlit.go.jp/koku/content/001726154.pdf",
+      "modifiedAt": 1774442647000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "にゆにゆ（ガキ）.md",
       "slug": "にゆにゆ（ガキ）",
       "title": "にゆにゆ（ガキ）",
@@ -2892,6 +2902,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "ReSharper _ Type Dependency Diagram.md",
+      "slug": "ReSharper _ Type Dependency Diagram",
+      "title": "ReSharper : Type Dependency Diagram",
+      "content": "<!-- updated: 2026-03-25T22:02:50 -->\n<!-- title: ReSharper : Type Dependency Diagram -->\n#public\nかなりこれでいいな\nもう [[Mermaid]] や [[PlantUML]] でクラス図書かなくていいかも\n着工前の計画では書いてもいい\n\nhttps://qiita.com/mhama/items/e93a15ff3ba873a8ec71\n\n[[Rider]] での利用\n[img https://i.gyazo.com/bc82ae2c0f2ce9e334be5a9f9ec1f381.png]\nフォルダ、ファイルを選択し右クリックでこれが出る\n選択したやつだけの図が出るの偉い\n[img https://i.gyazo.com/43730a8b3974a0d3703f1213f3988750.png]\nデフォルトだと色々出るけど左から2, 3番目だけオンにしとけばいい、 usage と inheritance なので",
+      "preview": "かなりこれでいいな\nもう [[Mermaid]] や [[PlantUML]] でクラス図書かなくていいかも\n着工前の計画では書いてもいい",
+      "modifiedAt": 1774443770000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://i.gyazo.com/bc82ae2c0f2ce9e334be5a9f9ec1f381.png"
+    },
+    {
       "name": "GOTCHA！.md",
       "slug": "GOTCHA！",
       "title": "GOTCHA！",
@@ -3030,6 +3050,16 @@
       "modifiedAt": 1769957130000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/q6EoRBvdVPQ/mqdefault.jpg"
+    },
+    {
+      "name": "Delayed gratification.md",
+      "slug": "Delayed gratification",
+      "title": "Delayed gratification",
+      "content": "<!-- updated: 2026-03-25T21:57:21 -->\n#public\nhttps://en.wikipedia.org/wiki/Delayed_gratification\n\nめっちゃ [[Slay the Spire]]\nというかローグライト？\n\n日本語 Wikipedia の訳が満足遅延だけどどうなんや\n遅延報酬でよくない？\n\nかといってこれにこだわりすぎて今を楽しめないのもねぇ",
+      "preview": "https://en.wikipedia.org/wiki/Delayed_gratification\nめっちゃ [[Slay the Spire]]\nというかローグライト？",
+      "modifiedAt": 1774443441000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "大合奏！バンドブラザーズＰ.md",
@@ -4442,6 +4472,7 @@
     "庭整備": [],
     "ハウトゥー世界征服": [],
     "Windows _ イベント ビューアー": [],
+    "Cognitive miser": [],
     "にゆにゆ（ガキ）": [],
     "まあまあまあまあまあ": [],
     "ATA": [],
@@ -4947,6 +4978,7 @@
     "あたらしいたましい": [],
     "飯島ゆんのようにしか生きられない": [],
     "地図投影法の一覧": [],
+    "ReSharper _ Type Dependency Diagram": [],
     "GOTCHA！": [],
     "Mad Hope": [],
     "山口駿": [
@@ -4988,6 +5020,7 @@
     "にゆにゆ3": [],
     "SmoothCSV": [],
     "Yee": [],
+    "Delayed gratification": [],
     "大合奏！バンドブラザーズＰ": [
       {
         "slug": "Starlight",
