@@ -14,9 +14,9 @@
       "name": "The Internet Archive.md",
       "slug": "The Internet Archive",
       "title": "The Internet Archive",
-      "content": "<!-- updated: 2026-03-18T22:20:27 -->\n#public\nhttps://archive.org/\n\nhttps://www.flickr.com/people/internetarchivebookimages/\n ここのやつは無料で商用利用可能らしい\n- https://www.flickr.com/photos/internetarchivebookimages/\n\nhttps://archive.org/details/vj_loops\n使えるやつはちゃんと書いてある\n[img https://i.gyazo.com/33a8411f1e49c51e64ebadba2996762e.png]\n使える（権利的に）やつ、使える（使用感的に）かは置いといて\n- https://archive.org/details/14_free_vj_clips_by_Mo_Selle/14_free_vj_clips_by_Mo_Selle/\n- https://archive.org/details/vjmorph_pack1/\n- https://archive.org/details/AdamJay_VJ_Clips/\n- https://archive.org/details/abstract_vj_clips/\n- https://archive.org/details/VJ_LoopsPack01/\n- https://archive.org/details/VjmorphVjLoops5\n- https://archive.org/details/TextureLoopsCreatedWithAxogonMutator_727\n- https://archive.org/details/davidthevjsfreeloops\n- https://archive.org/details/Architectsoftomorrowvjclipsnew\n- https://archive.org/details/VjmorphVjLoopsdecrecypack\n- https://archive.org/details/BerlinLoops2008/\n- https://archive.org/details/Glitchy_Colourspace_VJ_Clips\n- https://archive.org/details/hollowsphere_loop1/\n- https://archive.org/details/usloops/\n- https://archive.org/details/vjmorph_pack3\n- https://archive.org/details/delaymask_video_loops\n- https://archive.org/details/VJ_Lambency_Free_VJ_Loops/",
-      "preview": "https://archive.org/\nhttps://www.flickr.com/people/internetarchivebookimages/\n ここのやつは無料で商用利用可能らしい",
-      "modifiedAt": 1773840027000,
+      "content": "<!-- updated: 2026-03-27T03:59:20 -->\n#public\nhttps://archive.org/\n\n ここのやつは無料で商用利用可能らしい\nhttps://www.flickr.com/photos/internetarchivebookimages/\n\nhttps://archive.org/details/vj_loops\n使えるやつはちゃんと書いてある\n[img https://i.gyazo.com/33a8411f1e49c51e64ebadba2996762e.png]\n使える（権利的に）やつ、使える（使用感的に）かは置いといて\n- https://archive.org/details/14_free_vj_clips_by_Mo_Selle/14_free_vj_clips_by_Mo_Selle/\n- https://archive.org/details/vjmorph_pack1/\n- https://archive.org/details/AdamJay_VJ_Clips/\n- https://archive.org/details/abstract_vj_clips/\n- https://archive.org/details/VJ_LoopsPack01/\n- https://archive.org/details/VjmorphVjLoops5\n- https://archive.org/details/TextureLoopsCreatedWithAxogonMutator_727\n- https://archive.org/details/davidthevjsfreeloops\n- https://archive.org/details/Architectsoftomorrowvjclipsnew\n- https://archive.org/details/VjmorphVjLoopsdecrecypack\n- https://archive.org/details/BerlinLoops2008/\n- https://archive.org/details/Glitchy_Colourspace_VJ_Clips\n- https://archive.org/details/hollowsphere_loop1/\n- https://archive.org/details/usloops/\n- https://archive.org/details/vjmorph_pack3\n- https://archive.org/details/delaymask_video_loops\n- https://archive.org/details/VJ_Lambency_Free_VJ_Loops/",
+      "preview": "https://archive.org/\n ここのやつは無料で商用利用可能らしい\nhttps://www.flickr.com/photos/internetarchivebookimages/",
+      "modifiedAt": 1774551560000,
       "linkCount": 0,
       "thumbnailUrl": "https://i.gyazo.com/33a8411f1e49c51e64ebadba2996762e.png"
     },
@@ -1672,6 +1672,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/9yWPB9MnbIE/mqdefault.jpg"
     },
     {
+      "name": "The Book of Shaders.md",
+      "slug": "The Book of Shaders",
+      "title": "The Book of Shaders",
+      "content": "<!-- updated: 2026-03-26T21:45:48 -->\n#public\nhttps://thebookofshaders.com/?lan=jp\n\n日本語訳は [[kynd]] さん",
+      "preview": "https://thebookofshaders.com/?lan=jp\n日本語訳は [[kynd]] さん",
+      "modifiedAt": 1774529148000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "TiddlyWiki.md",
       "slug": "TiddlyWiki",
       "title": "TiddlyWiki",
@@ -2310,6 +2320,16 @@
       "modifiedAt": 1770484443000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/_3Pkubty3QU/mqdefault.jpg"
+    },
+    {
+      "name": "圏論とコード.md",
+      "slug": "圏論とコード",
+      "title": "圏論とコード",
+      "content": "<!-- updated: 2026-03-26T21:43:07 -->\n#public\nhttps://kyndinfo.notion.site/Category-Theory-and-Code-2da019e814cf8023aa58d9e2fd53c315\n[[kynd]] さんによるコードを用いた[[圏論]]の解説\n\n以下雑なメモ\n\n具体的にそれがなにかは置いといて関係性に注目する\n\n対象と射\n\n命題を点、証明を矢印で表すのおもろい\n\n射の合成と恒等射が成立すれば圏らしい\n\n> 繰り返しになりますが圏論では具体的なものは無視して、射によって示される関係だけに注目し、矢印の構造が同じであれば実質的に同じものとして扱います。例えば、もしある未知の命題 X があって、それが二等辺三角形と全く同じ矢印の出入りを持っているなら、その X は実質的に「二等辺三角形と同等なもの」として扱えます。\nめっちゃインターフェース？\n\nどんな2つを比べても必ず順位がつく（一直線に並ぶ）」のが全順序で、「比較できるものもあるが、そもそも無関係（比較不能）なものも許容する（枝分かれする）」のが半順序\n\n代入可能であるを射とするときに [[Duck typing]] を採用するものが前順序で、 Nominal typing を採用するものが半順序\n前者 [[TypeScript]] とか、 後者 [[CSharp]] とか\n\n混乱しそうになったら射を強く意識する\n\n集合は対象だけ、圏は対象と射がある\nシンプルに対象の関係性を意識しないのが集合といった感じかな\nちなみに自分から自分への射が圏には必要（恒等射）なので射が１つもない圏はあり得ない\n集合の要素を対象という言い方はしないかもだけど\n\n1つの圏には1つの射の定義じゃないと射の合成が成立しなくて詰む、異なる射同士の圏は関手でつなぐらしい\n\nまあともあれふわっと理解、活用してるものをちゃんと理論立てて考え抜いてくれてありがとうだなぁ\n順番で言うと逆だけどね、考え抜かれたものを応用したものをちゃんと言語化しなくても使えてるという状態があるだけですね \n\n型システム",
+      "preview": "https://kyndinfo.notion.site/Category-Theory-and-Code-2da019e814cf8023aa58d9e2fd53c315\n[[kynd]] さんによるコードを用いた[[圏論]]の解説\n以下雑なメモ",
+      "modifiedAt": 1774528987000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "デカいという面白さ.md",
@@ -3792,6 +3812,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/OZJERhc4Zqo/mqdefault.jpg"
     },
     {
+      "name": "Blend Slipknot.md",
+      "slug": "Blend Slipknot",
+      "title": "Blend Slipknot",
+      "content": "<!-- updated: 2026-03-26T23:59:28 -->\n#public\n[yt https://www.youtube.com/watch?v=4j9xw-D38cE]\n\n断然こっち派閥",
+      "preview": "[yt https://www.youtube.com/watch?v=4j9xw-D38cE]\n断然こっち派閥",
+      "modifiedAt": 1774537168000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/4j9xw-D38cE/mqdefault.jpg"
+    },
+    {
       "name": "え～～～とつまりVJは・・・曲に合わせてリアルタイムで映像を編集する・・・・・・・・・人？.md",
       "slug": "え～～～とつまりVJは・・・曲に合わせてリアルタイムで映像を編集する・・・・・・・・・人？",
       "title": "え～～～とつまりVJは・・・曲に合わせてリアルタイムで映像を編集する・・・・・・・・・人？",
@@ -4489,6 +4519,7 @@
     "非同期テキストベースターン制コミュニケーション": [],
     "流転光速": [],
     "Computer Graphics Demonstration Tape": [],
+    "The Book of Shaders": [],
     "TiddlyWiki": [],
     "healthy spread": [],
     "draw()_ について言及のある記事": [],
@@ -4796,6 +4827,7 @@
       }
     ],
     "Back to Body": [],
+    "圏論とコード": [],
     "デカいという面白さ": [],
     "Pretty Fly (For A White Guy)": [
       {
@@ -5265,6 +5297,7 @@
     "PAPERS": [],
     "シェル": [],
     "azumanga click house": [],
+    "Blend Slipknot": [],
     "え～～～とつまりVJは・・・曲に合わせてリアルタイムで映像を編集する・・・・・・・・・人？": [],
     "してる感": [],
     "RFCにおいて要請の程度を示すために用いるキーワード": [],
