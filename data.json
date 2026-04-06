@@ -221,6 +221,16 @@
       "thumbnailUrl": "https://pbs.twimg.com/media/GDO9tm7aQAE1Q0A.jpg"
     },
     {
+      "name": "魔法少女まどか_マギカ.md",
+      "slug": "魔法少女まどか_マギカ",
+      "title": "魔法少女まどか☆マギカ",
+      "content": "<!-- updated: 2026-04-07T01:08:12 -->\n<!-- title: 魔法少女まどか☆マギカ -->\n#public\n[img https://i.gyazo.com/f033dd8ea71ce4f5e0a778821269801c.png]\n監督 : [[新房昭之]]\n脚本 : [[虚淵玄]]\nキャラクター原案 : [[蒼樹うめ]]\n魔女空間設計 : [[劇団イヌカレー]]\nアニメーション制作 : [[シャフト]]\n\nめんつすご",
+      "preview": "[img https://i.gyazo.com/f033dd8ea71ce4f5e0a778821269801c.png]\n監督 : [[新房昭之]]\n脚本 : [[虚淵玄]]",
+      "modifiedAt": 1775491692000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://i.gyazo.com/f033dd8ea71ce4f5e0a778821269801c.png"
+    },
+    {
       "name": "SHIROBAKO.md",
       "slug": "SHIROBAKO",
       "title": "SHIROBAKO",
@@ -239,6 +249,16 @@
       "modifiedAt": 1771947300000,
       "linkCount": 0,
       "thumbnailUrl": "https://pbs.twimg.com/media/Dxp6QZVUUAAxHCa.jpg?name=orig"
+    },
+    {
+      "name": "言語化が良くないのではなく、一度言語化したものは訂正不可能という認識が良くない.md",
+      "slug": "言語化が良くないのではなく、一度言語化したものは訂正不可能という認識が良くない",
+      "title": "言語化が良くないのではなく、一度言語化したものは訂正不可能という認識が良くない",
+      "content": "<!-- updated: 2026-03-30T21:10:16 -->\n#public\n多分そう\n\n[[超越論的なんちゃってビリティ]]でも言ってると思うけど訂正可能性が言語を言語たらしめるだろうし\nいくらでも後から訂正していいんじゃね\nというか経験が溜まってくことで思考や意見なんてコロコロ変わるだろうしめちゃくちゃ動的なものじゃないか\n\nそう思うと「公開する」ボタンとかがある文章共有サービスってどうなんすかね、もっと気軽に編集と公開が出来るとうれしい気がする\nサービスによって静的なものだと認識するメンタルモデルが形成されそう\n\n[https://scrapbox.io/shokai/%E6%AD%BB%E3%82%93%E3%81%A0%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E7%BD%AE%E3%81%84%E3%81%A6%E3%81%8A%E3%81%8F%E5%80%89%E5%BA%AB%E3%81%AB%E3%81%97%E3%81%AA%E3%81%84 /shokai/死んだテキストを置いておく倉庫にしない]",
+      "preview": "多分そう\n[[超越論的なんちゃってビリティ]]でも言ってると思うけど訂正可能性が言語を言語たらしめるだろうし\nいくらでも後から訂正していいんじゃね",
+      "modifiedAt": 1774872616000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "福祉としてのコンテンツ.md",
@@ -504,10 +524,10 @@
       "name": "超越論的なんちゃってビリティ.md",
       "slug": "超越論的なんちゃってビリティ",
       "title": "超越論的なんちゃってビリティ",
-      "content": "<!-- updated: 2026-01-17T17:58:09 -->\n#public\nhttps://ja.wikipedia.org/wiki/%E8%B6%85%E8%B6%8A%E8%AB%96%E7%9A%84%E3%81%AA%E3%82%93%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3\n\nどんな会話でも最後に「なんちゃって」に相当する言葉で締めると冗談になることが言語行為を言語行為たらしめるのではみたいな\n\nピンと来てないけど、これに名前あるのおもろいし、名前がおもろい\n論文読もう\nhttps://www.jstage.jst.go.jp/article/philosophy1952/1990/40/1990_40_19/_pdf/-char/ja\n[[ToDo]]\n\nそれはそうと「なんちゃって」は[[免罪符]]でもなんでもないよ\nこれを使用したからって冗談が容認されるわけではありません\n冗談だからって普通に言わない方が良いこともあります",
-      "preview": "https://ja.wikipedia.org/wiki/%E8%B6%85%E8%B6%8A%E8%AB%96%E7%9A%84%E3%81%AA%E3%82%93%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3\nどんな会話でも最後に「なんちゃって」に相当する言葉で締めると冗談になることが言語行為を言語行為たらしめるのではみたいな\nピンと来てないけど、これに名前あるのおもろいし、名前がおもろい",
-      "modifiedAt": 1768640289000,
-      "linkCount": 0,
+      "content": "<!-- updated: 2026-03-30T21:12:59 -->\n#public\nhttps://ja.wikipedia.org/wiki/%E8%B6%85%E8%B6%8A%E8%AB%96%E7%9A%84%E3%81%AA%E3%82%93%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3\n\nどんな会話でも最後に「なんちゃって」に相当する言葉で締めると冗談になることが言語行為を言語行為たらしめるのではみたいな\n\nこれに名前あるのおもろいし、名前がおもろい\n論文読もう\nhttps://www.jstage.jst.go.jp/article/philosophy1952/1990/40/1990_40_19/_pdf/-char/ja\n[[ToDo]]\n\nそれはそうと「なんちゃって」は[[免罪符]]でもなんでもないよ\nこれを使用したからって冗談が容認されるわけではありません\n冗談だからって普通に言わない方が良いこともあります",
+      "preview": "https://ja.wikipedia.org/wiki/%E8%B6%85%E8%B6%8A%E8%AB%96%E7%9A%84%E3%81%AA%E3%82%93%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3\nどんな会話でも最後に「なんちゃって」に相当する言葉で締めると冗談になることが言語行為を言語行為たらしめるのではみたいな\nこれに名前あるのおもろいし、名前がおもろい",
+      "modifiedAt": 1774872779000,
+      "linkCount": 1,
       "thumbnailUrl": null
     },
     {
@@ -889,6 +909,16 @@
       "modifiedAt": 1770727756000,
       "linkCount": 0,
       "thumbnailUrl": "https://pbs.twimg.com/media/HAx9Z-faAAQ1kAG.jpg?name=orig"
+    },
+    {
+      "name": "lilToon.md",
+      "slug": "lilToon",
+      "title": "lilToon",
+      "content": "<!-- updated: 2026-04-07T00:28:17 -->\n#public\nhttps://github.com/lilxyzw/lilToon\n\nhttps://lilxyzw.github.io/lilToon/\n\n",
+      "preview": "https://github.com/lilxyzw/lilToon\nhttps://lilxyzw.github.io/lilToon/",
+      "modifiedAt": 1775489297000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "Jitter.md",
@@ -1740,6 +1770,16 @@
       "modifiedAt": 1770618720000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/8T6zb3059P4/mqdefault.jpg"
+    },
+    {
+      "name": "Watchlist.md",
+      "slug": "Watchlist",
+      "title": "Watchlist",
+      "content": "<!-- updated: 2026-04-06T22:59:49 -->\n#public\n\n映画\n- [[アメリと雨の物語]]\n  - サブスクか dvd 来たら見たい\n- [[トリツカレ男]]\n- [[Trainspotting]]\n\n飯は google map\n\n本は Amazon\n\nゲームは steam\n",
+      "preview": "映画\n- [[アメリと雨の物語]]\n  - サブスクか dvd 来たら見たい",
+      "modifiedAt": 1775483989000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "Fibonacci Sequence.md",
@@ -3425,9 +3465,9 @@
       "name": "パリに咲くエトワール.md",
       "slug": "パリに咲くエトワール",
       "title": "パリに咲くエトワール",
-      "content": "<!-- updated: 2026-03-24T22:19:51 -->\n#public\nhttps://sh-anime.shochiku.co.jp/parieto-movie/\n\n監督 : [[谷口悟朗]]\n脚本 : [[吉田玲子]]\nキャラクター原案 : [[近藤勝也]]\n音楽 : [[服部隆之]]\nアニメーション制作 : [[アルボアニメーション]]\n\n他者の [[studious]] に感化されてたし\nメリトクラシーが人種のそれを越えてたし\n無駄のない起伏だったしで\n",
+      "content": "<!-- updated: 2026-03-30T21:17:30 -->\n#public\nhttps://sh-anime.shochiku.co.jp/parieto-movie/\n\n監督 : [[谷口悟朗]]\n脚本 : [[吉田玲子]]\nキャラクター原案 : [[近藤勝也]]\n音楽 : [[服部隆之]]\nアニメーション制作 : [[アルボアニメーション]]\n\n他者の [[studious]] に感化されてたし\nメリトクラシーが人種のそれを越えてたし\n無駄のない起伏だったしで\n\n例の 3D シーンは個が集団に溶け込むことを表しているのではという感想を観た、なるほどなどと",
       "preview": "https://sh-anime.shochiku.co.jp/parieto-movie/\n監督 : [[谷口悟朗]]\n脚本 : [[吉田玲子]]",
-      "modifiedAt": 1774358391000,
+      "modifiedAt": 1774873050000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -3480,6 +3520,16 @@
       "modifiedAt": 1770539333000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/-F_jyeRJJLY/mqdefault.jpg"
+    },
+    {
+      "name": "LTCGI.md",
+      "slug": "LTCGI",
+      "title": "LTCGI",
+      "content": "<!-- updated: 2026-04-06T23:49:51 -->\n#public\nhttps://github.com/pimaker/ltcgi\n\nhttps://booth.pm/ja/items/3657392\n\n[[Linearly Transformed Cosines]] による [[GI]]",
+      "preview": "https://github.com/pimaker/ltcgi\nhttps://booth.pm/ja/items/3657392\n[[Linearly Transformed Cosines]] による [[GI]]",
+      "modifiedAt": 1775486991000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "主役を降りる.md",
@@ -4061,6 +4111,7 @@
     ],
     "EMIX": [],
     "恋をするとテクノなんて聞いてられない": [],
+    "魔法少女まどか_マギカ": [],
     "SHIROBAKO": [
       {
         "slug": "数年単位で見返しがちなアニメ",
@@ -4069,6 +4120,7 @@
       }
     ],
     "ときにはジャンクの極致に触れ、 自らの高潔さを知る。": [],
+    "言語化が良くないのではなく、一度言語化したものは訂正不可能という認識が良くない": [],
     "福祉としてのコンテンツ": [],
     "QuomodocunquizE": [],
     "やってみる価値はありますぜ": [],
@@ -4113,7 +4165,13 @@
     "Nature of Code": [],
     "VRDG+H _1 - 2016-03-26": [],
     "biimシステム": [],
-    "超越論的なんちゃってビリティ": [],
+    "超越論的なんちゃってビリティ": [
+      {
+        "slug": "言語化が良くないのではなく、一度言語化したものは訂正不可能という認識が良くない",
+        "title": "言語化が良くないのではなく、一度言語化したものは訂正不可能という認識が良くない",
+        "preview": "多分そう\n[[超越論的なんちゃってビリティ]]でも言ってると思うけど訂正可能性が言語を言語たらしめるだろうし\nいくらでも後から訂正していいんじゃね"
+      }
+    ],
     "Moleman 2 - Demoscene - The Art of the Algorithms": [],
     "『チェンソーマン』9 巻発売記念スペシャルPV": [],
     "Flow": [
@@ -4199,6 +4257,7 @@
     "Corporate Memphis": [],
     "Gyazo": [],
     "イアンのナードコア大百科": [],
+    "lilToon": [],
     "Jitter": [
       {
         "slug": "ジェネ系VJの語源",
@@ -4532,6 +4591,7 @@
       }
     ],
     "過置換": [],
+    "Watchlist": [],
     "Fibonacci Sequence": [],
     "Jeff Mills": [],
     "Conspiracy": [
@@ -5180,6 +5240,7 @@
     "モーション周期表": [],
     "必要条件 _ 十分条件": [],
     "Hypnosis": [],
+    "LTCGI": [],
     "主役を降りる": [],
     "Everything is a Remix": [],
     "receptor": [],
