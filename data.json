@@ -41,6 +41,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/eRvfxWRi6qQ/mqdefault.jpg"
     },
     {
+      "name": "The City.md",
+      "slug": "The City",
+      "title": "The City",
+      "content": "<!-- updated: 2026-04-07T23:03:19 -->\n#public\n[yt https://www.youtube.com/watch?v=jZ7Pk3rBx4U]\n\n[[Five Years Older]]\n[[Dirk Koy]]\n\n2010 年公開ってマジ",
+      "preview": "[yt https://www.youtube.com/watch?v=jZ7Pk3rBx4U]\n[[Five Years Older]]\n[[Dirk Koy]]",
+      "modifiedAt": 1775570599000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/jZ7Pk3rBx4U/mqdefault.jpg"
+    },
+    {
       "name": "12 o'clocks.md",
       "slug": "12 o'clocks",
       "title": "12 o'clocks",
@@ -139,6 +149,16 @@
       "modifiedAt": 1770041147000,
       "linkCount": 6,
       "thumbnailUrl": "https://p5js.jp/assets/img/p5js.svg"
+    },
+    {
+      "name": "Love & Theft.md",
+      "slug": "Love & Theft",
+      "title": "Love & Theft",
+      "content": "<!-- updated: 2026-04-07T22:53:34 -->\n#public\n[yt https://www.youtube.com/watch?v=rEUxlwb2uFI]\n",
+      "preview": "[yt https://www.youtube.com/watch?v=rEUxlwb2uFI]",
+      "modifiedAt": 1775570014000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/rEUxlwb2uFI/mqdefault.jpg"
     },
     {
       "name": "The ten rules of techno.md",
@@ -647,7 +667,7 @@
       "content": "<!-- updated: 2026-01-24T23:26:44 -->\n#public\n[img http://www.cbc-net.com/log/images/2011/01/cbcnet_logo_150_rgb.png]\n\nhttps://www.cbc-net.com/\n\n>現代のデザイン、テクノロジー、カルチャーを横断的に伝えるインディペンデント・メディア\n>\n>CBCNET はアート、デザイン、テクノロジーとそれを取り巻くカルチャー関連の情報を発信する、ポータルサイトとして2002 年より運営。最新のアート、デザイン情報から注目のアーティストへのインタビュー、デザイン関係に特化した求人サイト「CBCNET:WORK」やデザインカンファレンス「APMT」などを主催しています。\n\n2020-06-08 の投稿が最新記事っぽいのでもう更新されてなさそう",
       "preview": "[img http://www.cbc-net.com/log/images/2011/01/cbcnet_logo_150_rgb.png]\nhttps://www.cbc-net.com/\n>現代のデザイン、テクノロジー、カルチャーを横断的に伝えるインディペンデント・メディア",
       "modifiedAt": 1769264804000,
-      "linkCount": 1,
+      "linkCount": 2,
       "thumbnailUrl": "http://www.cbc-net.com/log/images/2011/01/cbcnet_logo_150_rgb.png"
     },
     {
@@ -669,6 +689,16 @@
       "modifiedAt": 1770536704000,
       "linkCount": 0,
       "thumbnailUrl": "https://frenz.jp/images/frenz_logo.svg"
+    },
+    {
+      "name": "APMT NIGHT - 2011-04-30.md",
+      "slug": "APMT NIGHT - 2011-04-30",
+      "title": "APMT NIGHT - 2011-04-30",
+      "content": "<!-- updated: 2026-04-07T23:45:53 -->\n#public\n[img https://i.gyazo.com/6c4eaa3709392ab357a656796969f6b7.jpg]\n\n主催 : [[CBCNET]]\nラウンジフロアキュレーション : [[Bunkai-Kei records]]\n\nAct\n- Main Floor\n  - ATAK Dance Hall set : [[渋谷慶一郎]] + [[evala]] × [[wowdev]]\n  -  [[Typingmonkeys]] ( 平川紀道 × 野口久美子 )\n  - [[DUB-Russell]] × [[METAPHOR]]\n  - [[NERDZ ERA]] × [[lisglitch]]\n  - [[Quarta330]] × [[Genki Ito]]\n  - 『[[INFINITY LOOPS]]』Live Remix Session\n    - [[Coffee&Cigarettes Band]](DJ KENSEI & DJ SAGARAXX)\n    - [[DBKN]]\n    - [[Daisuke Tanabe]]\n    - [[TAKCOM]](素材提供)\n  - DJ [[nobuki nishiyama]]\n- Bunkai-Kei Lounge\n  - Live\n    - [[Leggysalad]]\n    - [[nanonum]]\n    - [[flady]]\n  - DJ\n    - [[Naohiro Yako]] (Bunkai-Kei records/flapper3)\n    - [[Qurea]]（moph record）\n    - [[rive]]\n    - [[TDCY]]\n\n企画に [[BRDG]] の前身が参加してそう\n\n🔗\n- https://www.cbc-net.com/log/?p=2474\n- https://creativecommons.jp/2011/04/21/remix-session/",
+      "preview": "[img https://i.gyazo.com/6c4eaa3709392ab357a656796969f6b7.jpg]\n主催 : [[CBCNET]]\nラウンジフロアキュレーション : [[Bunkai-Kei records]]",
+      "modifiedAt": 1775573153000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://i.gyazo.com/6c4eaa3709392ab357a656796969f6b7.jpg"
     },
     {
       "name": "ScrapboxでVJするためのChrome拡張を作った.md",
@@ -854,10 +884,10 @@
       "name": "BRDG.md",
       "slug": "BRDG",
       "title": "BRDG",
-      "content": "<!-- updated: 2026-01-18T18:06:41 -->\n#public\n[img https://pbs.twimg.com/profile_images/1192984925672108033/I_yTUpiK_400x400.jpg]\nhttp://brdg.tokyo/\n\nTOKYO based Audio/Visual Collective",
+      "content": "<!-- updated: 2026-04-07T23:30:43 -->\n#public\n[img https://pbs.twimg.com/profile_images/1192984925672108033/I_yTUpiK_400x400.jpg]\nhttp://brdg.tokyo/\n\nTOKYO based Audio/Visual Collective\n\nhttps://web.archive.org/web/20190204142612/http://tokyomax.jp/\n[[Max]] ユーザーの集いからいかに BRDG に変遷していったのか気になる\nhttps://naotokui.net/blog/%E6%96%B0%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%B8-tokyo-max-users-group/\n[[Nao Tokui]] 先生も関わってたの？",
       "preview": "[img https://pbs.twimg.com/profile_images/1192984925672108033/I_yTUpiK_400x400.jpg]\nhttp://brdg.tokyo/\nTOKYO based Audio/Visual Collective",
-      "modifiedAt": 1768727201000,
-      "linkCount": 1,
+      "modifiedAt": 1775572243000,
+      "linkCount": 2,
       "thumbnailUrl": "https://pbs.twimg.com/profile_images/1192984925672108033/I_yTUpiK_400x400.jpg"
     },
     {
@@ -927,7 +957,7 @@
       "content": "<!-- updated: 2026-02-08T19:20:00 -->\n#public\nhttps://cycling74.com/ja/products/jitter\n\n[[Max]] のためのヴィジュアル・ツール",
       "preview": "https://cycling74.com/ja/products/jitter\n[[Max]] のためのヴィジュアル・ツール",
       "modifiedAt": 1770546000000,
-      "linkCount": 1,
+      "linkCount": 2,
       "thumbnailUrl": null
     },
     {
@@ -1089,6 +1119,16 @@
       "modifiedAt": 1770543472000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/pGFOmKvA2l8/mqdefault.jpg"
+    },
+    {
+      "name": "渡部健司.md",
+      "slug": "渡部健司",
+      "title": "渡部健司",
+      "content": "<!-- updated: 2026-04-07T22:39:19 -->\n#public\nhttps://master.digital-campus.info/",
+      "preview": "https://master.digital-campus.info/",
+      "modifiedAt": 1775569159000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "パラノとスキゾ.md",
@@ -1342,6 +1382,16 @@
       "thumbnailUrl": "https://hexler.net/site/images/logos/hexler_logo-white.svg"
     },
     {
+      "name": "SLUMLORDZ ~ SANDWICH.md",
+      "slug": "SLUMLORDZ ~ SANDWICH",
+      "title": "SLUMLORDZ ~ SANDWICH",
+      "content": "<!-- updated: 2026-04-07T22:43:48 -->\n#public\n[yt https://www.youtube.com/watch?v=4wfuK_AbZiQ]\n\n[[Nam Mac]]",
+      "preview": "[yt https://www.youtube.com/watch?v=4wfuK_AbZiQ]\n[[Nam Mac]]",
+      "modifiedAt": 1775569428000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/4wfuK_AbZiQ/mqdefault.jpg"
+    },
+    {
       "name": "Compofiller Studio.md",
       "slug": "Compofiller Studio",
       "title": "Compofiller Studio",
@@ -1520,6 +1570,16 @@
       "modifiedAt": 1771430014000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.hmv.co.jp/image/jacket/400/28/1/3/841.jpg"
+    },
+    {
+      "name": "REPUBLIC - 2017-06-24.md",
+      "slug": "REPUBLIC - 2017-06-24",
+      "title": "REPUBLIC - 2017-06-24",
+      "content": "<!-- updated: 2026-04-07T23:13:16 -->\n#public\n[img https://i.gyazo.com/b5e5054b65772962c82dca4b8b580336.jpg]\n\n[[映像作家100人]]のリリパも兼ねてるらしい\n\nAct\n- Live\n  - [[ぼくのりりっくのぼうよみ]]\n  - [[tofubeats]]\n  - [[DAOKO]]\n  - [[雨のパレード]]\n  - [[Nyantora]]\n  - [[環ROY]]\n  - [[宮内優里]]\n  - [[STUTS]]\n  - [[KAMRA]]\n  - [[chelmico]]\n  - [[Taquwami]]\n  - [[Maika Loubté]]\n  - [[國本怜]]\n  - [[Lycoriscoris]]\n  - [[wkes]]\n- DJ\n  - [[OL Killer]]\n  - [[TeddyLoid]]\n  - [[VENUS KAWAMURA YUKI]]\n  - [[i-sakurai]]\n  - [[DJ SHIORI]]\n  - [[M’osawa]]\n  - [[SHIGAMIKI]]\n  - [[jazzu de osaka]]\n  - [[YonYon]]\n  - [[neonao]]\n  - [[specialswitch]]\n  - [[KENJI MARUYAMA]]\n  - [[TSUBASA YASUDA]]\n- VJ\n  - [[A4A]]\n  - [[田向潤]]\n  - [[PLAMOV]]\n  - [[tao tajima]] / [[shohei asano]] / [[shunj]]\n  - [[平岡政展]] / [[稲葉秀樹]]\n  - [[三嶋章義]]\n  - [[常橋岳志]]\n  - [[bait]]\n  - [[橋本麦]]\n  - [[林響太朗]] / [[hydekick]]\n  - [[AID-DCC]]\n  - [[大橋史]]\n  - [[H2-T2]]\n  - [[moxus]]\n  - [[irishoak]]\n  - [[Masatatsu Nakamura]]\n  - [[MIKA (midori-gumi)]]\n\nVenue\n- [[WOMB]]\n\n🔗\n- https://www.womb.co.jp/event/2017/06/24/republic/",
+      "preview": "[img https://i.gyazo.com/b5e5054b65772962c82dca4b8b580336.jpg]\n[[映像作家100人]]のリリパも兼ねてるらしい\nAct",
+      "modifiedAt": 1775571196000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://i.gyazo.com/b5e5054b65772962c82dca4b8b580336.jpg"
     },
     {
       "name": "meow mix.md",
@@ -2382,6 +2442,16 @@
       "thumbnailUrl": "https://gyazo.com/8c3cfc3c480974d95c2925d7397ca79c/max_size/1000"
     },
     {
+      "name": "hyperballad.md",
+      "slug": "hyperballad",
+      "title": "hyperballad",
+      "content": "<!-- updated: 2026-04-07T22:51:46 -->\n#public\n[yt https://www.youtube.com/watch?v=6CSiU0j_lFA]\n\n[[björk]]\n[[Michel Gondry]]",
+      "preview": "[yt https://www.youtube.com/watch?v=6CSiU0j_lFA]\n[[björk]]\n[[Michel Gondry]]",
+      "modifiedAt": 1775569906000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/6CSiU0j_lFA/mqdefault.jpg"
+    },
+    {
       "name": "Pretty Fly (For A White Guy).md",
       "slug": "Pretty Fly (For A White Guy)",
       "title": "Pretty Fly (For A White Guy)",
@@ -2498,7 +2568,7 @@
       "content": "<!-- updated: 2026-01-24T17:46:48 -->\n#public\nhttps://baku89.com/\n\n[[baku89]]",
       "preview": "https://baku89.com/\n[[baku89]]",
       "modifiedAt": 1769244408000,
-      "linkCount": 4,
+      "linkCount": 5,
       "thumbnailUrl": null
     },
     {
@@ -2600,6 +2670,16 @@
       "modifiedAt": 1770561937000,
       "linkCount": 0,
       "thumbnailUrl": "https://gyazo.com/59516be4a8454b86b627e35e255bdb70/max_size/1000"
+    },
+    {
+      "name": "Max.md",
+      "slug": "Max",
+      "title": "Max",
+      "content": "<!-- updated: 2026-04-07T23:27:27 -->\n#public\nhttps://cycling74.com/ja/products/max\n\n[[Jitter]] も含めて Max と言ってたっぽい？",
+      "preview": "https://cycling74.com/ja/products/max\n[[Jitter]] も含めて Max と言ってたっぽい？",
+      "modifiedAt": 1775572047000,
+      "linkCount": 2,
+      "thumbnailUrl": null
     },
     {
       "name": "Generative Art Timeline.md",
@@ -3465,9 +3545,9 @@
       "name": "パリに咲くエトワール.md",
       "slug": "パリに咲くエトワール",
       "title": "パリに咲くエトワール",
-      "content": "<!-- updated: 2026-03-30T21:17:30 -->\n#public\nhttps://sh-anime.shochiku.co.jp/parieto-movie/\n\n監督 : [[谷口悟朗]]\n脚本 : [[吉田玲子]]\nキャラクター原案 : [[近藤勝也]]\n音楽 : [[服部隆之]]\nアニメーション制作 : [[アルボアニメーション]]\n\n他者の [[studious]] に感化されてたし\nメリトクラシーが人種のそれを越えてたし\n無駄のない起伏だったしで\n\n例の 3D シーンは個が集団に溶け込むことを表しているのではという感想を観た、なるほどなどと",
+      "content": "<!-- updated: 2026-04-07T23:00:53 -->\n#public\nhttps://sh-anime.shochiku.co.jp/parieto-movie/\n\n監督 : [[谷口悟朗]]\n脚本 : [[吉田玲子]]\nキャラクター原案 : [[近藤勝也]]\n音楽 : [[服部隆之]]\nアニメーション制作 : [[アルボアニメーション]]\n\n他者の [[studious]] に感化されてたし\nメリトクラシーが人種のそれを越えてたし\n無駄のない起伏だったしで\n\n例の 3D シーンは個が集団に溶け込むことを表しているのではという感想をみてなるほどなどと",
       "preview": "https://sh-anime.shochiku.co.jp/parieto-movie/\n監督 : [[谷口悟朗]]\n脚本 : [[吉田玲子]]",
-      "modifiedAt": 1774873050000,
+      "modifiedAt": 1775570453000,
       "linkCount": 0,
       "thumbnailUrl": null
     },
@@ -3772,6 +3852,16 @@
       "thumbnailUrl": "https://pbs.twimg.com/media/GuNfwfLakAAz0MB?format=jpg&name=4096x4096"
     },
     {
+      "name": "Default mode network.md",
+      "slug": "Default mode network",
+      "title": "Default mode network",
+      "content": "<!-- updated: 2026-04-07T01:13:50 -->\n#public\nhttps://en.wikipedia.org/wiki/Default_mode_network\n\n散歩とか、刺激が少ない状況が続くと色々考えちゃうあれ",
+      "preview": "https://en.wikipedia.org/wiki/Default_mode_network\n散歩とか、刺激が少ない状況が続くと色々考えちゃうあれ",
+      "modifiedAt": 1775492030000,
+      "linkCount": 0,
+      "thumbnailUrl": null
+    },
+    {
       "name": "良さは多元的.md",
       "slug": "良さは多元的",
       "title": "良さは多元的",
@@ -4018,6 +4108,7 @@
       }
     ],
     "Rubber Johnny": [],
+    "The City": [],
     "12 o'clocks": [],
     "とらドラ!": [
       {
@@ -4087,6 +4178,7 @@
         "preview": "[img https://q5js.org/assets/q5js_brand-light.avif]\nhttps://q5js.org/home/\nhttps://github.com/q5js/q5.js"
       }
     ],
+    "Love & Theft": [],
     "The ten rules of techno": [],
     "KaTeX": [],
     "WING IT!!!": [],
@@ -4197,6 +4289,11 @@
     "個人心理学": [],
     "CBCNET": [
       {
+        "slug": "APMT NIGHT - 2011-04-30",
+        "title": "APMT NIGHT - 2011-04-30",
+        "preview": "[img https://i.gyazo.com/6c4eaa3709392ab357a656796969f6b7.jpg]\n主催 : [[CBCNET]]\nラウンジフロアキュレーション : [[Bunkai-Kei records]]"
+      },
+      {
         "slug": "Algorave Tokyo - 2017-12-22",
         "title": "Algorave Tokyo - 2017-12-22",
         "preview": "[img https://gyazo.com/2171299b02f741248496cb7af3a6b52e/max_size/1000]\n[[Algorave]] のイベント\nAct"
@@ -4204,6 +4301,7 @@
     ],
     "EditorConfig": [],
     "FRENZ": [],
+    "APMT NIGHT - 2011-04-30": [],
     "ScrapboxでVJするためのChrome拡張を作った": [],
     "Flexoki": [],
     "Basic認証": [],
@@ -4250,6 +4348,11 @@
         "slug": "VRDG+H _1 - 2016-03-26",
         "title": "VRDG+H #1 - 2016-03-26",
         "preview": "[img https://gyazo.com/ce3164e02c0df5c55169b9873647a2e7/max_size/1000]\n主催：[[HIP LAND MUSIC CORPORATION]]\n企画：HIP LAND MUSIC CORPORATION / [[BRDG]]"
+      },
+      {
+        "slug": "APMT NIGHT - 2011-04-30",
+        "title": "APMT NIGHT - 2011-04-30",
+        "preview": "[img https://i.gyazo.com/6c4eaa3709392ab357a656796969f6b7.jpg]\n主催 : [[CBCNET]]\nラウンジフロアキュレーション : [[Bunkai-Kei records]]"
       }
     ],
     "Algorave x NxPC.Lab at Tokyo (IAMAS) - 2018-11-18": [],
@@ -4263,6 +4366,11 @@
         "slug": "ジェネ系VJの語源",
         "title": "ジェネ系VJの語源",
         "preview": "未整理気味\n[tw https://x.com/Kezzardrix/status/1927027064223248666?s=20]\n- https://www.ameet.jp/digital-imaging/485/"
+      },
+      {
+        "slug": "Max",
+        "title": "Max",
+        "preview": "https://cycling74.com/ja/products/max\n[[Jitter]] も含めて Max と言ってたっぽい？"
       }
     ],
     "ニンテンドーダイレクト 2008.3.2 FM Slideshow (Sparkle)": [],
@@ -4320,6 +4428,7 @@
     ],
     "Terminal Slam": [],
     "Candy -TokyoDemoFest2013 Invitation": [],
+    "渡部健司": [],
     "パラノとスキゾ": [],
     "読み手が本を面白くする": [
       {
@@ -4492,6 +4601,7 @@
         "preview": "[img https://gyazo.com/fc7c41c71ceea36c4b0176780344907f/max_size/1000]\nhttps://algorave.tokyo/\n東京で行われた [[Algorave]] のイベント"
       }
     ],
+    "SLUMLORDZ ~ SANDWICH": [],
     "Compofiller Studio": [],
     "Someday": [],
     "Condition": [],
@@ -4548,6 +4658,7 @@
     "The Useless Web": [],
     "Trick Or Treat 2024": [],
     "パンコレ ～voice actresses' legendary punk songs collection～": [],
+    "REPUBLIC - 2017-06-24": [],
     "meow mix": [],
     "トラックバック": [],
     "Le Random": [
@@ -4889,6 +5000,7 @@
     "Back to Body": [],
     "圏論とコード": [],
     "デカいという面白さ": [],
+    "hyperballad": [],
     "Pretty Fly (For A White Guy)": [
       {
         "slug": "パンコレ ～voice actresses' legendary punk songs collection～",
@@ -4936,6 +5048,11 @@
         "preview": "[yt https://www.youtube.com/watch?v=x9ecFU7w0NE]\n[[宇多田ヒカル]]\n[[橋本麦]]"
       },
       {
+        "slug": "REPUBLIC - 2017-06-24",
+        "title": "REPUBLIC - 2017-06-24",
+        "preview": "[img https://i.gyazo.com/b5e5054b65772962c82dca4b8b580336.jpg]\n[[映像作家100人]]のリリパも兼ねてるらしい\nAct"
+      },
+      {
         "slug": "ATA",
         "title": "ATA",
         "preview": "[yt https://www.youtube.com/watch?v=DEzuZlUB3zM]\n[[Olga Bell]]\n[[橋本麦]]"
@@ -4961,6 +5078,18 @@
     "cpp-httplib": [],
     "エンゼルフィッシュ": [],
     "ジェネ系VJの語源": [],
+    "Max": [
+      {
+        "slug": "BRDG",
+        "title": "BRDG",
+        "preview": "[img https://pbs.twimg.com/profile_images/1192984925672108033/I_yTUpiK_400x400.jpg]\nhttp://brdg.tokyo/\nTOKYO based Audio/Visual Collective"
+      },
+      {
+        "slug": "Jitter",
+        "title": "Jitter",
+        "preview": "https://cycling74.com/ja/products/jitter\n[[Max]] のためのヴィジュアル・ツール"
+      }
+    ],
     "Generative Art Timeline": [],
     "Atrium": [],
     "Soda City Funk": [],
@@ -5321,6 +5450,7 @@
       }
     ],
     "Flow vol.7 - 2025-07-15": [],
+    "Default mode network": [],
     "良さは多元的": [
       {
         "slug": "デカいという面白さ",
