@@ -2762,6 +2762,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/dGqdx7FufQ0/mqdefault.jpg"
     },
     {
+      "name": "Max Cooper - Rule 110.md",
+      "slug": "Max Cooper - Rule 110",
+      "title": "Max Cooper - Rule 110",
+      "content": "<!-- updated: 2026-04-08T23:10:42 -->\n#public\n[yt https://www.youtube.com/watch?v=5kV0AX9QWeI]\n\n[[Max Cooper]]\n[[Raven Kwok]]\n\n[[Rule 110]] の MV",
+      "preview": "[yt https://www.youtube.com/watch?v=5kV0AX9QWeI]\n[[Max Cooper]]\n[[Raven Kwok]]",
+      "modifiedAt": 1775657442000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/5kV0AX9QWeI/mqdefault.jpg"
+    },
+    {
       "name": "Alberto Balsalm (Super Mario 64 Remix).md",
       "slug": "Alberto Balsalm (Super Mario 64 Remix)",
       "title": "Alberto Balsalm (Super Mario 64 Remix)",
@@ -2970,6 +2980,16 @@
       "modifiedAt": 1768643564000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/xwdiTT-XM74/mqdefault.jpg"
+    },
+    {
+      "name": "Raven Kwok.md",
+      "slug": "Raven Kwok",
+      "title": "Raven Kwok",
+      "content": "<!-- updated: 2026-04-08T23:18:31 -->\n#public\nhttps://ravenkwok.com/\n\nいいなぁ",
+      "preview": "https://ravenkwok.com/\nいいなぁ",
+      "modifiedAt": 1775657911000,
+      "linkCount": 1,
+      "thumbnailUrl": null
     },
     {
       "name": "Wiki の私物化.md",
@@ -3325,9 +3345,9 @@
       "name": "Oneohtrix Point Never.md",
       "slug": "Oneohtrix Point Never",
       "title": "Oneohtrix Point Never",
-      "content": "<!-- updated: 2026-02-12T00:14:43 -->\n#public\nhttps://pointnever.com/\n\nサイトヤバすぎるやろ",
-      "preview": "https://pointnever.com/\nサイトヤバすぎるやろ",
-      "modifiedAt": 1770822883000,
+      "content": "<!-- updated: 2026-04-08T01:04:30 -->\n#public\nhttps://pointnever.com/\n\nサイトヤバすぎるやろ\n\n[[Zepp DiverCity]] で観た\n爆音で気持ち良かった\n[[Freeka Tet]] の visual やばかった\n気持ち良すぎたのか途中立ちながら寝てる時間あってやばかった\n",
+      "preview": "https://pointnever.com/\nサイトヤバすぎるやろ\n[[Zepp DiverCity]] で観た",
+      "modifiedAt": 1775577870000,
       "linkCount": 2,
       "thumbnailUrl": null
     },
@@ -3430,6 +3450,16 @@
       "modifiedAt": 1770048067000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/e7QeR0VxnlA/mqdefault.jpg"
+    },
+    {
+      "name": "Max Cooper.md",
+      "slug": "Max Cooper",
+      "title": "Max Cooper",
+      "content": "<!-- updated: 2026-04-08T23:12:03 -->\n#public\nhttps://maxcooper.net/\n\n色んなアーティストに MV を制作してもらってる\n\n[[VENT]] で観た",
+      "preview": "https://maxcooper.net/\n色んなアーティストに MV を制作してもらってる\n[[VENT]] で観た",
+      "modifiedAt": 1775657523000,
+      "linkCount": 6,
+      "thumbnailUrl": null
     },
     {
       "name": "Ghost Voices.md",
@@ -3952,6 +3982,16 @@
       "thumbnailUrl": "https://img.youtube.com/vi/OZJERhc4Zqo/mqdefault.jpg"
     },
     {
+      "name": "鳩の巣原理.md",
+      "slug": "鳩の巣原理",
+      "title": "鳩の巣原理",
+      "content": "<!-- updated: 2026-04-08T22:34:06 -->\n#public\n[img https://i.gyazo.com/866790dc6539afe1e6b651345a56c092.webp]\n\nm 個のものを n 個のグループにわける。m が n より大きいなら，必ず2つ以上のものが属するグループが存在する。\n\nhttps://manabitimes.jp/math/692",
+      "preview": "[img https://i.gyazo.com/866790dc6539afe1e6b651345a56c092.webp]\nm 個のものを n 個のグループにわける。m が n より大きいなら，必ず2つ以上のものが属するグループが存在する。\nhttps://manabitimes.jp/math/692",
+      "modifiedAt": 1775655246000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://i.gyazo.com/866790dc6539afe1e6b651345a56c092.webp"
+    },
+    {
       "name": "Blend Slipknot.md",
       "slug": "Blend Slipknot",
       "title": "Blend Slipknot",
@@ -4010,6 +4050,16 @@
       "modifiedAt": 1769879851000,
       "linkCount": 0,
       "thumbnailUrl": "https://img.youtube.com/vi/0S43IwBF0uM/mqdefault.jpg"
+    },
+    {
+      "name": "Brainfuck.md",
+      "slug": "Brainfuck",
+      "title": "Brainfuck",
+      "content": "<!-- updated: 2026-04-08T23:19:55 -->\n#public\nhttps://ja.wikipedia.org/wiki/Brainfuck\n\nやば言語",
+      "preview": "https://ja.wikipedia.org/wiki/Brainfuck\nやば言語",
+      "modifiedAt": 1775657995000,
+      "linkCount": 0,
+      "thumbnailUrl": null
     },
     {
       "name": "生活core.md",
@@ -5120,6 +5170,7 @@
         "preview": "[img https://nxpclab.info/vol.12/img/flyer_front_shadow.png]\n[[NxPC.Lab]] のイベント\nAct"
       }
     ],
+    "Max Cooper - Rule 110": [],
     "Alberto Balsalm (Super Mario 64 Remix)": [],
     "Enter the Void - Opening Title Sequence": [],
     "Blogtrottr": [],
@@ -5186,6 +5237,13 @@
     "Glitch": [],
     "wiki 兼 ブログ 兼 メモ 兼 ポートフォリオ": [],
     "Apollo": [],
+    "Raven Kwok": [
+      {
+        "slug": "Max Cooper - Rule 110",
+        "title": "Max Cooper - Rule 110",
+        "preview": "[yt https://www.youtube.com/watch?v=5kV0AX9QWeI]\n[[Max Cooper]]\n[[Raven Kwok]]"
+      }
+    ],
     "Wiki の私物化": [],
     "アウトライン編集": [],
     "Kindolphin": [],
@@ -5325,6 +5383,38 @@
     "ALCOM": [],
     "Platonic": [],
     "EON BREAK": [],
+    "Max Cooper": [
+      {
+        "slug": "Repetition",
+        "title": "Repetition",
+        "preview": "[yt https://www.youtube.com/watch?v=nO9aot9RgQc]\n[[Max Cooper]]\n[[Kevin McGloughlin]]"
+      },
+      {
+        "slug": "A Sense Of Getting Closer",
+        "title": "A Sense Of Getting Closer",
+        "preview": "[yt https://youtu.be/4jaHcz3d85w?si=hyWzNfEQAx3wx1j7]\n[[Max Cooper]]\n[[Conner Griffith]]"
+      },
+      {
+        "slug": "Fibonacci Sequence",
+        "title": "Fibonacci Sequence",
+        "preview": "[yt https://www.youtube.com/watch?v=BgBsMqFHx6M]\n[[Max Cooper]]\n[[Yoshi Sodeoka]]"
+      },
+      {
+        "slug": "Max Cooper - Rule 110",
+        "title": "Max Cooper - Rule 110",
+        "preview": "[yt https://www.youtube.com/watch?v=5kV0AX9QWeI]\n[[Max Cooper]]\n[[Raven Kwok]]"
+      },
+      {
+        "slug": "Platonic",
+        "title": "Platonic",
+        "preview": "[yt https://www.youtube.com/watch?v=9FKRSuG_Nmk]\n[[Max Cooper]]\n[[Páraic Mc Gloughlin]]"
+      },
+      {
+        "slug": "Symphony in Acid",
+        "title": "Symphony in Acid",
+        "preview": "[yt https://www.youtube.com/watch?v=_n_iKR3Icio]\n[[Max Cooper]]\n[[Ksawery Komputery]]"
+      }
+    ],
     "Ghost Voices": [],
     "Log-polar coordinates": [],
     "Unity _ シェーダに渡すテクスチャのデフォルト値": [],
@@ -5488,12 +5578,14 @@
     "PAPERS": [],
     "シェル": [],
     "azumanga click house": [],
+    "鳩の巣原理": [],
     "Blend Slipknot": [],
     "え～～～とつまりVJは・・・曲に合わせてリアルタイムで映像を編集する・・・・・・・・・人？": [],
     "してる感": [],
     "RFCにおいて要請の程度を示すために用いるキーワード": [],
     "NxPC.Lab Vol.12 - 2012-03-24": [],
     "Star Guitar": [],
+    "Brainfuck": [],
     "生活core": [],
     "Starlight": [],
     "End of time": [],
