@@ -151,6 +151,16 @@
       "thumbnailUrl": "https://p5js.jp/assets/img/p5js.svg"
     },
     {
+      "name": "mfx.md",
+      "slug": "mfx",
+      "title": "mfx",
+      "content": "<!-- updated: 2026-04-09T21:47:41 -->\n#public\nhttps://mfx.scene.org/\n\n",
+      "preview": "https://mfx.scene.org/",
+      "modifiedAt": 1775738861000,
+      "linkCount": 4,
+      "thumbnailUrl": null
+    },
+    {
       "name": "Love & Theft.md",
       "slug": "Love & Theft",
       "title": "Love & Theft",
@@ -521,6 +531,16 @@
       "thumbnailUrl": "https://natureofcode.com/static/18df89731f3e9900d7f93faf5febcb7e/e9d78/0.webp"
     },
     {
+      "name": "Aenigma by Latitude Independent Association.md",
+      "slug": "Aenigma by Latitude Independent Association",
+      "title": " Aenigma by Latitude Independent Association",
+      "content": "<!-- updated: 2026-04-09T21:38:01 -->\n<!-- title:  Aenigma by Latitude Independent Association -->\n#public\n[yt https://www.youtube.com/watch?v=6kgRBxQnsjs]\n\n[[8k intro]]\n\n🔗\n- https://www.pouet.net/prod.php?which=105937\n- https://demozoo.org/productions/390002/",
+      "preview": "[yt https://www.youtube.com/watch?v=6kgRBxQnsjs]\n[[8k intro]]\n🔗",
+      "modifiedAt": 1775738281000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/6kgRBxQnsjs/mqdefault.jpg"
+    },
+    {
       "name": "VRDG+H _1 - 2016-03-26.md",
       "slug": "VRDG+H _1 - 2016-03-26",
       "title": "VRDG+H #1 - 2016-03-26",
@@ -709,6 +729,16 @@
       "modifiedAt": 1769433109000,
       "linkCount": 0,
       "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1225749880938758144/pu/img/K1JQ7SBwQtKQlfOU.jpg"
+    },
+    {
+      "name": "Squidopus Famelica by With Love.md",
+      "slug": "Squidopus Famelica by With Love",
+      "title": "Squidopus Famelica by With Love",
+      "content": "<!-- updated: 2026-04-09T21:31:13 -->\n#public\n[yt https://www.youtube.com/watch?v=mOlfKTPGmHc]\n\n[[64k intro]]\n\n🔗\n- https://www.pouet.net/prod.php?which=105944\n- https://demozoo.org/productions/390014/",
+      "preview": "[yt https://www.youtube.com/watch?v=mOlfKTPGmHc]\n[[64k intro]]\n🔗",
+      "modifiedAt": 1775737873000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/mOlfKTPGmHc/mqdefault.jpg"
     },
     {
       "name": "Flexoki.md",
@@ -939,6 +969,16 @@
       "modifiedAt": 1770727756000,
       "linkCount": 0,
       "thumbnailUrl": "https://pbs.twimg.com/media/HAx9Z-faAAQ1kAG.jpg?name=orig"
+    },
+    {
+      "name": "ABOMINATION by mfx.md",
+      "slug": "ABOMINATION by mfx",
+      "title": "ABOMINATION by mfx",
+      "content": "<!-- updated: 2026-04-09T21:46:23 -->\n#public\n[yt https://www.youtube.com/watch?v=JrKw5twjFeI]\n\n[[mfx]]\n\n🔗\n- https://www.pouet.net/prod.php?which=105955\n- https://demozoo.org/productions/390053/",
+      "preview": "[yt https://www.youtube.com/watch?v=JrKw5twjFeI]\n[[mfx]]\n🔗",
+      "modifiedAt": 1775738783000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/JrKw5twjFeI/mqdefault.jpg"
     },
     {
       "name": "lilToon.md",
@@ -1177,7 +1217,7 @@
       "content": "<!-- updated: 2026-02-08T23:16:49 -->\n#public\n[[Demo]] のサブカテゴリ\n\nhttps://in4k.github.io/wiki/aulds-4kb-introduction\n\nhttps://yosshin4004.github.io/demoscene/overview/index.html#If_there_were_no_restrictions_at_all\n>もしデモコンポに制約が一切無かったら、 プログラミング技術で競う意味が無くなってしまいます。\n>\n>例えば、デモがネットワークに接続することを許可したらどうなるでしょうか？ 単に youtube にアップロード済みの動画を再生するだけのデモがエントリ可能になってしまいます。 同様にファイルサイズを無制限にしてしまうと、 巨大な動画ファイルを埋め込んだだけのデモがエントリ可能になってしまいます。 そうなってしまうと、デモコンポはショートフィルムコンポと差異が無くなり、 もはやプログラミング技術は不要になってしまいます。\n>\n>ゲームエンジンを利用したデモも同様の問題を抱えています。 ストアで購入した豪華アセットを利用したカットシーンを ゲームエンジン上で再生するだけのデモで競う状況が発生してしまうと、 デモコンポはアセットにどれだけお金を掛けられるか？という資金力競争になってしまいます。",
       "preview": "[[Demo]] のサブカテゴリ\nhttps://in4k.github.io/wiki/aulds-4kb-introduction\nhttps://yosshin4004.github.io/demoscene/overview/index.html#If_there_were_no_restrictions_at_all",
       "modifiedAt": 1770560209000,
-      "linkCount": 17,
+      "linkCount": 18,
       "thumbnailUrl": null
     },
     {
@@ -1320,6 +1360,16 @@
       "modifiedAt": 1769950178000,
       "linkCount": 0,
       "thumbnailUrl": null
+    },
+    {
+      "name": "duo by Nuance.md",
+      "slug": "duo by Nuance",
+      "title": "duo by Nuance",
+      "content": "<!-- updated: 2026-04-09T21:27:19 -->\n#public\n[yt https://www.youtube.com/watch?v=Zar5wRT_GCo]\n\n[[4k intro]]\n[[Nuance]]\n\n🔗\n- https://www.pouet.net/prod.php?which=106002\n- https://demozoo.org/productions/389778/",
+      "preview": "[yt https://www.youtube.com/watch?v=Zar5wRT_GCo]\n[[4k intro]]\n[[Nuance]]",
+      "modifiedAt": 1775737639000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/Zar5wRT_GCo/mqdefault.jpg"
     },
     {
       "name": "Mine or Yours (Bella Boo Remix).md",
@@ -2318,7 +2368,7 @@
       "content": "<!-- updated: 2026-01-17T19:50:20 -->\n#public\n[[Demo]] のサブカテゴリの一つ\n\n魂",
       "preview": "[[Demo]] のサブカテゴリの一つ\n魂",
       "modifiedAt": 1768647020000,
-      "linkCount": 6,
+      "linkCount": 8,
       "thumbnailUrl": null
     },
     {
@@ -2370,6 +2420,16 @@
       "modifiedAt": 1768651023000,
       "linkCount": 0,
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/2560px-Claude_AI_logo.svg.png"
+    },
+    {
+      "name": "a deepness in the sky by mfx.md",
+      "slug": "a deepness in the sky by mfx",
+      "title": "a deepness in the sky by mfx ",
+      "content": "<!-- updated: 2026-04-09T21:51:29 -->\n<!-- title: a deepness in the sky by mfx  -->\n#public\n[yt https://www.youtube.com/watch?v=WPBbp5DGEDA]\n\n[[mfx]]\n\n🔗\n- https://www.pouet.net/prod.php?which=8282\n- https://demozoo.org/productions/56943/",
+      "preview": "[yt https://www.youtube.com/watch?v=WPBbp5DGEDA]\n[[mfx]]\n🔗",
+      "modifiedAt": 1775739089000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/WPBbp5DGEDA/mqdefault.jpg"
     },
     {
       "name": "Bonzomatic.md",
@@ -4062,6 +4122,16 @@
       "thumbnailUrl": null
     },
     {
+      "name": "inSight by Approximate.md",
+      "slug": "inSight by Approximate",
+      "title": "inSight by Approximate",
+      "content": "<!-- updated: 2026-04-09T21:33:58 -->\n#public\n[yt https://www.youtube.com/watch?v=AZM_fw2CSnQ]\n\n[[64k intro]]\n\n🔗\n- https://www.pouet.net/prod.php?which=105959\n- https://demozoo.org/productions/390015/",
+      "preview": "[yt https://www.youtube.com/watch?v=AZM_fw2CSnQ]\n[[64k intro]]\n🔗",
+      "modifiedAt": 1775738038000,
+      "linkCount": 0,
+      "thumbnailUrl": "https://img.youtube.com/vi/AZM_fw2CSnQ/mqdefault.jpg"
+    },
+    {
       "name": "生活core.md",
       "slug": "生活core",
       "title": "生活core",
@@ -4228,6 +4298,28 @@
         "preview": "[img https://q5js.org/assets/q5js_brand-light.avif]\nhttps://q5js.org/home/\nhttps://github.com/q5js/q5.js"
       }
     ],
+    "mfx": [
+      {
+        "slug": "ABOMINATION by mfx",
+        "title": "ABOMINATION by mfx",
+        "preview": "[yt https://www.youtube.com/watch?v=JrKw5twjFeI]\n[[mfx]]\n🔗"
+      },
+      {
+        "slug": "a deepness in the sky by mfx",
+        "title": "a deepness in the sky by mfx ",
+        "preview": "[yt https://www.youtube.com/watch?v=WPBbp5DGEDA]\n[[mfx]]\n🔗"
+      },
+      {
+        "slug": "deities",
+        "title": "deities",
+        "preview": "[yt https://www.youtube.com/watch?v=Ij6XVCsuiPI]\n[[mfx]]\n🔗"
+      },
+      {
+        "slug": "Hypnosis",
+        "title": "Hypnosis",
+        "preview": "[yt https://www.youtube.com/watch?v=-F_jyeRJJLY]\n[[mfx]]\n🔗"
+      }
+    ],
     "Love & Theft": [],
     "The ten rules of techno": [],
     "KaTeX": [],
@@ -4305,6 +4397,7 @@
       }
     ],
     "Nature of Code": [],
+    "Aenigma by Latitude Independent Association": [],
     "VRDG+H _1 - 2016-03-26": [],
     "biimシステム": [],
     "超越論的なんちゃってビリティ": [
@@ -4353,6 +4446,7 @@
     "FRENZ": [],
     "APMT NIGHT - 2011-04-30": [],
     "ScrapboxでVJするためのChrome拡張を作った": [],
+    "Squidopus Famelica by With Love": [],
     "Flexoki": [],
     "Basic認証": [],
     "in perspective": [],
@@ -4410,6 +4504,7 @@
     "Corporate Memphis": [],
     "Gyazo": [],
     "イアンのナードコア大百科": [],
+    "ABOMINATION by mfx": [],
     "lilToon": [],
     "Jitter": [
       {
@@ -4527,6 +4622,11 @@
         "preview": "[yt https://www.youtube.com/watch?v=CA1H7vFCiS0]\n[[4k intro]]\n🔗"
       },
       {
+        "slug": "duo by Nuance",
+        "title": "duo by Nuance",
+        "preview": "[yt https://www.youtube.com/watch?v=Zar5wRT_GCo]\n[[4k intro]]\n[[Nuance]]"
+      },
+      {
         "slug": "Compofiller Studio",
         "title": "Compofiller Studio",
         "preview": "[img https://i.gyazo.com/4fe82fd140825a4f5e6cff7f36b0469d.jpg]\nhttp://www.kameli.net/compofillerstudio/http://www.kameli.net/compofillerstudio/\n[[4klang]] music + [[GLSL]] shader = [[4k intro]]"
@@ -4629,6 +4729,7 @@
     "Prism.js": [],
     "スターラブレイション": [],
     "寿司打": [],
+    "duo by Nuance": [],
     "Mine or Yours (Bella Boo Remix)": [],
     "OpenProcessing": [],
     "Slidev": [],
@@ -4985,6 +5086,11 @@
     "Reflex": [],
     "64k intro": [
       {
+        "slug": "Squidopus Famelica by With Love",
+        "title": "Squidopus Famelica by With Love",
+        "preview": "[yt https://www.youtube.com/watch?v=mOlfKTPGmHc]\n[[64k intro]]\n🔗"
+      },
+      {
         "slug": "Chaos Theory",
         "title": "Chaos Theory",
         "preview": "[yt https://www.youtube.com/watch?v=gfk5Mqy3gpA]\n[[64k intro]]\n[[Conspiracy]]"
@@ -5013,6 +5119,11 @@
         "slug": "Domain",
         "title": "Domain",
         "preview": "[yt https://www.youtube.com/watch?v=D2COWeeEqTs]\n[[64k intro]]\n[[0b5vr]]"
+      },
+      {
+        "slug": "inSight by Approximate",
+        "title": "inSight by Approximate",
+        "preview": "[yt https://www.youtube.com/watch?v=AZM_fw2CSnQ]\n[[64k intro]]\n🔗"
       }
     ],
     "Bad Application": [],
@@ -5026,6 +5137,7 @@
     "キリトリセン": [],
     "KodeLife": [],
     "Claude Code": [],
+    "a deepness in the sky by mfx": [],
     "Bonzomatic": [
       {
         "slug": "draw()_ _7 VJ 振り返り - 2026-02-15",
@@ -5586,6 +5698,7 @@
     "NxPC.Lab Vol.12 - 2012-03-24": [],
     "Star Guitar": [],
     "Brainfuck": [],
+    "inSight by Approximate": [],
     "生活core": [],
     "Starlight": [],
     "End of time": [],
